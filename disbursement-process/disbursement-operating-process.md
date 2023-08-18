@@ -43,12 +43,16 @@ For many nation states or corporations there may or may not be any official form
 
 Treasury funds could be disbursed to a wide range of different initiatives that each can have their own opportunities and tradeoffs. Good prioritisation for an ecosystem can mean the difference between sustainability and growth over the long term over stagnation and decline. Ecosystem participants involved in the disbursement process decisions will want to apply all of the relevant knowledge about the ecosystem to better define and determine which priorities are the most important at that given moment in time.
 
+
+
 **What happens in existing systems**
 
 In both nation state and corporation operating structures there could be open invites for more information, expertise and different perspectives from other employees in the organisation or even external consumers and citizens before priorities are set for that organisation.
 
 * **Nation states** - Elected officials or employees helping to operate nation state treasuries would use any accumulated knowledge to suggest and select priorities to address based on the current problems or opportunities for the nation. If the nation states mandate is to help provide stability and growth for the nation using its economic policy then how treasury funds are used will likely mapped to the adoption of priorities that are derived from this mandate.
 * **Corporations** - The leadership, management or board of directors of the corporation are the most likely to handle setting priorities and would be applying the knowledge they have to determine what problems and opportunities could most benefit the business over the short and long term.
+
+
 
 **Challenges for web 3 ecosystems**
 
@@ -81,7 +85,7 @@ Ideas may be welcomed from any range of participant involved in either nation st
 
 * **Idea selection complexity** - As the number of ideas increase with more potential solution paths for addressing priorities the complexity in choosing between those ideas increase. This makes governance more complex and less scalable. A disbursement process will benefit from trying to remove any duplication of ideas and finding ways to keep ideas concise for readability but in sufficient depth so informed decisions can be made.
 * **Need for flexibility to change ideas** - New information and knowledge or changing priorities can quickly influence whether an idea continues to make sense or not in the current environment and also how that idea may need to be changed to adapt to these changes. The faster the pace is for the ecosystem to introduce new changes the more important it will be for existing ideas that are being considered for execution to be able to react to these changes and adapt, replace or remove their ideas as necessary.
-* **Idea complexity** - Web 3 technology is inherently complex due to the intersection of cryptography, economics and distributed software when trying and make highly scalable infrastructure. Due to this a disbursement process will need to be able to handle complex ideas that require sufficient room for explanation and review. Disbursement processes will need to think about how these ideas can be communicated in a way that is readable for a sufficiently wide audience to interpret when making their own decisions around where to disburse funds.
+* **Idea complexity** - Web 3 technology is inherently complex due to the intersection of cryptography, economics and distributed software when trying to make scalable and decentralized infrastructure. A disbursement process will need to handle this complexity of ideas which require sufficient room for explanation and review. Disbursement processes will need to think about how these ideas can be more easily communicated in a way that a sufficiently wide audience can interpret when they are trying to make their own decisions around where to disburse funds.
 
 
 
