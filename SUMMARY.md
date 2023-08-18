@@ -2,9 +2,9 @@
 
 * [About](README.md)
 
-## Analysis
+## Disbursement Process
 
-* [Disbursement Operating Process](analysis/disbursement-operating-process.md)
+* [Disbursement Operating Process](disbursement-process/disbursement-operating-process.md)
 
 ## Resources
 
