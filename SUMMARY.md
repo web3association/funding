@@ -4,7 +4,8 @@
 
 ## Disbursement Process
 
-* [Disbursement Operating Process](disbursement-process/disbursement-operating-process.md)
+* [Disbursement Operating Process](disbursement-process/disbursement-operating-process/README.md)
+  * [Disbursement process rate of change](disbursement-process/disbursement-operating-process/disbursement-process-rate-of-change.md)
 
 ## Resources
 
