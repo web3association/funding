@@ -118,3 +118,7 @@ Achieving ecosystems priorities and creating impact is possible when the right i
 {% content-ref url="disbursement-process-rate-of-change.md" %}
 [disbursement-process-rate-of-change.md](disbursement-process-rate-of-change.md)
 {% endcontent-ref %}
+
+{% content-ref url="processes-ranking-of-importance.md" %}
+[processes-ranking-of-importance.md](processes-ranking-of-importance.md)
+{% endcontent-ref %}
