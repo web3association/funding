@@ -8,7 +8,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/processes-ranking-of-importance.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/processes-ranking-of-importance.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
