@@ -7,6 +7,7 @@
 * [Disbursement operating process](disbursement-process/disbursement-operating-process/README.md)
   * [Disbursement process rate of change](disbursement-process/disbursement-operating-process/disbursement-process-rate-of-change.md)
   * [Processes ranking of importance](disbursement-process/disbursement-operating-process/processes-ranking-of-importance.md)
+  * [Delegating disbursement process decisions](disbursement-process/disbursement-operating-process/delegating-disbursement-process-decisions.md)
 
 ## Resources
 
