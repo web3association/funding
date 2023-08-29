@@ -41,7 +41,7 @@ For many nation states or corporations there may or may not be any official form
 
 **Why it’s important**
 
-Treasury funds could be disbursed to a wide range of different initiatives that each can have their own opportunities and tradeoffs. Good prioritisation for an ecosystem can mean the difference between sustainability and growth over the long term over stagnation and decline. Ecosystem participants involved in the disbursement process decisions will want to apply all of the relevant knowledge about the ecosystem to better define and determine which priorities are the most important at that given moment in time.
+Treasury funds could be disbursed to a wide range of different initiatives that each have their own opportunities and tradeoffs. Good prioritisation for an ecosystem can mean the difference between sustainability and growth over the long term over stagnation and decline. Ecosystem participants involved in disbursement process decisions will want to apply all of the relevant knowledge about the ecosystem to better define and determine which priorities are the most important at any given moment in time.
 
 
 
