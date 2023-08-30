@@ -190,3 +190,7 @@ Achieving ecosystems priorities and creating impact is possible when the right i
 {% content-ref url="delegating-disbursement-process-decisions.md" %}
 [delegating-disbursement-process-decisions.md](delegating-disbursement-process-decisions.md)
 {% endcontent-ref %}
+
+{% content-ref url="disbursement-process-complexity.md" %}
+[disbursement-process-complexity.md](disbursement-process-complexity.md)
+{% endcontent-ref %}
