@@ -12,9 +12,9 @@ description: Overview of some high level processes involved when disbursing trea
 
 The [general purpose operating process](http://127.0.0.1:5000/s/qIN4B3DGHPqKOl7e6VuV/web-3-treasuries/operating-process) can be applied more directly to the treasury disbursement process. Applying this process can help with thinking about how each of the processes involved in disbursement could be improved over time and how those processes play an important role in helping an ecosystem achieve its priorities.
 
-## Knowledge
 
 
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Process steps**
 
@@ -55,9 +55,7 @@ For many nation states or corporations there may or may not be any official form
 
 
 
-## Priorities
-
-
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Process steps**
 
@@ -100,9 +98,7 @@ Inviting information, expertise and different perspectives from other employees 
 
 
 
-## Ideas
-
-
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Process steps**
 
@@ -141,9 +137,7 @@ Ideas could often be welcomed from a range of participants involved in either na
 
 
 
-## Execution
-
-
+<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
 
 **Process steps**
 

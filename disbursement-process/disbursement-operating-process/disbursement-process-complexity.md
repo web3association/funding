@@ -17,9 +17,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-## **Knowledge**
-
-
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -30,9 +28,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-## Priorities
-
-
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -43,9 +39,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-## Ideas
-
-
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -56,9 +50,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-## Execution
-
-
+<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 

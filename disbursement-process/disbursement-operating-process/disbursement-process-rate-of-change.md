@@ -18,9 +18,7 @@ Applying some approximate suggestions to think about these rates of change helps
 
 
 
-## Knowledge
-
-
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -34,13 +32,13 @@ The implications of knowledge on the selecting priorities, ideas and contributor
 
 
 
-## Priorities
-
-
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
 Setting high level priorities within an ecosystem can help to identify the biggest problems and opportunities that exist at a given moment in time. An ecosystem will benefit from coming to some form of consensus on the general preference and direction the community wants to take. Some example high level priorities could be to make it more effortless to build in the ecosystem, to have a range of secure and scalable DeFi applications or to adopt and integrate more self sovereign identity solutions across the ecosystem. Setting high level priorities such as these examples will help a community communicate it’s current preferences. Priorities that have a larger scope and that are more generally applicable across most of an ecosystem would more often than not take a longer time to achieve than smaller more targeted priorities. For higher level priorities it would be difficult for an ecosystem to achieve these priorities if they were constantly changing day to day or week to week. New knowledge could be an influencing reason that these priorities change over tie however for the most part this is unlikely to happen on a daily or weekly basis. Changing priorities is to be expected as bigger problems and opportunities present themselves to the wider ecosystem.
+
+
 
 **What implications does this have on the process?**
 
@@ -48,9 +46,7 @@ If priorities had a fast rate of change in an ecosystem then it would be paramou
 
 
 
-## Ideas
-
-
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -64,9 +60,7 @@ If some part of an overall idea needs to be changed or improved to respond to ne
 
 
 
-## Execution
-
-
+<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
