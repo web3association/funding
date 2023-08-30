@@ -4,7 +4,7 @@ description: Overview of the processes involved when disbursing treasury funds
 
 # Disbursement operating process
 
-The [general purpose operating process](http://127.0.0.1:5000/s/qIN4B3DGHPqKOl7e6VuV/web-3-treasuries/operating-process) can be applied to how a treasury disburses assets to help with thinking about how this can be done most effectively to help with achieving ecosystem priorities.
+The [general purpose operating process](http://127.0.0.1:5000/s/qIN4B3DGHPqKOl7e6VuV/web-3-treasuries/operating-process) can be applied to treasury disbursement. Applying this process can help with thinking about how each of the processes involved in disbursement can be improved and how those processes play an important role in helping an ecosystem achieve its priorities and overall mission.
 
 
 
