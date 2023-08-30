@@ -12,9 +12,25 @@ The [general purpose operating process](http://127.0.0.1:5000/s/qIN4B3DGHPqKOl7e
 
 
 
+**Process steps**
+
+* **Aggregating information** - Collating information is the first main part of trying to effectively disburse assets as the people involved in voting for how assets are disbursed need to be informed on what problems and opportunities exist, what has been tried already, what’s working and isn’t and many other factors to make their decisions more informed. If there is no knowledge systems in place then this process is done at an individual level where the people involved in the disbursement process will themselves do any research they want to help with improving their own judgement.
+* **Selecting information** - Once a person has aggregated the information they believe is relevant, or if this information is made available in another adopted system, the next step for participants in the process would be to determine the important of each piece of information and its relevance to upcoming decisions. The voters would be responsible for determining what is correct information or not and which information is currently the most relevant.
+
+
+
 **Why it’s important**
 
 An ecosystem wants to make informed decisions on where funds should be disbursed so that assets are effectively allocated towards initiatives that help with achieving the priorities of an ecosystem. Some information that will be relevant for this process could include previous funded initiative performance and measured impact, on chain data, usage from the ecosystems own chain as well as on competing chains, security audits that identify any areas of concern or potential improvement, developer ecosystem information such as available libraries, SDKs and tools, adoption data looking at user sentiment and feedback, infrastructure performance metrics and industry technical advancement reports and insights. All of these example types of information can be beneficial for the community to know when making decisions and voting on where to best disburse funds to create the most impact.
+
+
+
+**Information relevant to process**
+
+Any information relevant to making well informed disbursement decisions could be included for consideration.
+
+* **Current state of an ecosystem** - On-chain data covering usage and performance, historical funded initiative performance and impact generated, security audits covering ecosystem protocols and applications, current user sentiment and feedback, SDKs, tools and libraries available for software development, available products & services in the ecosystem with their current usage, adoption, problems and opportunities and performance and metrics for current execution approach.
+* **External ecosystem information** - Competitor on-chain data covering usage and performance, other approaches used for technical infrastructure, protocol design or security audits, products and services launched in other ecosystems, latest industry technical advancements along with any reports and insights, industry overall sentiment and adoption data, economic data and current forecasts and regulatory changes.
 
 
 
@@ -39,9 +55,27 @@ For many nation states or corporations there may or may not be any official form
 
 
 
+**Process steps**
+
+* **Creating priorities** - Problems and opportunities can be identified through applying and analysing the information available in the ecosystem. A set of priorities can be created to better articulate those problems and opportunities that the voters should consider. Priorities could be created at a high level to help with communicating a preferred general direction an ecosystem wants to take. Priorities can also be lower level and more precise on what exact areas of the ecosystem could receive more attention and resources.
+* **Priority** **selection decision** - Selecting priorities will have a big impact on the disbursement process as these preferences can heavily influence where funds get allocated. An ecosystem benefits from being able to communicate why certain preferences are important at the moment and then seeing the level of support those priorities receive over others from other community members of an ecosystem.
+
+
+
 **Why it’s important**
 
 Treasury funds could be disbursed to a wide range of different initiatives that each have their own opportunities and tradeoffs. Good prioritisation for an ecosystem can mean the difference between sustainability and growth over the long term over stagnation and decline. Ecosystem participants involved in disbursement process decisions will want to apply all of the relevant knowledge about the ecosystem to better define and determine which priorities are the most important at any given moment in time.
+
+
+
+**Information relevant to process**
+
+* **Ecosystem knowledge** - The priority setting process benefits from participants knowing as much of the information as possible that came out of the knowledge aggregation process. The more information that participants have about the ecosystem the more they are able to effectively analyse it and apply that information when thinking about what the current problems and opportunities are.
+* **Current problems & opportunities** - The participants of the priority setting process will apply the knowledge available in the ecosystem to thoroughly understand what the biggest problems and opportunities are. This application of ecosystem knowledge will lead to thinking about many areas of the ecosystem to determine which areas may create the most impact if they were to receive more resources and attention:
+  * Protocols & infrastructure - Are they any flaws in the current system design? How is it currently scaling against competition? Are more security audits needed? Should any recent advancements in cryptography or available software libraries be integrated?
+  * Applications & services - What are the missing applications and services in the ecosystem that can be found elsewhere? What feature sets are missing in any of the existing applications? Can the amount of interoperability be increased to accommodate other ecosystems and help increase overall adoption?
+  * Software libraries - Are there any missing software SDKs, frameworks, libraries or scripts that would make it easier for developers to create solutions? Is there anything that can be improved for existing libraries? Do any of these need better security guarantees? Should any of them be rewritten in other programming languages?
+  * Ecosystem education - Do people understand how to participate and use all of the solutions and tools made available in the ecosystem? Are any of the applications, services, libraries or pieces of infrastructure too difficult to understand for their intended audience?
 
 
 
@@ -66,9 +100,23 @@ In both nation state and corporation operating structures there could be open in
 
 
 
+**Process steps**
+
+* **Creating ideas** - Creating ideas requires a good understanding of the opportunity or problem being addressed and a sufficient skill set and description of the steps or items required for an idea to be taken through to execution. Contributors who are creating ideas will need to consider the complexity of the idea, how long it might take to execute, what evidence there is that it will be impactful in addressing the current priorities, what other skills are needed for the idea to be executed correctly and what amount of capital will be required to fully execute and measure the outcomes of that idea.
+* **Idea selection decision** - There are many ideas that could help with addressing ecosystem priorities. A lot of effort is needed to effectively articulate and document how one idea could be effective for addressing certain priorities. Community members participating in selecting the most promising ideas will then need to then compare these suggested ideas against the priorities they are addressing and determine which ones are the most promising at that moment in time for creating impact in the ecosystem.
+
+
+
 **Why it’s important**
 
 Once an ecosystem has a clear understanding of what information is important and what they want to prioritise the most important the next step will be generating ideas that would be suitable as potential solutions to address the selected priorities. Part of the idea generation process will be the application of knowledge the ecosystem has by considering what is happening in other ecosystems and markets to then create ideas which are both feasible and potentially highly impactful.
+
+
+
+**Information relevant to process**
+
+* **Current priorities** - When ideas are created they will need to articulate what problem or opportunity this idea would be addressing. Is this idea currently a priority set by the ecosystem or is it a completely new priority the author is suggesting? An understanding of the current priorities can also help with inspiring people to think about what ideas could help address them.
+* **Ecosystem knowledge** - All of the knowledge available in the ecosystem could be useful when thinking about how ideas are created and selected. Some example areas for consideration would include whether that idea has been executed before inside or outside the ecosystem? If it has, was it executed fully, what impact did it make and what risks or opportunities exist for the execution of this idea?
 
 
 
@@ -93,9 +141,25 @@ Ideas may be welcomed from any range of participant involved in either nation st
 
 
 
+**Process steps**
+
+* **Contributor selection decision** - The process for an ecosystem looking to select contributors would start with considering the educational and professional background of those who would like to contribute along with any information around their recent contributions or involvement in the ecosystem with any other relevant experience. Voters would then need to compare these contributors against the priorities and ideas currently preferred by the ecosystem and determine which of these contributors would be a good fit for helping to address the priorities and execute promising ideas.
+* **Improving execution process** - The selected contributors will need to reflect and improve how they approach the execution of ideas on an ongoing basis. This can include reflecting on what the current best practices are, how to best communicate and coordinate with each other, how low level priorities and goals are set and how to mitigate potential future issues amongst numerous other considerations. Contributors will need to strike a balance between focussing on getting work done with updating their operating approach and following best practices.
+* **Measuring outcomes** - Understanding what impact an executed idea has produced is inherently complicated due to the range of ways an idea could be executed and the range of variables that influence whether a solution has actually achieved the impactful outcomes or not. An ecosystem will want to get better at being able to measure the impact of outcomes they generate so that this information can be fed back into the disbursement process to improve future decision making and any subsequent execution of ideas.
+
+
+
 **Why it’s important**
 
 Achieving ecosystems priorities and creating impact is possible when the right ideas get executed. An ecosystem will need to decide how and who will execute the most promising ideas and then after execution then measure the outcome to determine whether the priorities are being addressed. Many funding processes will also adopt some form a verification process to ensure that progress is being made by any funded contributors working on these ideas. The outcomes from the execution process will help with creating more data and insights that can be fed back into the ongoing disbursement process to help improve how future funds are allocated. The better that outcomes can be measured for impact the more that new knowledge can be discovered to better influence future decisions.
+
+
+
+**Information relevant to process**
+
+* **Current priorities** - Understanding the current priorities will help with thinking about what the range of skills and experience might be required to effectively help with addressing them.
+* **Current ideas** - Suggesting or understanding the ideas that are currently preferred for addressing priorities will give a better indication of the exact skills and experience required to execute them. The more complex an idea is the more important it will be that the contributors involved in its execution have a relevant professional background and experience.
+* **Ecosystem knowledge** - Understanding how different ecosystems are executing their own ideas and measuring their own outcomes will provide useful information for contributors to reflect on when improving their own processes. Changes in technology, security best practices or the available software and libraries are all example areas of new information that could benefit any contributors trying to execute ideas to a high standard.
 
 
 
