@@ -16,9 +16,7 @@ Knowledge is the most important part of the disbursement process as it influence
 
 
 
-### **Knowledge**
-
-
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -34,9 +32,7 @@ Knowledge has a monumental impact on every part of the disbursement process. Due
 
 
 
-### **Priorities**
-
-
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -51,9 +47,7 @@ Good prioritisation will play a vital role in which ecosystems stagnate or thriv
 
 
 
-### **Ideas**
-
-
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -67,9 +61,7 @@ Generating and selecting the right ideas is an important part of being able to a
 
 
 
-### **Execution**
-
-
+<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
