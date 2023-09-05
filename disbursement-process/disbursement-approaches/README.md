@@ -1,12 +1,12 @@
 ---
 description: >-
-  Understanding and comparing the different approaches that can be used to
-  disburse treasury assets
+  Understanding and comparing the different approaches that could be used for
+  disbursing treasury assets
 ---
 
-# Disbursement Approaches
+# Disbursement approaches
 
-A treasury can disburse assets to initiatives that help with addressing ecosystem priorities. The disbursement process could include the selection of priorities, ideas and contributors that will execute those ideas.
+A treasury may decide to disburse assets to fund initiatives that can help with addressing ecosystem priorities. A disbursement process could invite voters to help with selecting the most important priorities, ideas and contributors that could help with generating impactful outcomes.
 
 <div align="left">
 
