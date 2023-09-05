@@ -14,7 +14,7 @@ A treasury may decide to disburse assets to fund initiatives that can help with 
 
 </div>
 
-Ecosystem knowledge will play an important part in the selection process for an ecosystems preferred priorities, ideas and contributors. Community members will select what information and knowledge they believe is most relevant when making their own informed disbursement decisions. In more complex disbursement processes there could be value in introducing another process before disbursement where community members share and voting on the pieces of analysis or information they believe are the most important for the upcoming disbursement decisions.
+Ecosystem knowledge will play an important part in the selection process for an ecosystems preferred priorities, ideas and contributors. Community members will select what information and knowledge they believe is most relevant when making their own informed disbursement decisions. In more complex disbursement processes there could be value in introducing another process before disbursement where community members share and vote on the pieces of analysis and information that they believe are the most relevant and important for the communities consideration in future disbursement decisions.
 
 
 
