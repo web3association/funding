@@ -4,6 +4,8 @@ description: Overview of some high level processes involved when disbursing trea
 
 # Disbursement operating process
 
+
+
 <div align="left">
 
 <figure><img src="../../.gitbook/assets/treasury-disbursement-process.png" alt="" width="563"><figcaption></figcaption></figure>
@@ -175,7 +177,7 @@ Achieving ecosystems priorities and creating impact is possible when the right i
 
 
 
-## Further analysis
+## Disbursement operating process analysis
 
 {% content-ref url="disbursement-process-rate-of-change.md" %}
 [disbursement-process-rate-of-change.md](disbursement-process-rate-of-change.md)

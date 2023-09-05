@@ -9,6 +9,13 @@
   * [Disbursement processes ranking of importance](disbursement-process/disbursement-operating-process/disbursement-processes-ranking-of-importance.md)
   * [Delegating disbursement process decisions](disbursement-process/disbursement-operating-process/delegating-disbursement-process-decisions.md)
   * [Disbursement process complexity](disbursement-process/disbursement-operating-process/disbursement-process-complexity.md)
+* [Disbursement Approaches](disbursement-process/disbursement-approaches/README.md)
+  * [Factors for consideration](disbursement-process/disbursement-approaches/factors-for-consideration.md)
+  * [Fully combined process](disbursement-process/disbursement-approaches/fully-combined-process.md)
+  * [Idea & contributor combined process](disbursement-process/disbursement-approaches/idea-and-contributor-combined-process.md)
+  * [Independent processes](disbursement-process/disbursement-approaches/independent-processes.md)
+  * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
+  * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
 
 ## Resources
 
