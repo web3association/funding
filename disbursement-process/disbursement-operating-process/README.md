@@ -31,15 +31,6 @@ An ecosystem wants to make informed decisions on where funds should be disbursed
 
 
 
-**Information relevant to process**
-
-Any information relevant to making well informed disbursement decisions could be included for consideration.
-
-* **Current state of an ecosystem** - On-chain data covering usage and performance, historical funded initiative performance and impact generated, security audits covering ecosystem protocols and applications, current user sentiment and feedback, SDKs, tools and libraries available for software development, available products & services in the ecosystem with their current usage, adoption, problems and opportunities and performance and metrics for current execution approach.
-* **External ecosystem information** - Competitor on-chain data covering usage and performance, other approaches used for technical infrastructure, protocol design or security audits, products and services launched in other ecosystems, latest industry technical advancements along with any reports and insights, industry overall sentiment and adoption data, economic data and current forecasts and regulatory changes.
-
-
-
 **What happens in existing systems**
 
 For many nation states or corporations there may or may not be any official form of knowledge systems or processes in place. For both there will also be a mixture of informational sources that can influence decisions about how treasury funds are disbursed.
@@ -72,17 +63,6 @@ Treasury funds could be disbursed to a wide range of different initiatives that 
 
 
 
-**Information relevant to process**
-
-* **Ecosystem knowledge** - The priority setting process benefits from participants knowing as much of the information as possible that came out of the knowledge aggregation process. The more information that participants have about the ecosystem the more they are able to effectively analyse it and apply that information when thinking about what the current problems and opportunities are.
-* **Current problems & opportunities** - The participants of the priority setting process will apply the knowledge available in the ecosystem to thoroughly understand what the biggest problems and opportunities are. This application of ecosystem knowledge will lead to thinking about many areas of the ecosystem to determine which areas may create the most impact if they were to receive more resources and attention:
-  * Protocols & infrastructure - Are they any flaws in the current system design? How is it currently scaling against competition? Are more security audits needed? Should any recent advancements in cryptography or available software libraries be integrated?
-  * Applications & services - What are the missing applications and services in the ecosystem that can be found elsewhere? What feature sets are missing in any of the existing applications? Can the amount of interoperability be increased to accommodate other ecosystems and help increase overall adoption?
-  * Software libraries - Are there any missing software SDKs, frameworks, libraries or scripts that would make it easier for developers to create solutions? Is there anything that can be improved for existing libraries? Do any of these need better security guarantees? Should any of them be rewritten in other programming languages?
-  * Ecosystem education - Do people understand how to participate and use all of the solutions and tools made available in the ecosystem? Are any of the applications, services, libraries or pieces of infrastructure too difficult to understand for their intended audience?
-
-
-
 **What happens in existing systems**
 
 Inviting information, expertise and different perspectives from other employees in the organisation or from external consumers and citizens can be one way that both nation states and corporations try to increase the overall participation in setting organisation priorities.
@@ -112,13 +92,6 @@ Inviting information, expertise and different perspectives from other employees 
 **Why it’s important**
 
 Once an ecosystem has a clear understanding of what information is important and what they want to prioritise the most important next step will be the generation of ideas that could be suitable as potential solutions to address the selected priorities. Part of the idea generation process will be the application of knowledge the ecosystem has by considering what is happening in other ecosystems and markets to then create ideas which are both feasible and potentially highly impactful.
-
-
-
-**Information relevant to process**
-
-* **Current priorities** - When ideas are created they will need to articulate what problem or opportunity this idea would be addressing. Is this idea currently a priority set by the ecosystem or is it a completely new priority the author is suggesting? An understanding of the current priorities can also help with inspiring people to think about what ideas could help address them.
-* **Ecosystem knowledge** - All of the knowledge available in the ecosystem could be useful when thinking about how ideas are created and selected. Some example areas for consideration would include whether that idea has been executed before inside or outside the ecosystem? If it has, was it executed fully, what impact did it make and what risks or opportunities exist for the execution of this idea?
 
 
 
@@ -155,14 +128,6 @@ Achieving ecosystems priorities and creating impact is possible when the right i
 
 
 
-**Information relevant to process**
-
-* **Current priorities** - Understanding the current priorities will help with thinking about what the range of skills and experience might be required to effectively help with addressing them.
-* **Current ideas** - Suggesting or understanding the ideas that are currently preferred for addressing priorities will give a better indication of the exact skills and experience required to execute them. The more complex an idea is the more important it will be that the contributors involved in its execution have a relevant professional background and experience.
-* **Ecosystem knowledge** - Understanding how different ecosystems are executing their own ideas and measuring their own outcomes will provide useful information for contributors to reflect on when improving their own processes. Changes in technology, security best practices or the available software and libraries are all example areas of new information that could benefit any contributors trying to execute ideas to a high standard.
-
-
-
 **What happens in existing systems**
 
 * **Nation states** - The execution for treasury disbursement for nation states can often mean distributing a certain budget to different national departments, this funding then in turn gets used to pay for employees and operational costs. The nation state treasury in some cases could influence or be responsible for new policies that change what treasury income is received through taxation and also influence how funds are disbursed. Once any of these changes are made there will be more data made available over time that help with determining how those changes are performing against the priorities of the treasury. Other areas around data, insights and citizen sentiment could also become available and provide more information about the current stability and growth of the economy due to any changes made.
@@ -178,6 +143,10 @@ Achieving ecosystems priorities and creating impact is possible when the right i
 
 
 ## Disbursement operating process analysis
+
+{% content-ref url="disbursement-process-information.md" %}
+[disbursement-process-information.md](disbursement-process-information.md)
+{% endcontent-ref %}
 
 {% content-ref url="disbursement-process-rate-of-change.md" %}
 [disbursement-process-rate-of-change.md](disbursement-process-rate-of-change.md)

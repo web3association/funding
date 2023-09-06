@@ -5,6 +5,7 @@
 ## Disbursement Process
 
 * [Disbursement operating process](disbursement-process/disbursement-operating-process/README.md)
+  * [Disbursement process information](disbursement-process/disbursement-operating-process/disbursement-process-information.md)
   * [Disbursement process rate of change](disbursement-process/disbursement-operating-process/disbursement-process-rate-of-change.md)
   * [Disbursement processes ranking of importance](disbursement-process/disbursement-operating-process/disbursement-processes-ranking-of-importance.md)
   * [Delegating disbursement process decisions](disbursement-process/disbursement-operating-process/delegating-disbursement-process-decisions.md)
