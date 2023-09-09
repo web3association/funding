@@ -36,27 +36,27 @@ The most expressive, flexible and least complex of the approaches outlined above
 
 
 
-## Desirable treasury operating properties
+## Prioritising certain disbursement outcomes
 
-The following are a few example properties that an ecosystem may want to optimise for when disbursing treasury assets. There could be many other different properties and factors that are important to each ecosystem, each of which those ecosystems may then want to quantify and optimise over time.
+A key question to ask when adopting any of these different disbursement approaches is what types of outcomes are most important? What outcomes should the treasury disbursement process be optimising for? There could be many different outcomes that are important to each ecosystem, each of which those ecosystems may then want to quantify and optimise over time.
 
 
 
-**Maximising distribution of influence**
+**Maximising decision involvement**
 
-One potential desirable property is that a treasury system distributes the influence of voters as widely as possible across the community. Achieving this outcome would mean the entire community should be able to vote on any part of the disbursement process and the systems and processes help with actively encouraging voters to get involved in all available decisions. The independent processes approach could be one suitable way to achieve this type of outcome as voters would be encouraged to vote on everything and voters would also be bale to vote on exactly what they want in each process without any compromise on their preferences.
+One potentially desirable outcome for an ecosystem could be that a treasury system maximises the involvement of voters in every disbursement decision. Achieving this outcome would mean the entire community will need to be able to vote on any part of the disbursement process and the systems and processes should help with actively encouraging voters to get involved in all available decisions. The independent processes approach could be one suitable way to achieve this type of outcome as voters would be encouraged to vote on everything and voters would also be able to vote on exactly what they want in each process without any compromise on their preferences. The reasons this property might not be desirable are that it might not be practical to try and expect or encourage voters to participate in every decision in the disbursement process. The larger the ecosystem is the harder this would be to achieve. This higher complexity at scale is a reason why approaches such as passive or delegated idea selection can be considered as alternatives.
 
 
 
 **Maximising participation scalability**
 
-Maximising the amount of participation in the disbursement process would mean making it easier and faster for voters to participate in the disbursement process. The easier and quicker it is for voters to participate in the disbursement process the more easy it will be for the disbursement process to scale the amount of participation it can expect to a much larger audience. Reducing the total time required and overall decision complexity will be the most important factors for achieving a high amount of participation across a large population. If this was the primary concern for a treasury system then considering the delegated idea selection approach could potentially be a suitable option. This reduces some of the required involvement from the voter but leans towards increasing overall simplicity and speed and lowering decision complexity.
+Maximising the amount of participation in the disbursement process would mean making it easier and faster for voters to participate in the disbursement process. The easier and quicker it is for voters to participate in the disbursement process the more easy it will be for the disbursement process to scale the amount of participation to a larger audience. Optimising for this outcome will mean reducing the total time required and overall decision complexity as much as possible to achieve a higher amount of participation across a larger community. If this was the primary concern for a treasury system then considering the delegated idea selection approach could potentially be a suitable option. This reduces some of the required involvement from the voter and leans towards increasing the simplicity and speed of the disbursement decisions.
 
 
 
-**Maximising both participation scalability and distribution of influence**
+**Maximising both participation scalability and decision involvement**
 
-Trying to get all community members to decide on every decision could easily make it more difficult to scale the participation for disbursement decisions. Requesting that community members vote on all decisions could mean increasing the time and complexity for voter participation. This can easily lead to voter apathy and disengagement. One way an ecosystem could achieve a balance of these types of mixed goal could be by adopting a passive idea selection process. Under this approach all voters could still participate in the different disbursement decisions however at a system and process level it is the priorities and contributor selection that are encouraged as the most important decisions that should be decided by the community. This then leaves the idea selection as optional which helps to reduce complexity and the time needed to participate, helping to improve the scalability of the process through easier participation.
+Trying to get all community members to decide on every decision can be a difficult outcome when trying to scale the amount of participation to a larger audience. Time consuming disbursement decisions can easily lead to voter apathy and disengagement, a problem that can increase as an ecosystem tries to scale. One way an ecosystem could achieve a balance in achieving both these outcomes could be by adopting a passive idea selection process. Under this approach all voters could still participate in the different disbursement decisions however at a system and process level it is the priorities and contributor selection that are encouraged as the main decisions that should be made by the community. This then leaves the idea selection as optional, helping to reduce the complexity and time taken to participate which helps with increasing participation scalability whilst also allowing for full decision involvement.
 
 
 
