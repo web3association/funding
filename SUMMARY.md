@@ -18,6 +18,7 @@
   * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
   * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
 * [Independent priority process](disbursement-process/independent-priority-process.md)
+* [Independent execution process](disbursement-process/independent-execution-process.md)
 
 ## Resources
 
