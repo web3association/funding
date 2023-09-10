@@ -20,7 +20,7 @@ Thinking about what will create any meaningful impact from the use of disbursed 
 
 
 
-### Supporting ecosystem **principles & values**
+## Supporting ecosystem **principles & values**
 
 Individual community members may join some ecosystems based on the principles and values being exhibited from the ecosystem. An ecosystem may be doing this formally through a written set of principles and values, mission statement or constitution. Alternatively these principles or values may come from the community in a more bottom up approach where they are being demonstrated through the social and working dynamics of the community.
 
@@ -61,7 +61,7 @@ Individual community members may join some ecosystems based on the principles an
 
 
 
-### **Addressing ecosystem priorities**
+## **Addressing ecosystem priorities**
 
 Ecosystems can choose between a range of different priorities when deciding what potential initiatives could create the most impact for the ecosystem. Good prioritisation will result in addressing the most important problems and opportunities that exist in an ecosystem.
 
@@ -86,7 +86,7 @@ Ecosystems can choose between a range of different priorities when deciding what
 
 
 
-### **Creating positive impact**
+## **Creating positive impact**
 
 Outcomes generated from funded initiatives could also help with creating impact across a number of other areas in society. Generating outcomes that are more widely beneficial to society can make a tremendous difference.
 
