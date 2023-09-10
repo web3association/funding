@@ -108,7 +108,7 @@ Outcomes generated from funded initiatives could also help with creating impact 
 
 **Sustainable development goals**
 
-The [sustainable development goals (SDG’s)](https://sdgs.un.org/goals) were created “as a shared blueprint for peace and prosperity for people and the planet, now and into the future”. These goals also provide similar examples of the types of areas that ecosystems disbursement processes could contribute towards:
+The [sustainable development goals (SDG’s)](https://sdgs.un.org/goals) were created “as a shared blueprint for peace and prosperity for people and the planet, now and into the future”. These goals also provide similar examples of the types of areas that could help with creating positive impactful outcomes:
 
 * **No poverty** - Eliminate poverty in all its forms everywhere.
 * **Zero hunger** - End hunger and ensure access to food for all.
