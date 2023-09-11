@@ -18,6 +18,7 @@
   * [Independent processes](disbursement-process/disbursement-approaches/independent-processes.md)
   * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
   * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
+* [Adoption of knowledge systems](disbursement-process/adoption-of-knowledge-systems.md)
 * [Independent priority process](disbursement-process/independent-priority-process.md)
 * [Independent execution process](disbursement-process/independent-execution-process.md)
 
