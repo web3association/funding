@@ -22,6 +22,7 @@
 * [Independent priority process](disbursement-process/independent-priority-process.md)
 * [Independent execution process](disbursement-process/independent-execution-process.md)
 
-## Resources
+## 🔗 Links
 
 * [Treasuries](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
+* [Suggestions](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
