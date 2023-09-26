@@ -70,7 +70,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 
 
-**Other potentially emergent outcomes from funding contributors for shared ideas**
+**Other potentially emergent outcomes from funding contributor owned ideas**
 
 * **Increased execution speed** - Handling the vision and governance decisions quickly can mean a higher focus of time is directed towards the execution of an idea and creating a solution. For some ideas the speed of execution could play an important role in determining whether a solution gains significant traction or not compared to alternative competing solutions.
 
