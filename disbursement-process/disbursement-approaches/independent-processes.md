@@ -8,7 +8,7 @@ description: Independent processes for treasury disbursement
 
 
 
-**What is it?**
+**Overview**
 
 An independent decision process means that the selection of priorities, ideas and contributors all happen in separate processes. These independent processes could happen periodically one after another or they could all be ongoing continuous processes.
 

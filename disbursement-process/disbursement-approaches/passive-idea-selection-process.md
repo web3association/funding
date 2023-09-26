@@ -8,7 +8,7 @@ description: Passive idea selection process for treasury disbursement
 
 
 
-**What is it?**
+**Overview**
 
 This approach would include having the same ability to select priorities, ideas and contributors that the independent processes approach does. The main difference is that under this approach these is an acceptance that there isn’t a goal of continuously increasing voter participation with the idea selection process. Instead this is mostly left to contributors and voters participate in this process when they feel they need to do so or are actively interested in that area. If an ecosystem believes the most important areas for the voters to handle are the priorities and contributors involved then the treasury systems and processes can be designed to focus on these areas.
 

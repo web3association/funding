@@ -8,7 +8,7 @@ description: Delegated idea selection process for treasury disbursement
 
 
 
-**What is it?**
+**Overview**
 
 A delegated idea selection process is where the actual voting power for selecting ideas which contributors execute is a responsibility left to the contributors who get selected. This means that community members will not vote on which ideas are the most promising. Instead they will vote on which contributors they think will be most effective at addressing ecosystem priorities and selecting and working on the most promising ideas. The idea selection process itself can still be fully open, transparent and invite participation from all of the community members. The key difference with this approach however is after all this feedback and participation the actual decision and any voting required to select the most promising ideas would be the responsibility of the selected contributors.
 

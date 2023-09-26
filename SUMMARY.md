@@ -18,9 +18,27 @@
   * [Independent processes](disbursement-process/disbursement-approaches/independent-processes.md)
   * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
   * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
-* [Adoption of knowledge systems](disbursement-process/adoption-of-knowledge-systems.md)
-* [Independent priority process](disbursement-process/independent-priority-process.md)
-* [Independent execution process](disbursement-process/independent-execution-process.md)
+
+## Knowledge
+
+* [Adoption of knowledge systems](knowledge/adoption-of-knowledge-systems.md)
+
+## Priorities
+
+* [Independent priority process](priorities/independent-priority-process.md)
+
+## Ideas
+
+* [Idea ownership approaches](ideas/idea-ownership-approaches/README.md)
+  * [Factors for consideration](ideas/idea-ownership-approaches/factors-for-consideration.md)
+  * [Owned ideas with fixed leadership](ideas/idea-ownership-approaches/owned-ideas-with-fixed-leadership.md)
+  * [Owned ideas with distributed decisions](ideas/idea-ownership-approaches/owned-ideas-with-distributed-decisions.md)
+  * [Shared ideas with elected leadership](ideas/idea-ownership-approaches/shared-ideas-with-elected-leadership.md)
+  * [Shared ideas with emergent leadership](ideas/idea-ownership-approaches/shared-ideas-with-emergent-leadership.md)
+
+## Execution
+
+* [Independent execution process](execution/independent-execution-process.md)
 
 ## 🔗 Links
 

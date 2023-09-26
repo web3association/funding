@@ -1,7 +1,7 @@
 ---
 description: >-
-  Understanding and comparing the different approaches that could be used for
-  disbursing treasury assets
+  Comparing the different approaches that could be used for disbursing treasury
+  assets
 ---
 
 # Disbursement approaches
@@ -14,11 +14,13 @@ A treasury may decide to disburse assets to fund initiatives that can help with 
 
 </div>
 
-Ecosystem knowledge will play an important part in the selection process for an ecosystems preferred priorities, ideas and contributors. Community members will select what information and knowledge they believe is most relevant when making their own informed disbursement decisions. In more complex disbursement processes there could be value in introducing another process before disbursement where community members share and vote on the pieces of analysis and information that they believe are the most relevant and important for the communities consideration in future disbursement decisions.
+**Considerations towards knowledge**
+
+Ecosystem knowledge will also play an important part in the selection process for an ecosystems preferred priorities, ideas and contributors. Community members will select what information and knowledge they believe is most relevant when making their own informed disbursement decisions. In more complex disbursement processes there could be value in introducing a knowledge selection process before disbursement where community members share and vote on the pieces of analysis and information that they believe are the most relevant and important for the communities consideration in future disbursement decisions.
 
 
 
-Deciding and voting on which are the most important and promising priorities, ideas and contributors could be achieved in a number. A selection of those approaches include:
+A number of approaches could be used to decide and vote on which priorities, ideas and contributors are the most important or promising. A selection of those approaches include:
 
 * [**Fully combined process**](fully-combined-process.md) - The selection of priorities, ideas and contributors all happens in the same selection process.
 * [**Idea & contributor combined process**](idea-and-contributor-combined-process.md) - The selection of priorities happens independently and then the selection of ideas and contributors happens in the same process.

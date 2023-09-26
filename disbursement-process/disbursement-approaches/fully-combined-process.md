@@ -8,7 +8,7 @@ description: Fully combined process for treasury disbursement
 
 
 
-**What is it?**
+**Overview**
 
 A fully combined decision is where voters will select the priorities, ideas and contributors in a single process. This means proposals in this type of process will contain one or multiple priorities, ideas and contributors that voters will then decide between.
 

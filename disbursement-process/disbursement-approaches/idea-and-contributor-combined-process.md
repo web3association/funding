@@ -8,7 +8,7 @@ description: Idea & contributor combined process for treasury disbursement
 
 
 
-**What is it?**
+**Overview**
 
 An idea and contributor combined process means that selection of ideas and contributors happy in the same decision. Contributors would submit the idea and who is contributing to the idea at the same time for voters to decide between. The priority selection process would happen separately.
 
