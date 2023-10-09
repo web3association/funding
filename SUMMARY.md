@@ -19,6 +19,11 @@
   * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
   * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
 
+## Incentives
+
+* [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
+* [Execution incentive approaches](incentives/execution-incentive-approaches.md)
+
 ## Knowledge
 
 * [Adoption of knowledge systems](knowledge/adoption-of-knowledge-systems.md)
