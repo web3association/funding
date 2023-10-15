@@ -6,7 +6,9 @@ description: >-
 
 # Disbursement approaches
 
-A treasury may decide to disburse assets to fund initiatives that can help with addressing ecosystem priorities. A disbursement process could invite voters to help with selecting the most important priorities, ideas and contributors that could help with generating impactful outcomes.
+The disbursement of treasury assets is one effective approach for enabling an ecosystem to execute and generate desired outcomes.
+
+A high level summary of a disbursement process could be that voters are tasked with digesting any relevant knowledge about an ecosystem before then selecting the most important priorities, ideas and contributors that could help with generating impactful outcomes.
 
 <div align="left">
 
@@ -14,11 +16,18 @@ A treasury may decide to disburse assets to fund initiatives that can help with 
 
 </div>
 
-**Considerations towards knowledge**
+1. **Digest Knowledge** - Available knowledge within an ecosystem will play an important part in all of the selection processes involved in disbursement. Both automated systems and one off pieces of research or analysis can help with creating useful sources of information for voters. Voters having more access to quality knowledge sources will help ensure that they are more well informed when making any disbursement decisions.
+2. **Priority Selection** - Priorities help to highlight the most important problems and opportunities that exist in an ecosystem. Voters will apply their own understanding of the ecosystem and available knowledge to determine which priorities are the most important for the ecosystem at that moment in time. The selection of priorities can often influence which ideas and contributors get selected as the most promising and suitable for addressing those priorities.
+3. **Idea Selection** - Ideas helps to articulate a solution which could be executed that would help with addressing one or multiple priorities. Voters could participate in selecting the most promising ideas that can help with addressing the existing priorities in an ecosystem. &#x20;
+4. **Contributor Selection** - Contributors offer their time and skills to help with the execution of ideas. Voters could help with selecting the contributors that should be compensated and responsible for the execution of the most promising ideas.
 
-Ecosystem knowledge will also play an important part in the selection process for an ecosystems preferred priorities, ideas and contributors. Community members will select what information and knowledge they believe is most relevant when making their own informed disbursement decisions. In more complex disbursement processes there could be value in introducing a knowledge selection process before disbursement where community members share and vote on the pieces of analysis and information that they believe are the most relevant and important for the communities consideration in future disbursement decisions.
 
 
+How these different processes are composed together will greatly influence the level of complexity, flexibility and scalability of the overall disbursement process. These disbursement processes could be coupled together into a smaller number of processes or be handled separately.
+
+
+
+## Approaches for handling priorities, ideas and contributors
 
 A number of approaches could be used to decide and vote on which priorities, ideas and contributors are the most important or promising. A selection of those approaches include:
 
@@ -35,6 +44,18 @@ To compare these approaches a number of [factors have been considered](factors-f
 <figure><img src="../../.gitbook/assets/disbursement-approaches-comparison.png" alt=""><figcaption></figcaption></figure>
 
 The most expressive, flexible and least complex of the approaches outlined above were those that adopted independent processes for selecting the most impactful priorities, ideas and contributors. It is also worth noting that an ecosystem would be able to use any mixture of these mentioned approaches above. Different disbursement processes for different purposes may provide a better long term solution for each ecosystem.
+
+
+
+## Approaches for handling knowledge
+
+At the point of making any disbursement decisions the voters involved will have some pre-existing knowledge based on their own experiences and skill sets and also have access to publicly available knowledge about different ecosystems and topic areas.
+
+Voters will decide how much time they want to spend on identifying new knowledge that could help them with making more informed disbursement decisions. Voters may decide not to digest new information for a number of reasons. One could be because they don't trust the source of the new information. Another reason could be that they believe they already have enough knowledge to make informed decisions. Another reason could be they simply don't have enough time available to go through the knowledge sources.&#x20;
+
+A disbursement process will benefit from making it easy to access knowledge that is relevant and accurate so that voters are able to make more well informed disbursement decisions. Some example potential areas of knowledge could be helping voters be able to easily find out what has been funded historically, what priorities or ideas have been completed and which ideas or contributors have been the most effective at generating impact for the ecosystem.
+
+For more complex disbursement processes there could be value in exploring a knowledge selection process before voters are tasked with the selection of priorities, ideas and contributors. Voters may benefit from being able to share and vote on the relevance and accuracy of different sources of knowledge that have been presented to the ecosystem. The most important pieces of knowledge could then become more well known in the ecosystem prior to making any future disbursement decisions.
 
 
 
