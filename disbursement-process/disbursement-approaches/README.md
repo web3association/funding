@@ -57,6 +57,8 @@ A disbursement process will benefit from making it easy to access knowledge that
 
 For more complex disbursement processes there could be value in exploring a knowledge selection process before voters are tasked with the selection of priorities, ideas and contributors. Voters may benefit from being able to share and vote on the relevance and accuracy of different sources of knowledge that have been presented to the ecosystem. The most important pieces of knowledge could then become more well known in the ecosystem prior to making any future disbursement decisions.
 
+Knowledge can come from a number of sources and be created in a number of ways. We have covered some of the [approaches for developing knowledge](approaches-for-developing-knowledge-sources.md) separately.
+
 
 
 ## Prioritising certain disbursement outcomes
@@ -107,4 +109,8 @@ Trying to get all community members to decide on every decision can be a difficu
 
 {% content-ref url="delegated-idea-selection-process.md" %}
 [delegated-idea-selection-process.md](delegated-idea-selection-process.md)
+{% endcontent-ref %}
+
+{% content-ref url="approaches-for-developing-knowledge-sources.md" %}
+[approaches-for-developing-knowledge-sources.md](approaches-for-developing-knowledge-sources.md)
 {% endcontent-ref %}

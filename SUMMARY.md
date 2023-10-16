@@ -18,6 +18,7 @@
   * [Independent processes](disbursement-process/disbursement-approaches/independent-processes.md)
   * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
   * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
+  * [Approaches for developing knowledge sources](disbursement-process/disbursement-approaches/approaches-for-developing-knowledge-sources.md)
 
 ## Incentives
 
