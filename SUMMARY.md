@@ -32,6 +32,7 @@
 ## Priorities
 
 * [Independent priority process](priorities/independent-priority-process.md)
+* [Priority incentives](priorities/priority-incentives.md)
 
 ## Ideas
 
