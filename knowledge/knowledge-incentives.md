@@ -10,7 +10,7 @@ description: >-
 
 
 
-The creation of new knowledge can be handed with the same disbursement process that is used to fund other initiatives that help with generating impact for an ecosystem. An ecosystem could choose to have a separate disbursement process that is just for knowledge creation if this was preferred.
+The creation of new knowledge can be handled with the same disbursement process that is used to fund other initiatives that help with generating impact for an ecosystem. An ecosystem could choose to have a separate disbursement process that is just for knowledge creation if this was preferred.
 
 Voters need to have access to and be able to digest any available knowledge prior to making any disbursement decisions if they want to be as well informed as possible when making those decisions. Voters will also benefit from new knowledge being created or existing knowledge being improved to help with future decisions.
 
