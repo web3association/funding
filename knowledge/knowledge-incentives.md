@@ -10,7 +10,7 @@ description: >-
 
 
 
-The creation of new knowledge can be handled with the same disbursement process that is used to fund other initiatives that help with generating impact for an ecosystem. An ecosystem could choose to have a separate disbursement process that is just for knowledge creation if this was preferred.
+The creation of new knowledge can be handled by the same disbursement process that is used to fund other initiatives. An ecosystem could choose to have a separate disbursement process that is just for knowledge creation if this was preferred.
 
 Voters need to have access to and be able to digest any available knowledge prior to making any disbursement decisions if they want to be as well informed as possible when making those decisions. Voters will also benefit from new knowledge being created or existing knowledge being improved to help with future decisions.
 
@@ -42,4 +42,4 @@ Creating or updating knowledge sources can be time consuming for the contributor
 
 **Potential incentive approaches**
 
-The process of incentivising new knowledge can go through the same idea and execution approaches as already covered. This means new knowledge systems or one of pieces of knowledge could be selected by voters through the different disbursement approaches that have been already covered. The idea incentives and execution incentives pieces of analysis help to cover the types of incentives that could be used to create new knowledge.
+The process of incentivising new knowledge can go through the same idea and execution approaches as already covered. This means new knowledge systems or one of pieces of knowledge could be selected by voters through the different disbursement approaches that have been already covered. The [idea incentives](../ideas/idea-incentives.md) and [execution incentives](../execution/execution-incentives.md) pieces of analysis help to cover the types of incentives that could be used to create new knowledge.

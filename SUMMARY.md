@@ -49,7 +49,7 @@
 ## Execution
 
 * [Independent execution process](execution/independent-execution-process.md)
-* [Execution Incentives](execution/execution-incentives.md)
+* [Execution incentives](execution/execution-incentives.md)
 
 ## 🔗 Links
 

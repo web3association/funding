@@ -49,7 +49,7 @@ The most expressive, flexible and least complex of the approaches outlined above
 
 ## Approaches for handling knowledge
 
-At the point of making any disbursement decisions the voters involved will have some pre-existing knowledge based on their own experiences and skill sets and also have access to publicly available knowledge about different ecosystems and topic areas.
+At the point of making any disbursement decisions the voters involved will have some pre-existing knowledge based on their own experiences and skill sets as well as having access to any publicly available knowledge about that ecosystem, other ecosystems and relevant topic areas.
 
 Voters will decide how much time they want to spend on identifying new knowledge that could help them with making more informed disbursement decisions. Voters may decide not to digest new information for a number of reasons. One could be because they don't trust the source of the new information. Another reason could be that they believe they already have enough knowledge to make informed decisions. Another reason could be they simply don't have enough time available to go through the knowledge sources.&#x20;
 
