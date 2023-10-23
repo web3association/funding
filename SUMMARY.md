@@ -28,6 +28,7 @@
 ## Knowledge
 
 * [Adoption of knowledge systems](knowledge/adoption-of-knowledge-systems.md)
+* [Knowledge incentives](knowledge/knowledge-incentives.md)
 
 ## Priorities
 
