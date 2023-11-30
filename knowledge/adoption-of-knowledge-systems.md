@@ -19,7 +19,7 @@ Knowledge systems can help with the gathering, verification and presenting of im
 **Similarities**
 
 * **Complexity of information** - Nation states, corporations and Web 3 ecosystems all have complex information that is relevant for improving their ability to make good disbursement decisions. Examples areas could include internal operating data, industry and economic data and consumer trends data amongst other areas.
-* **Amount of information** - Nation states, corporations and Web 3 ecosystems all have a vast amount of information that is relevant and that can be useful to consider when trying to make informed disbursement decisions. This is covered already in [disbursement process information](../disbursement-process/disbursement-operating-process/disbursement-process-information.md).
+* **Amount of information** - Nation states, corporations and Web 3 ecosystems all have a vast amount of information that is relevant and that can be useful to consider when trying to make informed disbursement decisions. This is covered already in [disbursement process information](../disbursement-process/process-information.md).
 
 
 

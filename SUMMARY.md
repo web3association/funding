@@ -4,26 +4,32 @@
 
 ## Disbursement Process
 
-* [Impactful disbursement outcomes](disbursement-process/impactful-disbursement-outcomes.md)
-* [Disbursement operating process](disbursement-process/disbursement-operating-process/README.md)
-  * [Disbursement process information](disbursement-process/disbursement-operating-process/disbursement-process-information.md)
-  * [Disbursement process rate of change](disbursement-process/disbursement-operating-process/disbursement-process-rate-of-change.md)
-  * [Disbursement processes ranking of importance](disbursement-process/disbursement-operating-process/disbursement-processes-ranking-of-importance.md)
-  * [Delegating disbursement process decisions](disbursement-process/disbursement-operating-process/delegating-disbursement-process-decisions.md)
-  * [Disbursement process complexity](disbursement-process/disbursement-operating-process/disbursement-process-complexity.md)
-* [Disbursement approaches](disbursement-process/disbursement-approaches/README.md)
-  * [Factors for consideration](disbursement-process/disbursement-approaches/factors-for-consideration.md)
-  * [Fully combined process](disbursement-process/disbursement-approaches/fully-combined-process.md)
-  * [Idea & contributor combined process](disbursement-process/disbursement-approaches/idea-and-contributor-combined-process.md)
-  * [Independent processes](disbursement-process/disbursement-approaches/independent-processes.md)
-  * [Passive idea selection process](disbursement-process/disbursement-approaches/passive-idea-selection-process.md)
-  * [Delegated idea selection process](disbursement-process/disbursement-approaches/delegated-idea-selection-process.md)
-  * [Approaches for developing knowledge sources](disbursement-process/disbursement-approaches/approaches-for-developing-knowledge-sources.md)
+* [Disbursement operating process](disbursement-process/disbursement-operating-process.md)
+* [Process information](disbursement-process/process-information.md)
+* [Process rate of change](disbursement-process/process-rate-of-change.md)
+* [Processes ranking of importance](disbursement-process/processes-ranking-of-importance.md)
+* [Delegating process decisions](disbursement-process/delegating-process-decisions.md)
+* [Process complexity](disbursement-process/process-complexity.md)
+
+## Disbursement approaches
+
+* [Decision approaches](disbursement-approaches/decision-approaches/README.md)
+  * [Factors for consideration](disbursement-approaches/decision-approaches/factors-for-consideration.md)
+  * [Fully combined decision](disbursement-approaches/decision-approaches/fully-combined-decision.md)
+  * [Idea & contributor combined decision](disbursement-approaches/decision-approaches/idea-and-contributor-combined-decision.md)
+  * [Independent decisions](disbursement-approaches/decision-approaches/independent-decisions.md)
+  * [Passive idea selection](disbursement-approaches/decision-approaches/passive-idea-selection.md)
+  * [Delegated idea selection](disbursement-approaches/decision-approaches/delegated-idea-selection.md)
+  * [Approaches for developing knowledge sources](disbursement-approaches/decision-approaches/approaches-for-developing-knowledge-sources.md)
 
 ## Incentives
 
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
 * [Execution incentive approaches](incentives/execution-incentive-approaches.md)
+
+## Impact
+
+* [Creating impactful outcomes](impact/creating-impactful-outcomes.md)
 
 ## Knowledge
 
