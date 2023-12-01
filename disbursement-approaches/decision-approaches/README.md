@@ -51,7 +51,7 @@ The most expressive, flexible and least complex of the decision approaches outli
 
 
 
-### Approaches for handling knowledge
+## Approaches for handling knowledge
 
 At the point of making any disbursement decision the voters involved will have some pre-existing knowledge based on their own experiences and skill sets as well as having access to any publicly available knowledge about the ecosystem, other ecosystems and relevant topic areas.
 
