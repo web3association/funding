@@ -6,7 +6,7 @@ description: >-
 
 # Factors for consideration
 
-The following are some relevant factors for consideration to help with comparing the different disbursement decision approaches. An approximate score will be added against each decision approach with a rationale behind the score against each of these different factors. The scoring for each area will range from 1 (very bad) to 5 (excellent). The importance of each factor is also rated out of 5 from 1 (not important) to 5 (very important). This importance will be used to determine an overall score. As an example, a moderately important factor (3) could be represented as a 60% importance value, which means multiplying a score of 5 for a certain factor would result in an actual score of 3 (0.6 \* 5).
+The following are some relevant factors for consideration to help with comparing the different disbursement decision approaches. An approximate score will be added against each decision approach with a rationale behind the score for each of the different factors. The scoring for each area will range from 1 (very bad) to 5 (excellent). The importance of each factor is also rated out of 5, where 1 is not important and 5 is very important. This importance will be used to determine an overall score. As an example, a moderately important factor (3) could be represented as a 60% percentage value, multiplied by a score of 5 would result in an actual final score of 3 (0.6 importance \* 5 score).
 
 
 
