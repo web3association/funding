@@ -1,7 +1,7 @@
 ---
 description: >-
   Comparing the different contribution approaches that could be used for making
-  priorities, ideas and contributor information submissions
+  submissions for knowledge, priorities, ideas and contributor information
 ---
 
 # Contribution approaches

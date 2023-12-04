@@ -14,7 +14,7 @@
 ## Disbursement approaches
 
 * [Decision approaches](disbursement-approaches/decision-approaches/README.md)
-  * [Decision factors for consideration](disbursement-approaches/decision-approaches/decision-factors-for-consideration.md)
+  * [Decision factors for consideration](disbursement-approaches/decision-approaches/factors-for-consideration.md)
   * [Fully combined decision](disbursement-approaches/decision-approaches/fully-combined-decision.md)
   * [Idea & contributor combined decision](disbursement-approaches/decision-approaches/idea-and-contributor-combined-decision.md)
   * [Independent decisions](disbursement-approaches/decision-approaches/independent-decisions.md)
