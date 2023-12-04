@@ -43,7 +43,7 @@ A number of decision approaches could be used to select which priorities, ideas 
 
 
 
-To compare these decision approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
+To compare these decision approaches a number of [factors have been considered](decision-factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
 <figure><img src="../../.gitbook/assets/disbursement-decision-approaches-comparison.png" alt=""><figcaption></figcaption></figure>
 
@@ -91,8 +91,8 @@ Trying to get all community members to decide on every decision can be a difficu
 
 ## Disbursement decision approaches analysis
 
-{% content-ref url="factors-for-consideration.md" %}
-[factors-for-consideration.md](factors-for-consideration.md)
+{% content-ref url="decision-factors-for-consideration.md" %}
+[decision-factors-for-consideration.md](decision-factors-for-consideration.md)
 {% endcontent-ref %}
 
 {% content-ref url="fully-combined-decision.md" %}

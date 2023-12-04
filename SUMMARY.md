@@ -14,13 +14,19 @@
 ## Disbursement approaches
 
 * [Decision approaches](disbursement-approaches/decision-approaches/README.md)
-  * [Factors for consideration](disbursement-approaches/decision-approaches/factors-for-consideration.md)
+  * [Decision factors for consideration](disbursement-approaches/decision-approaches/decision-factors-for-consideration.md)
   * [Fully combined decision](disbursement-approaches/decision-approaches/fully-combined-decision.md)
   * [Idea & contributor combined decision](disbursement-approaches/decision-approaches/idea-and-contributor-combined-decision.md)
   * [Independent decisions](disbursement-approaches/decision-approaches/independent-decisions.md)
   * [Passive idea selection](disbursement-approaches/decision-approaches/passive-idea-selection.md)
   * [Delegated idea selection](disbursement-approaches/decision-approaches/delegated-idea-selection.md)
   * [Approaches for developing knowledge sources](disbursement-approaches/decision-approaches/approaches-for-developing-knowledge-sources.md)
+* [Contribution approaches](disbursement-approaches/contribution-approaches/README.md)
+  * [Contribution factors for consideration](disbursement-approaches/contribution-approaches/contribution-factors-for-consideration.md)
+  * [Fully combined submission](disbursement-approaches/contribution-approaches/fully-combined-submission.md)
+  * [Idea & contributor combined submissions](disbursement-approaches/contribution-approaches/idea-and-contributor-combined-submissions.md)
+  * [Independent submissions](disbursement-approaches/contribution-approaches/independent-submissions.md)
+  * [Disbursement process data handling](disbursement-approaches/contribution-approaches/disbursement-process-data-handling.md)
 
 ## Incentives
 
