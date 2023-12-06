@@ -28,6 +28,10 @@
   * [Independent submissions](disbursement-approaches/contribution-approaches/independent-submissions.md)
   * [Disbursement process data handling](disbursement-approaches/contribution-approaches/disbursement-process-data-handling.md)
 
+## Outcome influence
+
+* [Voter preferences & opinions](outcome-influence/voter-preferences-and-opinions.md)
+
 ## Incentives
 
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
