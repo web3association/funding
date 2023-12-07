@@ -31,6 +31,7 @@
 ## Outcome influence
 
 * [Voter preferences & opinions](outcome-influence/voter-preferences-and-opinions.md)
+* [Contributor vs voter idea selection](outcome-influence/contributor-vs-voter-idea-selection.md)
 
 ## Incentives
 
@@ -69,5 +70,5 @@
 
 ## 🔗 Links
 
-* [Treasuries](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
-* [Suggestions](http://127.0.0.1:5000/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
+* [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
+* [Suggestions](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
