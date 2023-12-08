@@ -31,6 +31,7 @@
 ## Outcome influence
 
 * [Voter preferences & opinions](outcome-influence/voter-preferences-and-opinions.md)
+* [Voter outcome influence](outcome-influence/voter-outcome-influence.md)
 * [Contributor vs voter idea selection](outcome-influence/contributor-vs-voter-idea-selection.md)
 
 ## Incentives
