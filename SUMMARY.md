@@ -13,6 +13,12 @@
 
 ## Disbursement approaches
 
+* [Contribution approaches](disbursement-approaches/contribution-approaches/README.md)
+  * [Contribution factors for consideration](disbursement-approaches/contribution-approaches/contribution-factors-for-consideration.md)
+  * [Fully combined submission](disbursement-approaches/contribution-approaches/fully-combined-submission.md)
+  * [Idea & contributor combined submissions](disbursement-approaches/contribution-approaches/idea-and-contributor-combined-submissions.md)
+  * [Independent submissions](disbursement-approaches/contribution-approaches/independent-submissions.md)
+  * [Disbursement process data handling](disbursement-approaches/contribution-approaches/disbursement-process-data-handling.md)
 * [Decision approaches](disbursement-approaches/decision-approaches/README.md)
   * [Decision factors for consideration](disbursement-approaches/decision-approaches/factors-for-consideration.md)
   * [Fully combined decision](disbursement-approaches/decision-approaches/fully-combined-decision.md)
@@ -21,12 +27,12 @@
   * [Passive idea selection](disbursement-approaches/decision-approaches/passive-idea-selection.md)
   * [Delegated idea selection](disbursement-approaches/decision-approaches/delegated-idea-selection.md)
   * [Approaches for developing knowledge sources](disbursement-approaches/decision-approaches/approaches-for-developing-knowledge-sources.md)
-* [Contribution approaches](disbursement-approaches/contribution-approaches/README.md)
-  * [Contribution factors for consideration](disbursement-approaches/contribution-approaches/contribution-factors-for-consideration.md)
-  * [Fully combined submission](disbursement-approaches/contribution-approaches/fully-combined-submission.md)
-  * [Idea & contributor combined submissions](disbursement-approaches/contribution-approaches/idea-and-contributor-combined-submissions.md)
-  * [Independent submissions](disbursement-approaches/contribution-approaches/independent-submissions.md)
-  * [Disbursement process data handling](disbursement-approaches/contribution-approaches/disbursement-process-data-handling.md)
+* [Contribution verification approaches](disbursement-approaches/contribution-verification-approaches/README.md)
+  * [Contribution verification factors to consider](disbursement-approaches/contribution-verification-approaches/contribution-verification-factors-to-consider.md)
+  * [Task milestone based contribution logs](disbursement-approaches/contribution-verification-approaches/task-milestone-based-contribution-logs.md)
+  * [Project time based contribution logs](disbursement-approaches/contribution-verification-approaches/project-time-based-contribution-logs.md)
+  * [Individual time based contribution logs](disbursement-approaches/contribution-verification-approaches/individual-time-based-contribution-logs.md)
+  * [Importance of contribution measurability](disbursement-approaches/contribution-verification-approaches/importance-of-contribution-measurability.md)
 
 ## Outcome influence
 
