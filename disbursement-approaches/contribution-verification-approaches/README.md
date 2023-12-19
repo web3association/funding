@@ -28,7 +28,7 @@ There are three main approaches that have been compared to consider how contribu
 
 
 
-To compare these contribution verification approaches a number of [factors have been considered](contribution-verification-factors-to-consider.md) and then applied to each approach to try and determine the strengths and weaknesses of each one.
+To compare these contribution verification approaches a number of [factors have been considered](contribution-verification-factors-for-consideration.md) and then applied to each approach to try and determine the strengths and weaknesses of each one.
 
 <figure><img src="../../.gitbook/assets/contribution-verification-approaches.png" alt=""><figcaption></figcaption></figure>
 
@@ -43,8 +43,8 @@ To compare these contribution verification approaches a number of [factors have 
 
 ## Contribution verification analysis
 
-{% content-ref url="contribution-verification-factors-to-consider.md" %}
-[contribution-verification-factors-to-consider.md](contribution-verification-factors-to-consider.md)
+{% content-ref url="contribution-verification-factors-for-consideration.md" %}
+[contribution-verification-factors-for-consideration.md](contribution-verification-factors-for-consideration.md)
 {% endcontent-ref %}
 
 {% content-ref url="task-milestone-based-contribution-logs.md" %}
