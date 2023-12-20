@@ -34,7 +34,7 @@ The incentives introduced into a proposal process can have a big impact on how p
 
 **Depth of thought & discussion**
 
-Many Web 3 ecosystems are trying to tackle big societal problems that cover important areas such as around money, financial services and governance amongst many other areas. Creating effective processes for disbursement will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
+Many Web3 ecosystems are trying to tackle big societal problems that cover important areas such as around money, financial services and governance amongst many other areas. Creating effective processes for disbursement will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
 
 
 

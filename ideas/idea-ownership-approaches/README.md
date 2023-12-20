@@ -118,19 +118,19 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 
 
-## Preferred outcomes for Web 3 ecosystems
+## Preferred outcomes for Web3 ecosystems
 
 
 
 **Importance of open source protocols, tooling & infrastructure**
 
-Open source software plays an important role in Web 3 ecosystems in allowing people to verify, trust and audit the code they are running. For this approach of open source software to scale there will be a need for emerging solutions to eventually turn themselves into fully open source projects. This factor means most ideas will need to migrate to a shared idea ownership model where there are no controlling owners that can conceal or revoke access to software or information that is relevant to the operation of the application, protocol, tooling or infrastructure that has been produced.
+Open source software plays an important role in Web3 ecosystems in allowing people to verify, trust and audit the code they are running. For this approach of open source software to scale there will be a need for emerging solutions to eventually turn themselves into fully open source projects. This factor means most ideas will need to migrate to a shared idea ownership model where there are no controlling owners that can conceal or revoke access to software or information that is relevant to the operation of the application, protocol, tooling or infrastructure that has been produced.
 
 
 
 **Removing centralised control**
 
-Another key trend in the Web 3 movement is the empowerment of individuals to own their own money, data and digital identities rather than a small handful of corporate owners. These centralised actors are currently a potential point of failure. The leadership could become corrupt, malicious or incompetent over time. Mitigating these issues around centralised control will mean that any executed ideas will eventually need to change to become shared ideas that are owned by the community rather than a handful of individuals.
+Another key trend in the Web3 movement is the empowerment of individuals to own their own money, data and digital identities rather than a small handful of corporate owners. These centralised actors are currently a potential point of failure. The leadership could become corrupt, malicious or incompetent over time. Mitigating these issues around centralised control will mean that any executed ideas will eventually need to change to become shared ideas that are owned by the community rather than a handful of individuals.
 
 
 

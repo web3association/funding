@@ -4,7 +4,7 @@ description: >-
   disbursement operating processes
 ---
 
-# Disbursement process rate of change
+# Process rate of change
 
 Understanding how fast different factors can change which impact the disbursement process will help with thinking about how any adopted systems and processes can be made to be sufficiently flexible and capable of handling any fast changing information or environments.
 
@@ -12,17 +12,17 @@ The most prominent step in the disbursement process that influences all other ar
 
 Ideas are likely the next major area in the disbursement process that could see frequent changes due to the range of ways that a solution can be defined to solve a certain priority. A wide range of information from internal and external sources could influence how ideas are updated and introduced over time to better address the current priorities. Execution could also likely see a slow to moderate rate of change when any of the contributors involved in the execution of ideas changes or how they operate and collaborate together. Finally an ecosystems high level priorities would be another step in the disbursement process that would gradually change over time as the ecosystem starts to achieve its existing priorities or when existing priorities become less important than other ones.
 
-<figure><img src="../../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption><p>Disbursement process rate of change suggestions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption><p>Disbursement process rate of change suggestions</p></figcaption></figure>
 
 Applying some approximate suggestions to think about these rates of change helps to highlight how important it is to consider how any treasury disbursement process is able to handle environments that have fast changing amounts of knowledge available. Any ecosystem will want to consider and respond to this knowledge when making disbursement decisions. If ideas are likely to change fairly frequently then the question to ask is how will the adopted systems and processes for disbursement cater for those changes? Can those changes to ideas be performed easily and effortlessly by the contributors responsible so they are better aligned with addressing ecosystem priorities?
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
-Knowledge about an ecosystem can include information such as any on-chain and usage data from any network, performance and measured impact data, preference and sentiment data, available tools, libraries and SDKs, market data, industry technical advancement research, reports and insights and any other relevant data for web 3 ecosystems. Any of this data could change on a daily basis due to the breadth of information being covered. Much of this data would change automatically as it is recorded on the networks themselves daily, other areas such as the software libraries and networks being deployed would still change regularly and could be verified through public code commits. All of this aggregated information represents knowledge that any ecosystem can use to improve what they are prioritising, what ideas will be the most effective to execute and can also help with providing a better understanding of how to approach effectively executing those ideas.
+Knowledge about an ecosystem can include information such as any on-chain and usage data from any network, performance and measured impact data, preference and sentiment data, available tools, libraries and SDKs, market data, industry technical advancement research, reports and insights and any other relevant data for Web3 ecosystems. Any of this data could change on a daily basis due to the breadth of information being covered. Much of this data would change automatically as it is recorded on the networks themselves daily, other areas such as the software libraries and networks being deployed would still change regularly and could be verified through public code commits. All of this aggregated information represents knowledge that any ecosystem can use to improve what they are prioritising, what ideas will be the most effective to execute and can also help with providing a better understanding of how to approach effectively executing those ideas.
 
 
 
@@ -32,7 +32,7 @@ The implications of knowledge on the selecting priorities, ideas and contributor
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -46,7 +46,7 @@ If priorities had a fast rate of change in an ecosystem then it would be paramou
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -60,7 +60,7 @@ If some part of an overall idea needs to be changed or improved to respond to ne
 
 
 
-<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
