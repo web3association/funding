@@ -6,7 +6,7 @@ description: >-
 
 # Proposal submission incentive approaches
 
-<figure><img src="../.gitbook/assets/proposal-incentives.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/submission-approaches.png" alt=""><figcaption></figcaption></figure>
 
 A proposal process can use incentives to help encourage the submission of proposals that can help with the different processes involved in treasury disbursement. Proposal submissions could be relevant for any of the knowledge, priorities, ideas or execution process steps. Each of these disbursement processes have a number of differences in the types of proposal information that could be collected, discussed, compared and then voted on.
 

@@ -6,7 +6,7 @@ description: >-
 
 # Execution incentive approaches
 
-<figure><img src="../.gitbook/assets/execution-incentives.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/execution-approaches.png" alt=""><figcaption></figcaption></figure>
 
 There are a number of incentive approaches that can be considered when an ecosystem is looking to attracting and retain people that are willing and capable of contributing to different areas of an ecosystem. Incentives that help with handling the execution of work are important for all of the disbursement processes (knowledge, priorities, ideas and execution). These approaches are more focussed on how financial incentives are handled however further analysis could be beneficial to cover other types of incentives in more detail.
 

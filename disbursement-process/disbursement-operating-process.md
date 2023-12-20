@@ -4,15 +4,13 @@ description: Overview of some high level processes involved when disbursing trea
 
 # Disbursement operating process
 
-
-
 <div align="left">
 
 <figure><img src="../.gitbook/assets/treasury-disbursement-process.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
-The [general purpose operating process](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/web-3-treasuries/operating-process) can be applied more directly to the treasury disbursement process. Applying this process can help with thinking about how each of the processes involved in disbursement could be improved over time and how those processes play an important role in helping an ecosystem achieve its priorities.
+The [general purpose operating process](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/web3-treasuries/operating-process) can be applied more directly to the treasury disbursement process. Applying this process can help with thinking about how each of the processes involved in disbursement could be improved over time and how those processes play an important role in helping an ecosystem achieve its priorities.
 
 
 
