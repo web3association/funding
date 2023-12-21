@@ -51,7 +51,7 @@
 ## Incentives
 
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
-* [Execution incentive approaches](incentives/execution-incentive-approaches.md)
+* [Contribution incentive approaches](incentives/contribution-incentive-approaches.md)
 
 ## Impact
 

@@ -4,15 +4,15 @@ description: >-
   of different ecosystem initiatives
 ---
 
-# Execution incentive approaches
+# Contribution incentive approaches
 
 <figure><img src="../.gitbook/assets/execution-approaches.png" alt=""><figcaption></figcaption></figure>
 
-There are a number of incentive approaches that can be considered when an ecosystem is looking to attracting and retain people that are willing and capable of contributing to different areas of an ecosystem. Incentives that help with handling the execution of work are important for all of the disbursement processes (knowledge, priorities, ideas and execution). These approaches are more focussed on how financial incentives are handled however further analysis could be beneficial to cover other types of incentives in more detail.
+There are a number of incentive approaches that can be considered when an ecosystem is looking to attracting and retain people that are willing and capable of contributing to different areas of an ecosystem. Incentives that help with handling the execution of work are important for all of the disbursement processes (knowledge, priorities, ideas and contributors). These approaches are more focussed on how financial incentives are handled however further analysis could be beneficial to cover other types of incentives in more detail.
 
 
 
-## Execution incentive concerns
+## Contribution incentive concerns
 
 The following are some general concerns worth consideration that are relevant to incentivising execution.
 
@@ -24,7 +24,7 @@ The incentives used for execution will be more effective if they help to encoura
 
 
 
-**Inflexible execution approach**
+**Inflexible contributon approach**
 
 Incentives used during execution will need to be considerate towards the fact that new information and changing environments may result in the need for the execution approach to change and that the final intended executed outcome may benefit from being updated. Incentives will benefit from accommodating these types of situations so contributors can most easily align themselves with creating high impact. Time consuming or overly complex processes that prevent contributors from executing impactful outcomes should be prevented where possible.
 
@@ -52,7 +52,7 @@ Numerous contributors could be involved in the execution of different proposals.
 
 ![](../.gitbook/assets/incentive-none.png)
 
-Not adding an incentive to a proposals execution process means there is no financial compensation for executing the work involved in completing a proposal selected by the voters. Contribution efforts would rely on other forms of incentives.
+Not adding any incentives for the contribution process means there is no financial compensation for executing the work involved in completing a proposal that gets selected by voters. Contribution efforts would rely on other forms of incentives.
 
 
 

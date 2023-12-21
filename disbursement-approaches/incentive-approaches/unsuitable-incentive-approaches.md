@@ -8,7 +8,7 @@ description: >-
 
 The incentive approach comparison aims to compare the different incentive approaches that could be used to compensate the majority of contribution efforts in a medium to large ecosystem. The scale and complexity of the contribution efforts involved in these ecosystems require suitable incentive approaches. Highly skilled contributors need to be effectively incentivised to participate in supporting and growing an ecosystem.
 
-There are a number of the [execution incentive approaches](../../incentives/execution-incentive-approaches.md) that would not be very suitable for handling the majority of the incentives made available by larger ecosystems.
+There are a number of the [execution incentive approaches](../../incentives/contribution-incentive-approaches.md) that would not be very suitable for handling the majority of the incentives made available by larger ecosystems.
 
 
 
