@@ -14,6 +14,8 @@ Ideas are likely the next major area in the disbursement process that could see 
 
 <figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption><p>Disbursement process rate of change suggestions</p></figcaption></figure>
 
+
+
 Applying some approximate suggestions to think about these rates of change helps to highlight how important it is to consider how any treasury disbursement process is able to handle environments that have fast changing amounts of knowledge available. Any ecosystem will want to consider and respond to this knowledge when making disbursement decisions. If ideas are likely to change fairly frequently then the question to ask is how will the adopted systems and processes for disbursement cater for those changes? Can those changes to ideas be performed easily and effortlessly by the contributors responsible so they are better aligned with addressing ecosystem priorities?
 
 
@@ -60,7 +62,7 @@ If some part of an overall idea needs to be changed or improved to respond to ne
 
 
 
-<figure><img src="../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 

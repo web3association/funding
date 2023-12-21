@@ -1,24 +1,24 @@
 ---
 description: >-
-  Discussing the advantages and drawbacks of adopting an independent execution
+  Discussing the advantages and drawbacks of adopting an independent contributor
   process
 ---
 
-# Independent execution process
+# Independent contributor process
 
 <figure><img src="../.gitbook/assets/independent-execution-process.png" alt=""><figcaption></figcaption></figure>
 
-An independent execution process means that the suggestion and selection of the most suitable contributors to help contribute towards executing ideas in an ecosystem is done separately from how priorities or ideas get suggested or selected.
+An independent contributor process means that the suggestion and selection of the most suitable contributors to help contribute towards executing ideas in an ecosystem is done separately from how priorities or ideas get suggested or selected.
 
 The main connection that execution has with the disbursement process is through the execution of ideas. Contributors working within an ecosystem are able to contribute towards addressing ecosystem priorities by executing the most promising ideas.
 
 When thinking about the connection between ideas and execution there are a number of complicated factors that will require further experimentation to better determine when it makes sense to adopt any of the different independent execution process approaches. Some main areas of concern will be around team synergies, productive working structures and idea ownership.
 
-There are a range of potential advantages for adopting an independent execution process due to how it can help with increasing flexibility and collaboration for contributors and also help create much simpler, scalable and more flexible decision making process for voters.
+There are a range of potential advantages for adopting an independent contributor process due to how it can help with increasing flexibility and collaboration for contributors and also help create much simpler, scalable and more flexible decision making process for voters.
 
 
 
-**Advantages of an independent execution process**
+**Advantages of an independent contributor process**
 
 * **Lower voter participation complexity** - A voter could just participate in the contributor selection process and does not need to help with the selection of the most promising ideas. Similarly voters could also just participate in idea selection if they didn’t want to participate in contributor selection. By keeping this process independent a wider range of community members may choose to participate in either the idea or contributor selection processes based on which they are interested in and have the capacity for.
 * **More voter choice flexibility** - Separating idea and contributor selection means that voters can decide on exactly which ideas and contributors they believe are the most promising and important. The voter is able to express their opinion and preferences exactly for which ideas are most promising and which contributors could be the most effective. When ideas and contributors are combined the voter only have the choice to react to what combinations are submitted by the contributors who suggest the ideas.
@@ -30,7 +30,7 @@ There are a range of potential advantages for adopting an independent execution 
 
 
 
-**Drawbacks of an independent execution process**
+**Drawbacks of an independent contributor process**
 
 * **Execution risks around idea ownership** - If contributors are not connected to ideas in the same selection process then there is a risk of having changing or conflicting leadership during the execution of those ideas. Complex ideas can require strong leadership from people who have the right experience, competencies and willingness to take an idea all the way through to execution. The more complex an idea is the more important it will be to have the right leadership in place so that an idea is executed effectively. An independent process could potentially address this problem by considering additional processes that help with the selection of leaders for certain ideas where they would have partial or full control over the contributors who should be involved and/or the approach being taken for execution. This area of concern will require more analysis and experimentation to identify when this is an issue and the different ways it could be resolved.
 * **Team synergy risks** - If contributors are able to move more freely between ideas to execute the most promising ones to provide the most value for an ecosystem there is an increased risk that the team dynamics could not be as productive or effective. Building teams that have sufficient amounts of rapport with each other can take time. An independent idea selection process will need to factor in how teams are formed for the different ideas and whether team building should be pre-determined, be organised in a separate process after idea selection or if it can be work when being determined by the voters.

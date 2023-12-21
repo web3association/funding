@@ -42,4 +42,4 @@ Creating or updating knowledge sources can be time consuming for the contributor
 
 **Potential incentive approaches**
 
-The process of incentivising new knowledge can go through the same idea and execution approaches as already covered. This means new knowledge systems or one of pieces of knowledge could be selected by voters through the different disbursement approaches that have been already covered. The [idea incentives](../ideas/idea-incentives.md) and [execution incentives](../execution/execution-incentives.md) pieces of analysis help to cover the types of incentives that could be used to create new knowledge.
+The process of incentivising new knowledge can go through the same idea and execution approaches as already covered. This means new knowledge systems or one of pieces of knowledge could be selected by voters through the different disbursement approaches that have been already covered. The [idea incentives](../ideas/idea-incentives.md) and [execution incentives](../contributors/contributor-incentives.md) pieces of analysis help to cover the types of incentives that could be used to create new knowledge.

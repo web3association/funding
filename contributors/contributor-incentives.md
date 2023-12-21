@@ -1,10 +1,14 @@
 ---
-description: Exploring how incentives could be used to operate the execution process
+description: Exploring how incentives could be used to compensate contributors
 ---
 
-# Execution Incentives
+# Contributor incentives
 
-![](../.gitbook/assets/incentive-execution.png)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/execution-incentives.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 

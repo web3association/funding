@@ -4,7 +4,7 @@ description: >-
   different disbursement processes
 ---
 
-# Delegating disbursement process decisions
+# Delegating process decisions
 
 Understanding the importance of voting delegation is the acceptance that not everyone in an ecosystem has to fully participate in every decision that gets made. Delegation is an important part of giving voters a choice in how they want to participate and making it easier for complex ecosystems to scale through making it easier and more flexible to vote.
 
@@ -16,7 +16,7 @@ You cannot prevent people from delegating their vote to other people as the abil
 
 ## Example differences in community member participation
 
-<figure><img src="../../.gitbook/assets/disbursement-process-participation.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-process-participation.jpg" alt=""><figcaption></figcaption></figure>
 
 The above example helps to illustrate how different people could want to participate in an ecosystems disbursement decisions:
 
@@ -26,7 +26,7 @@ The above example helps to illustrate how different people could want to partici
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **What could be delegated?**
 
@@ -52,7 +52,7 @@ For larger ecosystems the likelihood of people needing to delegate their vote fo
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **What could be delegated?**
 
@@ -78,7 +78,7 @@ The larger and more complex an ecosystem becomes the more likely it will be that
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **What could be delegated?**
 
@@ -104,7 +104,7 @@ Ecosystems that have a higher complexity of ideas that go through the disburseme
 
 
 
-<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **What could be delegated?**
 

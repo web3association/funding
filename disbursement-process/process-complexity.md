@@ -8,6 +8,8 @@ Disbursing treasury assets to create impactful outcomes is a complex task that h
 
 <figure><img src="../.gitbook/assets/disbursement-process-complexity.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Each of the knowledge, priority, idea and execution steps involved in the disbursement process share a number of complexities that make it more difficult to allocate treasury assets and scale the process:
 
 * **Information complexity** - Each part of the process highly benefits from participants having a strong grasp of the relevant information in the ecosystem to make informed decisions. Learning this information and handling the quantity of information that is available makes for a highly complex process to scale due to the time commitment that would be required by many community members. The more time it takes for community members to participate in a disbursement process the more you could expect to see voter apathy or disengagement in the process due to the high complexity and time commitment.
@@ -50,7 +52,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-<figure><img src="../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 

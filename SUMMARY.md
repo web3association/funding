@@ -78,10 +78,10 @@
 * [Idea incentives](ideas/idea-incentives.md)
 * [Approaches for handling idea costs](ideas/approaches-for-handling-idea-costs.md)
 
-## Execution
+## Contributors
 
-* [Independent execution process](execution/independent-execution-process.md)
-* [Execution incentives](execution/execution-incentives.md)
+* [Independent contributor process](contributors/independent-contributor-process.md)
+* [Contributor incentives](contributors/contributor-incentives.md)
 
 ## 🔗 Links
 

@@ -4,17 +4,19 @@ description: >-
   process
 ---
 
-# Disbursement process information
+# Process information
 
 A lot of information will often be needed to effectively operate a disbursement process. Voters need to be well informed when making decisions on how to effectively disburse treasury assets to generate impactful outcomes. A variety of different information is needed across each step of the disbursement process, voters will need to review this information to be sufficiently informed when making any decisions.
 
-<figure><img src="../../.gitbook/assets/disbursement-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-processes-gathered-information (1).jpg" alt=""><figcaption></figcaption></figure>
+
+
 
 There is a vast amount of information that can be gathered prior to making any disbursement decisions. It is the application of this information that will heavily influence an ecosystems decision on what to prioritise, which ideas are the most promising and which contributors should help execute those ideas. Ideas will also include a wide range of information, a sufficient level of depth will often be needed to properly articulate how any suggested solution idea can effectively address a priority. The amount of information needed to understand the skills and experience of a contributor is also fairly sizeable, along with the ongoing information gathered about how those contributors operate together and the measured outcomes from executed ideas. Priorities may not require the same quantity of information as some of the other disbursement steps, but priorities could still see a moderate amount of information being gathered, this could come in the form of community responses that help highlight overall sentiment and feedback about the current priorities as they are being addressed over time.
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -31,21 +33,19 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
-*   **Priority information:**
-
-
-* Title - Short sentence outlining the priority.
-* Description - The rationale behind why the priority is important and which of the relevant information made available has led to the suggestion of the priority.
-* Relevant knowledge - List of the relevant pieces of information that support why this priority is important at the moment.
-* Authors - Who created the priority, this could be a person, wallet address or it could be untracked and remain anonymous.
-* Community feedback & comments - Any feedback or comments provided by the community towards how the priority could be improved and what information might be missing or lacking to properly justify why the priority is important at the moment.
-* Voter sentiment - Community responses about the priority which could be around urgency or any other opportunities and concerns.
-* Current progress - Evidence of any current progress in achieving the priority or community responses indicating how much progress they believe has been made towards addressing the priority. Progress responses could help with identifying when priorities have already been addressed or when they are becoming less relevant or redundant.
-* Metadata - Date when the priority was submitted and any other dates and related information.
+* **Priority information:**
+  * Title - Short sentence outlining the priority.
+  * Description - The rationale behind why the priority is important and which of the relevant information made available has led to the suggestion of the priority.
+  * Relevant knowledge - List of the relevant pieces of information that support why this priority is important at the moment.
+  * Authors - Who created the priority, this could be a person, wallet address or it could be untracked and remain anonymous.
+  * Community feedback & comments - Any feedback or comments provided by the community towards how the priority could be improved and what information might be missing or lacking to properly justify why the priority is important at the moment.
+  * Voter sentiment - Community responses about the priority which could be around urgency or any other opportunities and concerns.
+  * Current progress - Evidence of any current progress in achieving the priority or community responses indicating how much progress they believe has been made towards addressing the priority. Progress responses could help with identifying when priorities have already been addressed or when they are becoming less relevant or redundant.
+  * Metadata - Date when the priority was submitted and any other dates and related information.
 
 
 
@@ -59,7 +59,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -93,7 +93,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -102,7 +102,7 @@ Any information relevant to the ecosystem that could help with making more well 
   * Passions & preferences - Details about what the contributor is passionate about working on and what their current preferences are in terms of how they work and focus areas. This could also include why they might want to work in certain environments and ecosystems.
   * Compensation request - The expected amount of compensation that contributor is looking for when working in the ecosystem. This may also include some justifications and rationale towards why this compensation value is reasonable.
   * Education - A list of any educational credentials from schools, colleges, universities or online educational platforms. This could also include any other relevant forms of education such as from internships or apprenticeships.
-  * Professional background \*\*\*\*\*\*\*\*\*\*\*\*- The roles and responsibilities a contributor has previously had in other organisations and ecosystems. This could include their responsibilities, any achievements whilst in the role and the total amount of time they were working there for.
+  * Professional background - The roles and responsibilities a contributor has previously had in other organisations and ecosystems. This could include their responsibilities, any achievements whilst in the role and the total amount of time they were working there for.
   * Historical contributions - Evidence of any previous contributions made to different ecosystems that are relevant.
   * Historical participation - Evidence of where a contributor has participated previously such as events, conferences, hackathons or anything else that might be relevant.
   * Resources - Links to any resources that help provide more evidence about a contributors background, participation, contributions, skills and experience.

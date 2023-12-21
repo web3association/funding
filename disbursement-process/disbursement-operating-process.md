@@ -110,7 +110,7 @@ Ideas could often be welcomed from a range of participants involved in either na
 
 
 
-<figure><img src="../.gitbook/assets/execution-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Process steps**
 
