@@ -26,7 +26,6 @@
   * [Independent decisions](disbursement-approaches/decision-approaches/independent-decisions.md)
   * [Passive idea selection](disbursement-approaches/decision-approaches/passive-idea-selection.md)
   * [Delegated idea selection](disbursement-approaches/decision-approaches/delegated-idea-selection.md)
-  * [Approaches for developing knowledge sources](disbursement-approaches/decision-approaches/approaches-for-developing-knowledge-sources.md)
 * [Incentive approaches](disbursement-approaches/incentive-approaches/README.md)
   * [Unsuitable incentive approaches](disbursement-approaches/incentive-approaches/unsuitable-incentive-approaches.md)
   * [Incentive factors for consideration](disbursement-approaches/incentive-approaches/incentive-factors-for-consideration.md)
@@ -60,6 +59,7 @@
 ## Knowledge
 
 * [Adoption of knowledge systems](knowledge/adoption-of-knowledge-systems.md)
+* [Creating knowledge sources](knowledge/creating-knowledge-sources.md)
 * [Knowledge incentives](knowledge/knowledge-incentives.md)
 
 ## Priorities

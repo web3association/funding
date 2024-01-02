@@ -23,7 +23,7 @@ A high level overview of the key decisions that are made during disbursement are
 
 
 
-How these different decisions are handled and composed together will greatly influence the level of complexity, flexibility and scalability of decision making for the disbursement process.
+How different decisions are handled and composed together will greatly influence the flexibility, scalability and complexity of disbursement decision making.
 
 
 
@@ -51,17 +51,15 @@ The most expressive, flexible and least complex of the decision approaches outli
 
 
 
-## Approaches for handling knowledge
+## Considerations for handling knowledge
 
 At the point of making any disbursement decision the voters involved will have some pre-existing knowledge based on their own experiences and skill sets as well as having access to any publicly available knowledge about the ecosystem, other ecosystems and relevant topic areas.
 
 Voters will decide how much time they want to spend on identifying new knowledge that could help them with making more informed disbursement decisions. Voters may decide not to digest new information for a number of reasons. One could be because they don't trust the source of the new information. Another reason could be that they believe they already have enough knowledge to make informed decisions. Another reason could be they simply don't have enough time available to go through the knowledge sources.
 
-A disbursement process will benefit from making it easy to access knowledge that is relevant and accurate so that voters are able to make more well informed disbursement decisions. Some example potential areas of knowledge could be helping voters easily find out what has been funded historically, what priorities or ideas have been completed and which ideas or contributors have been the most effective at generating impact for the ecosystem.
+A disbursement process will benefit from making it easy to access knowledge that is relevant and accurate so that voters are able to make more well informed disbursement decisions. Some example areas that could be help voters is if they could easily find out what has been funded historically, what priorities or ideas have been completed and which ideas or contributors have been historically the most effective at generating impact for the ecosystem.
 
-For more complex disbursement processes there could be value in exploring a knowledge selection process before voters are tasked with the selection of priorities, ideas and contributors. Voters may benefit from being able to share and vote on the relevance and accuracy of different sources of knowledge that have been presented to the ecosystem. The most important pieces of knowledge could then become more well known in the ecosystem prior any future disbursement decisions.
-
-Knowledge can come from a number of sources and be created in a number of ways. We have covered some of the [approaches for developing knowledge](approaches-for-developing-knowledge-sources.md) separately.
+For more complex disbursement processes there could be value in exploring how a knowledge selection process could be introduced before voters select priorities, ideas and contributors. Voters may benefit from being able to share and vote on the relevance and accuracy of different sources of knowledge to help with the process of making the community more well informed for upcoming decisions. The most important pieces of knowledge could then become more well known across an ecosystem due to this collective effort to identify quality information sources.
 
 
 
@@ -113,8 +111,4 @@ Trying to get all community members to decide on every decision can be a difficu
 
 {% content-ref url="delegated-idea-selection.md" %}
 [delegated-idea-selection.md](delegated-idea-selection.md)
-{% endcontent-ref %}
-
-{% content-ref url="approaches-for-developing-knowledge-sources.md" %}
-[approaches-for-developing-knowledge-sources.md](approaches-for-developing-knowledge-sources.md)
 {% endcontent-ref %}
