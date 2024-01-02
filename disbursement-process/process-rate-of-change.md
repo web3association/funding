@@ -12,7 +12,7 @@ The most prominent step in the disbursement process that influences all other ar
 
 Ideas are likely the next major area in the disbursement process that could see frequent changes due to the range of ways that a solution can be defined to solve a certain priority. A wide range of information from internal and external sources could influence how ideas are updated and introduced over time to better address the current priorities. Execution could also likely see a slow to moderate rate of change when any of the contributors involved in the execution of ideas changes or how they operate and collaborate together. Finally an ecosystems high level priorities would be another step in the disbursement process that would gradually change over time as the ecosystem starts to achieve its existing priorities or when existing priorities become less important than other ones.
 
-<figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption><p>Disbursement process rate of change suggestions</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

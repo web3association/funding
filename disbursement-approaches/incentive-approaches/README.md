@@ -59,11 +59,21 @@ To compare these disbursement incentive approaches a number of [factors have bee
 
 
 
-## **Disbursement incentive approaches analysis**
+## Considerations for incentivising the submission and maintenance of information
 
-{% content-ref url="unsuitable-incentive-approaches.md" %}
-[unsuitable-incentive-approaches.md](unsuitable-incentive-approaches.md)
+The majority of incentives will be used to compensate the contribution efforts made to execute different ideas. Incentives could also be useful for encouraging the submission of information such as proposals or they could also be used for compensating contributors to maintain information that is important to the ecosystem. Considerations for submission incentives and the maintenance of information can be found here:&#x20;
+
+{% content-ref url="proposal-submission-incentives.md" %}
+[proposal-submission-incentives.md](proposal-submission-incentives.md)
 {% endcontent-ref %}
+
+{% content-ref url="maintenance-of-information-incentives.md" %}
+[maintenance-of-information-incentives.md](maintenance-of-information-incentives.md)
+{% endcontent-ref %}
+
+
+
+## **Disbursement incentive approaches analysis**
 
 {% content-ref url="incentive-factors-for-consideration.md" %}
 [incentive-factors-for-consideration.md](incentive-factors-for-consideration.md)

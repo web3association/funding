@@ -8,7 +8,7 @@ description: >-
 
 A lot of information will often be needed to effectively operate a disbursement process. Voters need to be well informed when making decisions on how to effectively disburse treasury assets to generate impactful outcomes. A variety of different information is needed across each step of the disbursement process, voters will need to review this information to be sufficiently informed when making any decisions.
 
-<figure><img src="../.gitbook/assets/disbursement-processes-gathered-information (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
 
 
 

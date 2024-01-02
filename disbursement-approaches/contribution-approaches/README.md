@@ -102,7 +102,3 @@ Contributors would be able to participate with more specific submissions that th
 {% content-ref url="independent-submissions.md" %}
 [independent-submissions.md](independent-submissions.md)
 {% endcontent-ref %}
-
-{% content-ref url="disbursement-process-data-handling.md" %}
-[disbursement-process-data-handling.md](disbursement-process-data-handling.md)
-{% endcontent-ref %}

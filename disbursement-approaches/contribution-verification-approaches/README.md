@@ -58,7 +58,3 @@ To compare these contribution verification approaches a number of [factors have 
 {% content-ref url="individual-time-based-contribution-logs.md" %}
 [individual-time-based-contribution-logs.md](individual-time-based-contribution-logs.md)
 {% endcontent-ref %}
-
-{% content-ref url="importance-of-contribution-measurability.md" %}
-[importance-of-contribution-measurability.md](importance-of-contribution-measurability.md)
-{% endcontent-ref %}

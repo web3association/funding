@@ -7,7 +7,7 @@
 * [Disbursement operating process](disbursement-process/disbursement-operating-process.md)
 * [Process information](disbursement-process/process-information.md)
 * [Process rate of change](disbursement-process/process-rate-of-change.md)
-* [Processes ranking of importance](disbursement-process/processes-ranking-of-importance.md)
+* [Process rankings of importance](disbursement-process/process-rankings-of-importance.md)
 * [Delegating process decisions](disbursement-process/delegating-process-decisions.md)
 * [Process complexity](disbursement-process/process-complexity.md)
 
@@ -34,6 +34,8 @@
   * [Idea milestone incentives](disbursement-approaches/incentive-approaches/idea-milestone-incentives.md)
   * [Idea time incentives](disbursement-approaches/incentive-approaches/idea-time-incentives.md)
   * [Contributor time incentives](disbursement-approaches/incentive-approaches/contributor-time-incentives.md)
+  * [Proposal submission incentives](disbursement-approaches/incentive-approaches/proposal-submission-incentives.md)
+  * [Maintenance of information incentives](disbursement-approaches/incentive-approaches/maintenance-of-information-incentives.md)
 * [Contribution verification approaches](disbursement-approaches/contribution-verification-approaches/README.md)
   * [Contribution verification factors for consideration](disbursement-approaches/contribution-verification-approaches/contribution-verification-factors-for-consideration.md)
   * [Task milestone based contribution logs](disbursement-approaches/contribution-verification-approaches/task-milestone-based-contribution-logs.md)
@@ -60,12 +62,10 @@
 
 * [Adoption of knowledge systems](knowledge/adoption-of-knowledge-systems.md)
 * [Creating knowledge sources](knowledge/creating-knowledge-sources.md)
-* [Knowledge incentives](knowledge/knowledge-incentives.md)
 
 ## Priorities
 
 * [Independent priority process](priorities/independent-priority-process.md)
-* [Priority incentives](priorities/priority-incentives.md)
 
 ## Ideas
 
@@ -75,13 +75,11 @@
   * [Owned ideas with distributed decisions](ideas/idea-ownership-approaches/owned-ideas-with-distributed-decisions.md)
   * [Shared ideas with elected leadership](ideas/idea-ownership-approaches/shared-ideas-with-elected-leadership.md)
   * [Shared ideas with emergent leadership](ideas/idea-ownership-approaches/shared-ideas-with-emergent-leadership.md)
-* [Idea incentives](ideas/idea-incentives.md)
 * [Approaches for handling idea costs](ideas/approaches-for-handling-idea-costs.md)
 
 ## Contributors
 
 * [Independent contributor process](contributors/independent-contributor-process.md)
-* [Contributor incentives](contributors/contributor-incentives.md)
 
 ## 🔗 Links
 

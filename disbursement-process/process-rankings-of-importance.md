@@ -4,15 +4,13 @@ description: >-
   disbursement of treasury assets
 ---
 
-# Processes ranking of importance
+# Process rankings of importance
 
 <div align="left">
 
-<figure><img src="../.gitbook/assets/processes-ranking-of-importance.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/process-rankings-of-importance.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
-
-
 
 Knowledge is the most important part of the disbursement process as it influences every single other process and how effectively decisions are made in those processes. Making good priorities are also fundamental for an ecosystem so they can create achievable and impactful outcomes. Without good prioritisation the probability of creating impactful outcomes from the ideas any execution is reduced. The contributors involved in the execution of any ideas will directly determine the actual outcomes that are generated. Ideas are also important for the process however there can be many ideas that are relevant and effective for addressing ecosystem priorities. The execution of those ideas and what gets learnt whilst executing them will generate more learnings to improve any of the initial ideas that get selected. The quality and speed of the operating process for executing ideas along with how the ongoing progress is measured and reviewed will create new learnings that can be highly insightful and important for updating any existing ideas or introducing new ones. A group of contributors will apply those ongoing learnings to help with better addressing an ecosystems priorities over time.
 
