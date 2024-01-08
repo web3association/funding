@@ -10,7 +10,7 @@ description: >-
 
 A proposal process can use incentives to help encourage the submission of proposals that can help with the different processes involved in treasury disbursement. Proposal submissions could be relevant for any of the knowledge, priorities, ideas or execution process steps. Each of these disbursement processes have a number of differences in the types of proposal information that could be collected, discussed, compared and then voted on.
 
-These incentives only cover how people could be encouraged to participate in a proposal process with their own suggestions. The incentives that help with the execution of proposals is covered separately. Incentives that cover the operation of the disbursement process itself would also be covered elsewhere in some separate treasury operation analysis.
+These incentives only cover how people could be encouraged to participate in a proposal process with their own suggestions. The incentives that help with the execution of proposals are covered separately. Incentives that cover the operation of the disbursement process itself would also be covered elsewhere in some separate treasury operation analysis.
 
 
 
@@ -34,7 +34,7 @@ The incentives introduced into a proposal process can have a big impact on how p
 
 **Depth of thought & discussion**
 
-Many Web3 ecosystems are trying to tackle big societal problems that cover important areas such as around money, financial services and governance amongst many other areas. Creating effective processes for disbursement will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
+Many Web3 ecosystems are trying to tackle big societal problems that cover important areas such as money, financial services and governance amongst many other areas. Creating effective processes for disbursement will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
 
 
 
@@ -84,7 +84,7 @@ Providing submission incentives means compensation is rewarded at the point of p
 
 **Concerns for this approach**
 
-* **Risk of over submission** - There is a high risk that this incentive leads to encouraging contributors to suggest many variations of similar proposals as they would be compensated for doing so. This type of incentive could easily be abused as it could lead to low effort submissions that are suggested irregardless of whether the contributor actually thought the proposal was important or not. Adopting a process for removing duplicated entries and ensuring quality thresholds are met could help to resolve this but could mean introducing an expensive moderation process.
+* **Risk of over submission** - There is a high risk that this incentive leads to encouraging contributors to suggest many variations of similar proposals as they would be compensated for doing so. This type of incentive could easily be abused as it could lead to low effort submissions that are suggested regardless of whether the contributor actually thought the proposal was important or not. Adopting a process for removing duplicated entries and ensuring quality thresholds are met could help to resolve this but could mean introducing an expensive moderation process.
 * **Risk of duplication** - If the incentive is attached to submission there is a higher risk that people end up submitting variations of similar proposals instead of trying to improve existing ones. This could mean many existing proposals get duplicated with slight variation instead of those same contributors helping to improve existing proposals.
 
 
@@ -107,5 +107,5 @@ Incentives at the point of proposal selection means that compensation for making
 
 **Concerns for this approach**
 
-* **Risk of over submission** - If there is an incentive rewarded at the point of selection there is still a risk of over submission of proposals as it might not take much effort to submit a proposal. The larger the incentive the higher the risk that this occurs. Some contributors may decide to make a wide range of proposal submissions to increase their chances of their proposals getting selected and them then receiving some compensation.
+* **Risk of over submission** - If there is an incentive rewarded at the point of selection there is still a risk of over submission of proposals as it might not take much effort to submit a proposal. The larger the incentive the higher the risk that this occurs. Some contributors may decide to make a wide range of proposal submissions to increase their chances of their proposals getting selected and then receiving some compensation.
 * **Risk of duplication** - An incentive provided at the point of proposal selection instead of submission will still mean there is a risk that people suggest variations of similar proposals instead of making contributions towards improving existing ones. This could easily lead to higher levels of duplication where many variants of similar proposals get submitted.

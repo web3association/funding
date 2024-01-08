@@ -17,9 +17,33 @@ Some of these different idea ownership approaches include:
 
 
 
-To compare these approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
+To compare these approaches a number of [factors have been considered](idea-ownership-factors-for-consideration.md) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
 
 <figure><img src="../../.gitbook/assets/idea-ownership-approaches.png" alt=""><figcaption></figcaption></figure>
+
+
+
+**Idea ownership approach analysis**
+
+{% content-ref url="idea-ownership-factors-for-consideration.md" %}
+[idea-ownership-factors-for-consideration.md](idea-ownership-factors-for-consideration.md)
+{% endcontent-ref %}
+
+{% content-ref url="owned-ideas-with-fixed-leadership.md" %}
+[owned-ideas-with-fixed-leadership.md](owned-ideas-with-fixed-leadership.md)
+{% endcontent-ref %}
+
+{% content-ref url="owned-ideas-with-distributed-decisions.md" %}
+[owned-ideas-with-distributed-decisions.md](owned-ideas-with-distributed-decisions.md)
+{% endcontent-ref %}
+
+{% content-ref url="shared-ideas-with-elected-leadership.md" %}
+[shared-ideas-with-elected-leadership.md](shared-ideas-with-elected-leadership.md)
+{% endcontent-ref %}
+
+{% content-ref url="shared-ideas-with-emergent-leadership.md" %}
+[shared-ideas-with-emergent-leadership.md](shared-ideas-with-emergent-leadership.md)
+{% endcontent-ref %}
 
 
 
@@ -29,13 +53,13 @@ To compare these approaches a number of [factors have been considered](factors-f
 
 **Handling complex ideas**
 
-The more complex an idea is the more likely it is that strong leadership could be beneficial to take that idea from inception through to execution. As ideas grow in complexity the number of factors for consideration increase, factors that each need to be considered when making informed decisions. The larger the amount of variables for consideration the more difficult it can become for leadership to be distributed amongst a large group of people due to the complexity and amount of information each participant would need to digest and then apply to make their own informed decisions.
+The more complex an idea is, the more likely it is that strong leadership could be beneficial to take that idea from inception through to execution. As ideas grow in complexity the number of factors for consideration increase, factors that each need to be considered when making informed decisions. The larger the amount of variables for consideration the more difficult it can become for leadership to be distributed amongst a large group of people due to the complexity and amount of information each participant would need to digest and then apply to make their own informed decisions.
 
 
 
 **Ideas that require highly specialised skill sets**
 
-Some ideas require highly specialised skills to effectively execute am idea. Finding people who have these specialised skill sets can be difficult. Leadership which is highly informed around the ideas topic area can be important in these scenarios for helping create a suitable team that can execute the idea as intended.
+Some ideas require highly specialised skills to effectively execute an idea. Finding people who have these specialised skill sets can be difficult. Leadership which is highly informed around the ideas topic area can be important in these scenarios for helping create a suitable team that can execute the idea as intended.
 
 
 
@@ -65,7 +89,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 **Drawbacks of idea ownership**
 
 * **Decreases change of leadership flexibility** - The owners of the idea cannot be changed by the community. The community would need to execute a similar idea with different leadership if they wanted to support other leadership or the existing leadership would need to voluntarily give ownership to other people themselves. An issue with this lack of flexibility is that as an idea is executed and grows into a more mature solution over time the requirements and skills needed to operate and keep improving that solution can change. A community would not be able to respond to these changing requirements and elect new leadership and instead would be reliant on the existing leadership involved being able to adapt to a changing environment and requirements.
-* **Decreases contributor participation flexibility** - The owners of the idea will determine or at least highly influence influence who is involved in the execution of the idea. This could limit the amount of participation in the execution of an idea and the diversity of experimentation and thought involved.
+* **Decreases contributor participation flexibility** - The owners of the idea will determine or at least highly influence who is involved in the execution of the idea. This could limit the amount of participation in the execution of an idea and the diversity of experimentation and thought involved.
 * **Increases contribution outcome openness risks** - If owned ideas are competing for business opportunities there is a higher risk and likelihood that not all contribution outcomes such as software or other intellectual property is fully open sourced and made freely available. Owned ideas can encourage more competition over collaboration as sharing contributions outcomes publicly could likely reduce their competitive advantage.
 
 
@@ -99,7 +123,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 **Drawbacks of shared idea ownership**
 
 * **Increases vision complexity** - Shared ideas increase the amount of community participation in governance of the execution of an idea, setting a clear vision can become more complex due to this increase of opinions and wider input. This could be problematic for more complex ideas where strong leadership can be beneficial if they have a strong grasp of the problems or opportunities they are addressing and have the right skills to help with effectively executing a solution. The importance of idea leadership is a reason why elected leadership for shared ideas can be considered as an important approach. Giving contributors some stewardship over important ideas can help with ensuring those ideas get executed more effectively.
-* **Increases governance complexity** - The more that people are involved in the governance of the execution of an idea the more complex the decisions can become in handling the diversity of opinion and preferences. These scaling amount of differences can make it more difficult to achieve alignment for the direction an idea should be taken when being executed.
+* **Increases governance complexity** - The more that people are involved in the governance of the execution of an idea the more complex the decisions can become in handling the diversity of opinion and preferences. These scaling amounts of differences can make it more difficult to achieve alignment for the direction an idea should be taken when being executed.
 
 
 
@@ -131,27 +155,3 @@ Open source software plays an important role in Web3 ecosystems in allowing peop
 **Removing centralised control**
 
 Another key trend in the Web3 movement is the empowerment of individuals to own their own money, data and digital identities rather than a small handful of corporate owners. These centralised actors are currently a potential point of failure. The leadership could become corrupt, malicious or incompetent over time. Mitigating these issues around centralised control will mean that any executed ideas will eventually need to change to become shared ideas that are owned by the community rather than a handful of individuals.
-
-
-
-## Idea ownership analysis
-
-{% content-ref url="factors-for-consideration.md" %}
-[factors-for-consideration.md](factors-for-consideration.md)
-{% endcontent-ref %}
-
-{% content-ref url="owned-ideas-with-fixed-leadership.md" %}
-[owned-ideas-with-fixed-leadership.md](owned-ideas-with-fixed-leadership.md)
-{% endcontent-ref %}
-
-{% content-ref url="owned-ideas-with-distributed-decisions.md" %}
-[owned-ideas-with-distributed-decisions.md](owned-ideas-with-distributed-decisions.md)
-{% endcontent-ref %}
-
-{% content-ref url="shared-ideas-with-elected-leadership.md" %}
-[shared-ideas-with-elected-leadership.md](shared-ideas-with-elected-leadership.md)
-{% endcontent-ref %}
-
-{% content-ref url="shared-ideas-with-emergent-leadership.md" %}
-[shared-ideas-with-emergent-leadership.md](shared-ideas-with-emergent-leadership.md)
-{% endcontent-ref %}

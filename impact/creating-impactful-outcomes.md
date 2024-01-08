@@ -14,7 +14,7 @@ There are a variety of different ways an ecosystem could create impact for its c
 * **Addressing ecosystem priorities** - Prioritisation of the most important problems and opportunities that will help an ecosystem achieve its longer term goals.
 * **Creating positive impact** - Outcomes that generate a positive impact for other areas that society values such as the environmental concerns, human welfare or other public goods.
 
-Initiatives that receive treasury funding to generate any of these outcomes could end up doing so so in a multitude of ways - sometimes intentionally and sometimes not! One initiative may not be successful in addressing certain ecosystem priorities it was trying to address but might have been very successful in supporting and fostering strong principles and values held by community members and the outcomes generated ended up attracting more people into the ecosystem who shared those values. Others may succeed in addressing numerous ecosystem priorities however could still have more substantial success in other areas such as making impact for an environmental based public good outside of the ecosystem.
+Initiatives that receive treasury funding to generate any of these outcomes could end up doing so in a multitude of ways - sometimes intentionally and sometimes not! One initiative may not be successful in addressing certain ecosystem priorities it was trying to address but might have been very successful in supporting and fostering strong principles and values held by community members and the outcomes generated ended up attracting more people into the ecosystem who shared those values. Others may succeed in addressing numerous ecosystem priorities however could still have more substantial success in other areas such as making impact for an environmental based public good outside of the ecosystem.
 
 Thinking about what will create any meaningful impact from the use of disbursed treasury assets will be useful for exploring and analysing how future contribution efforts towards different initiatives can be measured against the impact they generate. Effectively identifying when funding is being directed towards impactful initiatives will help make it easier to continue directing funding to initiatives that are consistently generating meaningful outcomes.
 
@@ -28,7 +28,7 @@ Individual community members may join some ecosystems based on the principles an
 
 **Example principles**
 
-* **Decentralization** - Distribution of control and decision-making among a broad group of stakeholders rather than a centralised authority.
+* **Decentralisation** - Distribution of control and decision-making among a broad group of stakeholders rather than a centralised authority.
 * **Transparency** - Prioritising open and transparent processes, from codebase accessibility to governance decisions.
 * **Security** - Ensuring the highest levels of security to protect data integrity, users information and their assets.
 * **Privacy** - Respecting user privacy and providing mechanisms for anonymous or pseudonymous interactions.
@@ -56,7 +56,7 @@ Individual community members may join some ecosystems based on the principles an
 * **Fairness** - Implementing algorithms, governance models, and features that help to generate and maintain equitable outcomes.
 * **Excellence** - Striving for the highest quality possible for code, user experiences and community interactions.
 * **Flexibility** - Willingness to adapt to new technologies, regulations, and community needs.
-* **Experimentation** - An open mindset towards trialing new governance models, economic theories, or technical solutions.
+* **Experimentation** - An open mindset towards trialling new governance models, economic theories, or technical solutions.
 * **Resource efficiency -** Effective and responsible use of community assets and treasury funds.
 
 
@@ -69,9 +69,9 @@ Ecosystems can choose between a range of different priorities when deciding what
 
 **Example priorities**
 
-* **Community governance** - Support initiatives that help to remove middlemen and increase the transition of decision-making power from a centralised entity to a decentralized community.
+* **Community governance** - Support initiatives that help to remove middlemen and increase the transition of decision-making power from a centralised entity to a decentralised community.
 * **Interoperability** - Support interoperability efforts that integrate and use various blockchain ecosystems and platforms to enrich the ecosystems overall utility.
-* **Financial inclusion** - Support for initiatives that help decentralized financial services reach more underserved and unbanked communities around the world.
+* **Financial inclusion** - Support for initiatives that help decentralised financial services reach more underserved and unbanked communities around the world.
 * **Regulatory compliance** - Efforts that help an ecosystem with regulatory compliance and any associated challenges or relevant policy advocacy.
 * **Infrastructure scalability**: Ensuring that the network is capable of handling increasing load by allocating resources to scalability solutions.
 * **Technical leadership** - Identifying initiatives that help with technical innovation so that the ecosystem can stay ahead with further technological advancements.
@@ -97,11 +97,11 @@ Outcomes generated from funded initiatives could also help with creating impact 
 * **Open source software** - Public and freely available software that can be used or modified by any person for their own use cases and development efforts.
 * **Decentralised infrastructure** - Creating resources and infrastructure that advances the current state of the art for the development of distributed networks.
 * **Legal systems** - Improving legal and court based systems and services that can then help to better maintain societal order and justice.
-* **Voting systems** - Improve peoples access to and participation in important problems and issues that benefit from more inclusive and diverse decision making systems.
+* **Voting systems** - Improve people's access to and participation in important problems and issues that benefit from more inclusive and diverse decision making systems.
 * **Charitable causes** - Initiatives that help people in need regardless of their background.
 * **Environmental causes** - Generating outcomes that help with the sustainability of the different areas that make up our planet such as clean air, marine life, natural parks and wildlife reserves, oceans and waterways amongst many other areas.
 * **Public infrastructure** - Support any improvements made to public infrastructure such as bus services, subway systems, roads, bridges, public squares and parks, airports or any other public infrastructure.
-* **Education** - Support the creation of educational resources that help with improving societies understanding and access to knowledge covering any variety of areas that are valued by society.
+* **Education** - Support the creation of educational resources that help with improving society's understanding and access to knowledge covering any variety of areas that are valued by society.
 * **Publicly funded research** - Scientific research and development that help advance the state of the art in different fields that benefit society at large.
 
 

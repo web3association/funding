@@ -30,7 +30,7 @@ If the community is unhappy with the leadership that is operating and executing 
 
 **High contributor participation flexibility (Score - 4)**
 
-The elected leadership could be given responsibility for choosing which contributors are most suitable for working on the execution of an idea. This might be a suitable approach for more complex ideas where having too many contributors could be problematic. Leadership that is elected by the community will have an even greater need to be thorough in their decision making when deciding which contributors should join the execution efforts. Any decisions made that are deemed unfair could result in different leadership being elected. This can help increases the likelihood of contributors having high flexibility to join the execution of any shared idea providing they are able to show sufficient evidence that they would be a valuable contributor.
+The elected leadership could be given responsibility for choosing which contributors are most suitable for working on the execution of an idea. This might be a suitable approach for more complex ideas where having too many contributors could be problematic. Leadership that is elected by the community will have an even greater need to be thorough in their decision making when deciding which contributors should join the execution efforts. Any decisions made that are deemed unfair could result in different leadership being elected. This can help increase the likelihood of contributors having high flexibility to join the execution of any shared idea providing they are able to show sufficient evidence that they would be a valuable contributor.
 
 
 

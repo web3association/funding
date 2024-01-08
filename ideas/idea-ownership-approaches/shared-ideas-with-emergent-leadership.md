@@ -6,13 +6,13 @@
 
 **Overview**
 
-Shared ideas with emergent leadership occur when the community has shared ownership of any of the ideas being suggested by members of that community and any leadership for those ideas is an emergent outcome that happens naturally rather than through election and that could change at anytime.
+Shared ideas with emergent leadership occur when the community has shared ownership of any of the ideas being suggested by members of that community and any leadership for those ideas is an emergent outcome that happens naturally rather than through election and that could change at any time.
 
 
 
 **Very high clarity of vision complexity (Score - 1)**
 
-No elected leadership means the community would need to decide the direction of any idea. This means the maximum amount of participants could be involved in setting direction which could result in a very high complexity to reach alignment towards a shared vision. Having no official leadership could be challenging in situations where the idea complexity is high.
+No elected leadership means the community would need to decide the direction of any idea. This means the maximum number of participants could be involved in setting direction which could result in a very high complexity to reach alignment towards a shared vision. Having no official leadership could be challenging in situations where the idea complexity is high.
 
 
 
@@ -30,7 +30,7 @@ Leadership is not elected under this shared ideas ownership approach, decisions 
 
 **Very high contributor participation flexibility (Score - 5)**
 
-A shared idea with emergent leadership would mean that any contributor could participate in supporting the execution of that idea. Contributors who are doing any sizeable amount of work could be elected and compensated through the treasury. No small group of individuals or leadership would prevent anyone from being able to contribute towards an idea.
+A shared idea with emergent leadership would mean that any contributor could participate in supporting the execution of that idea. Contributors who are doing any sizable amount of work could be elected and compensated through the treasury. No small group of individuals or leadership would prevent anyone from being able to contribute towards an idea.
 
 
 

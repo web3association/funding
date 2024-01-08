@@ -6,7 +6,7 @@ description: >-
 
 # Voter outcome influence
 
-Voter outcome influence means determining what amount of influence should the voters have on the outcome of something. This could influence over the voting outcome or influence in changing how something is being approached through sharing feedback and preferences.
+Voter outcome influence means determining what amount of influence should the voters have on the outcome of something. This could influence the voting outcome or influence how something is being approached through sharing feedback and preferences.
 
 The influence that voters have on any specific outcome could sit anywhere along a range of low influence to high influence depending on how the disbursement systems and processes have been designed.
 
@@ -21,14 +21,14 @@ Voter influence could range from being a light suggestion that is meant to be li
 Some potential examples of different levels of influence a voter could have over different outcomes:
 
 * **Light suggestion** - The voters are not expecting a specific response or outcome. A voter who is leaving feedback on a submitted idea could be an example situation where a specific response or outcome is not expected and the feedback is merely trying to be informative and helpful.
-* **High influence suggestion** - The voters are expecting an aligned response based off the voting outcomes. A priority being selected by the community would be an example where the voters would expect the contributors who are being compensated in the ecosystem to respond to this outcome and align their contribution efforts with addressing those priorities.
+* **High influence suggestion** - The voters are expecting an aligned response based on the voting outcomes. A priority being selected by the community would be an example where the voters would expect the contributors who are being compensated in the ecosystem to respond to this outcome and align their contribution efforts with addressing those priorities.
 * **Exact outcome** - The voters are expecting an exact outcome. A system level parameter change would be a vote where an exact outcome is expected.
 
 
 
-The more influence the voter is given on the outcome the more responsibility they are being given to determine what disbursement submissions could help create the most impactful outcomes for the ecosystem. Voters will only have so much capacity and willingness to participate in voting. One key comparison that could be made with this in mind is which processes are of the highest importance that the voter has the highest level of influence over the outcomes and where is this less essential for the disbursement process. Achieving this will make a more scalable disbursement process as voters limited time and capacity needs to be focussed on the highest impact areas that voters both can and want to influence.
+The more influence the voter is given on the outcome the more responsibility they are being given to determine what disbursement submissions could help create the most impactful outcomes for the ecosystem. Voters will only have so much capacity and willingness to participate in voting. One key comparison that could be made with this in mind is which processes are of the highest importance that the voter has the highest level of influence over the outcomes and where is this less essential for the disbursement process. Achieving this will make a more scalable disbursement process as voters have limited time and capacity needs to be focussed on the highest impact areas that voters both can and want to influence.
 
-AI will become an increasingly important factor that could change how both voters and contributors participate in governance decisions. Voters or contributors may decide to delegate some or all of their voting responsibilities to an AI when tasked with certain decisions. Voters could still personally each have the same influence over the outcome of these different decisions however the approach they use to arrive at that decision could change drastically over time.
+AI will become an increasingly important factor that could change how both voters and contributors participate in governance decisions. Voters or contributors may decide to delegate some or all of their voting responsibilities to an AI when tasked with certain decisions. Voters could still personally each have the same influence over the outcome of these different decisions, however the approach they use to arrive at that decision could change drastically over time.
 
 
 
@@ -60,8 +60,8 @@ If the incentives from disbursement are attached to the priorities being selecte
 
 Low. Voters highly benefit from being able to express their preferences and opinions about what ideas they believe are most promising. However the actual selection of ideas does not have to be determined by voters. Instead it could be decided by the contributors who are selected to help with execution. Some separate analysis has been added to compare the factors for utilising either contributors or voters for idea selection:
 
-{% content-ref url="contributor-vs-voter-idea-selection.md" %}
-[contributor-vs-voter-idea-selection.md](contributor-vs-voter-idea-selection.md)
+{% content-ref url="../approaches/decision-approaches/contributor-vs-voter-idea-selection.md" %}
+[contributor-vs-voter-idea-selection.md](../approaches/decision-approaches/contributor-vs-voter-idea-selection.md)
 {% endcontent-ref %}
 
 
@@ -84,4 +84,4 @@ Very high. The contributors can’t select themselves! The community itself will
 
 **High importance environments**
 
-The selection of contributors is always of high importance as if the incentives are attached to priorities or ideas the incentive still mostly ends up being distributed to the contributors that execute those proposals. Voters will select contributors during disbursement whether or not the ideas or priorities are attached to that same decision. Contributors receive the bulk of the disbursement incentives to help with generating impactful outcomes. It is always of high importance that the voters can directly influence how those incentives as disbursed.
+The selection of contributors is always of high importance as if the incentives are attached to priorities or ideas the incentive still mostly ends up being distributed to the contributors that execute those proposals. Voters will select contributors during disbursement whether or not the ideas or priorities are attached to that same decision. Contributors receive the bulk of the disbursement incentives to help with generating impactful outcomes. It is always of high importance that the voters can directly influence how those incentives are disbursed.

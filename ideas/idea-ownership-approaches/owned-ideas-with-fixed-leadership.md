@@ -18,7 +18,7 @@ The owners of the idea have full control over the direction of the idea and exac
 
 **Very low governance decision complexity (Score - 5)**
 
-Any governance decisions are made by the smaller number of owners for the idea meaning the complexity is at its lowest. Only a small number of people would need to be informed when making important decisions. The owners could also invite participation in the governance decisions from a wider audience within the ecosystem, however this would be at the full discretion of the leadership, whom could also easily revoke this approach at any point.
+Any governance decisions are made by the smaller number of owners for the idea meaning the complexity is at its lowest. Only a small number of people would need to be informed when making important decisions. The owners could also invite participation in the governance decisions from a wider audience within the ecosystem, however this would be at the full discretion of the leadership, who could also easily revoke this approach at any point.
 
 
 
