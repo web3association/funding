@@ -12,7 +12,7 @@ The most prominent step in the disbursement process that influences all other ar
 
 Ideas are likely the next major area in the disbursement process that could see frequent changes due to the range of ways that a solution can be defined to solve a certain priority. A wide range of information from internal and external sources could influence how ideas are updated and introduced over time to better address the current priorities. Execution could also likely see a slow to moderate rate of change when any of the contributors involved in the execution of ideas changes or how they operate and collaborate together. Finally an ecosystem's high level priorities would be another step in the disbursement process that would gradually change over time as the ecosystem starts to achieve its existing priorities or when existing priorities become less important than other ones.
 
-<figure><img src="../../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@ Applying some approximate suggestions to think about these rates of change helps
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -34,7 +34,7 @@ The implications of knowledge on the selecting priorities, ideas and contributor
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -48,7 +48,7 @@ If priorities had a fast rate of change in an ecosystem then it would be paramou
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -62,7 +62,7 @@ If some part of an overall idea needs to be changed or improved to respond to ne
 
 
 
-<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 

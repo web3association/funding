@@ -51,3 +51,17 @@ The game theory risks would inherit the same risks as the idea time incentives a
 
 * **Proposal details** - Addressing a priority can take a larger amount of execution effort which could result in allocating a larger amount of compensation in a given proposal. The larger the scope of a proposal the more risk there is that the estimated times it takes to execute something are exaggerated or purposefully estimated incorrectly. This should mostly be picked up using a verification approach of individual contribution logs however the risk of potential abuse happening would still be higher if there is a large enough incentive involved.
 * **Malicious voters** - The larger that the available incentive is the more reasons there are for malicious voters to try and influence the outcome of the disbursement decisions.
+
+
+
+**Moderate contribution flexibility (Score - 3)**
+
+* **Changing an existing idea** - A contributor could change how they execute any existing idea that is focussed on the same priority as much as they need to. There is no added complexity for contributors to change how an existing idea gets executed.
+* **Contributing to a different idea** - For other ideas that are funded by the same priority incentive there would be no added complexity for a contributor to reallocate their efforts to that idea. For ideas that are addressing different priorities a contributor would need to come to some agreement with those other contributors about how they will be compensated and how they will work under their allocated incentives. This approach is only somewhat flexible for enabling contributors to work on different ideas.
+* **Contributing to a different priority** - The contributor would need to get funding for the different priority or come to some agreement with another team who already has funding for a different priority. This approach is not very flexible for enabling contributors to work on different priorities.
+* **Incentive complexities** - A contributor looking to contribute towards a different priority would need to determine how much compensation is needed for them to contribute to those initiatives and then also come to some form of agreement with the other contributors who were funded for addressing that priority. Budgeting for this correctly could be difficult to get right due to many changing factors that could influence how long they actually spend contributing to addressing that priority. Contributors would have no incentive complexity when changing an idea that they are already working on when it's still related to addressing the priority that they already have funding for.
+* **Moderation complexity** - No approval process would be needed for contributors to change how they are executing an existing idea or when they want to allocate their contribution efforts to other ideas that address the same priority. For situations where contributors want to help with another funded priority this is up to the other contributors that they need to come to an agreement with. This means a community approval process wouldn't be needed.
+
+
+
+**Total score = 14 / 25**

@@ -43,3 +43,12 @@ The following are some relevant incentive factors for consideration to help with
 * **Importance score** - 5, Very important. Contributors and voters will respond to the incentives that are placed in front of them. How those incentives are structured and distributed will lead to certain responses based on the game theory that those approaches create.
 * **Scoring questions** - How could voters or contributors act to increase their chances of receiving the available incentives and what impact could that have on the effectiveness of the disbursement process? What emergent behaviours could occur due to how the incentives are structured? Does the incentive approach make it more or less likely that novel initiatives get funding that could generate large amounts of impact for the ecosystem?
 * **Scoring** - Lower risk is good (Score - 5). Higher risk is bad (Score - 1).
+
+
+
+**Contribution flexibility**
+
+* **Description** - Ideas and priorities can change as new information emerges or when preferences or the environment changes. Contributors can benefit from being able to respond to these changes by reallocating their contribution efforts towards initiatives that can generate the most impact for the ecosystem. How incentives get attached to the disbursement process can influence the amount of complexity there is for contributors to change how they allocate their efforts.
+* **Importance score** - 5, Very important. If an ecosystems contributors are not able to be responsive to important changes that happen in the ecosystem there is an increased risk that incentives are wasted due to contribution efforts being allocated to non impactful areas. If an emergency happens in the ecosystem the available contributors will need to be flexible and able to respond to these emergencies as fast as possible.
+* **Scoring questions** - What influence does the incentive have when it is attached to different parts of the process? If contributors suddenly change what they are working on does this compromise the original intent of the incentives? What complexities can emerge when peoples contribution efforts get redirected to other areas?
+* **Scoring** - High flexibility is good (Score - 5). Low flexibility is bad (Score - 1).

@@ -6,7 +6,7 @@ description: Discussing some of the complexities involved in the disbursement pr
 
 Disbursing treasury assets to create impactful outcomes is a complex task that has a number of processes and factors to consider at each stage of the process. The pace in which Web3 ecosystems change, such as how they operate or what applications and services are available, only increases the complexity of treasury disbursement further due to the fact that each process will need to be able to respond and react to these constantly changing environments.
 
-<figure><img src="../../.gitbook/assets/disbursement-process-complexity.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/disbursement-process-complexity.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -19,7 +19,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -30,7 +30,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -41,7 +41,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 
@@ -52,7 +52,7 @@ Each of the knowledge, priority, idea and execution steps involved in the disbur
 
 
 
-<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Complexities**
 

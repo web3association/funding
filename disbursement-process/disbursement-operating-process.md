@@ -6,7 +6,7 @@ description: Overview of the different processes involved in treasury disburseme
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/treasury-disbursement-process.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/treasury-disbursement-process.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,20 +14,20 @@ The [general purpose operating process](https://app.gitbook.com/s/qIN4B3DGHPqKOl
 
 Each of the disbursement processes are covered in more detail in the following documentation:
 
-{% content-ref url="../../knowledge/knowledge-process.md" %}
-[knowledge-process.md](../../knowledge/knowledge-process.md)
+{% content-ref url="../knowledge/adoption-of-knowledge-systems.md" %}
+[adoption-of-knowledge-systems.md](../knowledge/adoption-of-knowledge-systems.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../priorities/priority-process.md" %}
-[priority-process.md](../../priorities/priority-process.md)
+{% content-ref url="../priorities/independent-priority-process.md" %}
+[independent-priority-process.md](../priorities/independent-priority-process.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../ideas/idea-process.md" %}
-[idea-process.md](../../ideas/idea-process.md)
+{% content-ref url="../ideas/idea-process.md" %}
+[idea-process.md](../ideas/idea-process.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../contributors/contributor-process.md" %}
-[contributor-process.md](../../contributors/contributor-process.md)
+{% content-ref url="../contributors/independent-contributor-process.md" %}
+[independent-contributor-process.md](../contributors/independent-contributor-process.md)
 {% endcontent-ref %}
 
 

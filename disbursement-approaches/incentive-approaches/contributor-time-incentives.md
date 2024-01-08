@@ -50,3 +50,18 @@ Contributors would provide their personal, professional, contribution history in
 * **Execution verification** - Contributors could lie about their contribution efforts to attempt to get compensated for work they didn’t do. If this work can be proven to be someone else’s efforts the contributor would have a high risk of causing long term reputation damage that they can’t remove.
 * **Malicious voters** - If a handful of voters were trying to benefit themselves or other people they know through their voting behaviour they would struggle to get more funding than they are able to allocate to the individuals that they are trying to support. Those individuals would only be able to request compensation to pay for their salaries.
 * **Voting outcomes** - There is a much lower risk of contribution efforts not being directed to novel research and innovation as contributors would not be prevented from identifying and working on any of these areas themself. Contributors are who would be responsible for selecting the most impactful opportunities to work on. Attaching the incentive to contributors helps to remove the need for the wider community to approve every idea that will get executed and gives more autonomy to the contributors who should be well informed enough to judge what areas are most worth spending their time on to try and generate impact for the ecosystem.
+
+
+
+**Very high contribution flexibility (Score - 5)**
+
+* **Changing an existing idea** - A contributor could change an idea as many times as they like as they are being paid for their contribution time. There is no added complexity for contributors to change how an existing idea gets executed.
+* **Contributing to a different idea** - A contributor could redirect their efforts for any amount of time to other ideas in the ecosystem if they believe another idea will generate more impact than the current one they are working on. There is no added complexity for contributors to start contributing towards a different idea.
+* **Contributing to a different priority** - Same as the above.
+* **Incentive complexities** - Contributors wouldn't need to come to agreement with any other initiative or spend time considering how much they should be compensated as they will already be allocated the amount the requested for helping with execution efforts.
+* &#x20;compensation if they redirected their contribution efforts to another idea or priority or changed an existing idea.
+* **Moderation complexity** - No approval process is needed for contributors to change an existing idea or to allocate their contribution efforts towards a different idea or priority.&#x20;
+
+
+
+**Total score = 24 / 25**

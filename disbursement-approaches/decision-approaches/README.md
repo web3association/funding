@@ -43,7 +43,7 @@ A number of decision approaches could be used to select which priorities, ideas 
 
 
 
-To compare these decision approaches a number of [factors have been considered](decision-factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
+To compare these decision approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
 <figure><img src="../../.gitbook/assets/disbursement-decision-approaches-comparison.png" alt=""><figcaption></figcaption></figure>
 
@@ -53,16 +53,16 @@ The most expressive, flexible and least complex of the decision approaches outli
 
 The differences between passive idea selection and delegated idea selection have been explored in more detail here:
 
-{% content-ref url="contributor-vs-voter-idea-selection.md" %}
-[contributor-vs-voter-idea-selection.md](contributor-vs-voter-idea-selection.md)
+{% content-ref url="../../outcome-influence/contributor-vs-voter-idea-selection.md" %}
+[contributor-vs-voter-idea-selection.md](../../outcome-influence/contributor-vs-voter-idea-selection.md)
 {% endcontent-ref %}
 
 
 
 **Decision approaches analysis**
 
-{% content-ref url="decision-factors-for-consideration.md" %}
-[decision-factors-for-consideration.md](decision-factors-for-consideration.md)
+{% content-ref url="factors-for-consideration.md" %}
+[factors-for-consideration.md](factors-for-consideration.md)
 {% endcontent-ref %}
 
 {% content-ref url="fully-combined-decision.md" %}

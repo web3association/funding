@@ -60,8 +60,8 @@ If the incentives from disbursement are attached to the priorities being selecte
 
 Low. Voters highly benefit from being able to express their preferences and opinions about what ideas they believe are most promising. However the actual selection of ideas does not have to be determined by voters. Instead it could be decided by the contributors who are selected to help with execution. Some separate analysis has been added to compare the factors for utilising either contributors or voters for idea selection:
 
-{% content-ref url="../approaches/decision-approaches/contributor-vs-voter-idea-selection.md" %}
-[contributor-vs-voter-idea-selection.md](../approaches/decision-approaches/contributor-vs-voter-idea-selection.md)
+{% content-ref url="contributor-vs-voter-idea-selection.md" %}
+[contributor-vs-voter-idea-selection.md](contributor-vs-voter-idea-selection.md)
 {% endcontent-ref %}
 
 

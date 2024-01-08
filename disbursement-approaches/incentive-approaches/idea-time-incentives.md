@@ -47,3 +47,17 @@ Idea time incentives mean the proposals will detail out how an idea is going to 
 * **Execution verification** - Proposers would be required to submit evidence to prove they have completed a month's worth of execution efforts. The main way that the contributors could try to exploit this process for their benefit is by claiming they did the work of someone else in a milestone and using that as evidence or by claiming that the work they did complete took a month when in fact it took less than a month.
 * **Malicious voters** - Malicious groups of voters that are trying to benefit themselves would have a larger incentive and ability to get access to more funding compared to just contributor incentives as the compensation for an idea could be budgeted to exceed the costs of the contributors salaries that are suggesting the proposal. The excess in costs could be misused to benefit the proposers.
 * **Voting outcomes** - Voters have the personal incentive of voting on things that will benefit them. The risk of this occurring at a wider scale is that novel research and innovation that does not immediately benefit the voter does not get actively supported. This could just be because the potential impact of this work is not easily understood due to its complexity or novelty. It could be difficult to get the community to widely agree on every idea that should be supported that could have the potential to generate large amounts of impact.
+
+
+
+**Low contribution flexibility (Score - 2)**
+
+* **Changing an existing idea** - A contributor could change how they execute an idea as much as they need to as they have not committed to any specific execution milestones and instead will allocate their time to executing the idea to the best of their abilities. There is no added complexity for contributors to change how an existing idea gets executed.
+* **Contributing to a different idea** - For other funded ideas a contributor would need to come to some agreement with those other contributors about how they will be compensated and how they will work under their allocated incentives. This approach is not very flexible for enabling contributors to work on different ideas.
+* **Contributing to a different priority** - The contributor would need to get funding for an idea that addresses the other priority or come to some agreement with another team who already has funding for an idea that is addressing the different priority. This approach is not very flexible for enabling contributors to work on different priorities.
+* **Incentive complexities** - A contributor looking to contribute towards a different idea would need to determine how much compensation is needed for them to contribute to those initiatives and then also come to some form of agreement with the other contributors who were funded for that initiative. Budgeting for this correctly could be difficult to get right due to many changing factors that could influence how long they actually spend contributing to these other ideas.
+* **Moderation complexity** - No approval process is needed for contributors to change how they are executing an existing idea. For situations where contributors want to help with another funded idea this is up to the other contributors that they need to come to an agreement with. This means a community approval process wouldn't be needed.
+
+
+
+**Total score =  17 / 25**

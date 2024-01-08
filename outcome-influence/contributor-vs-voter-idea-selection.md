@@ -6,7 +6,7 @@ description: >-
 
 # Contributor vs voter idea selection
 
-<figure><img src="../../.gitbook/assets/voter-and-contributor-idea-selection.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/voter-and-contributor-idea-selection.png" alt=""><figcaption></figcaption></figure>
 
 The key difference between independent decisions and passive idea selection is that with passive idea selection it is accepted that all voters do not need to try and vote on all ideas. Instead voters are only encouraged to vote in areas they are more interested in or have expertise in. This more relaxed stance and expectation on voters expected involvement in idea selection becomes far more scalable for handling a growing number of voters by helping to more drastically reduce the time required and the expected complexity to compare and vote on ideas. This is because voters would only spend time on the ideas they want to spend time on due to their own interests or expertise rather than all of the available ideas.
 

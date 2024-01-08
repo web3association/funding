@@ -17,7 +17,7 @@ Some of these different idea ownership approaches include:
 
 
 
-To compare these approaches a number of [factors have been considered](idea-ownership-factors-for-consideration.md) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
+To compare these approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
 
 <figure><img src="../../.gitbook/assets/idea-ownership-approaches.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,8 +25,8 @@ To compare these approaches a number of [factors have been considered](idea-owne
 
 **Idea ownership approach analysis**
 
-{% content-ref url="idea-ownership-factors-for-consideration.md" %}
-[idea-ownership-factors-for-consideration.md](idea-ownership-factors-for-consideration.md)
+{% content-ref url="factors-for-consideration.md" %}
+[factors-for-consideration.md](factors-for-consideration.md)
 {% endcontent-ref %}
 
 {% content-ref url="owned-ideas-with-fixed-leadership.md" %}
