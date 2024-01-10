@@ -57,10 +57,9 @@ Contributors would provide their personal, professional, contribution history in
 
 * **Changing an existing idea** - A contributor could change an idea as many times as they like as they are being paid for their contribution time. There is no added complexity for contributors to change how an existing idea gets executed.
 * **Contributing to a different idea** - A contributor could redirect their efforts for any amount of time to other ideas in the ecosystem if they believe another idea will generate more impact than the current one they are working on. There is no added complexity for contributors to start contributing towards a different idea.
-* **Contributing to a different priority** - Same as the above.
+* **Contributing to a different priority** - Same as the above. There is no added complexity for contributors to start contributing towards a different priority.
 * **Incentive complexities** - Contributors wouldn't need to come to agreement with any other initiative or spend time considering how much they should be compensated as they will already be allocated the amount the requested for helping with execution efforts.
-* &#x20;compensation if they redirected their contribution efforts to another idea or priority or changed an existing idea.
-* **Moderation complexity** - No approval process is needed for contributors to change an existing idea or to allocate their contribution efforts towards a different idea or priority.&#x20;
+* **Moderation complexity** - No approval process is needed for contributors to change an existing idea or when they allocate their contribution efforts towards a different idea or priority.
 
 
 
