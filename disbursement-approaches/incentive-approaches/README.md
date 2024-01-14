@@ -87,6 +87,16 @@ To compare these disbursement incentive approaches a number of [factors have bee
 
 
 
+## Idea cost approaches
+
+The majority of funding for executing ideas is often used for compensating the contribution efforts that are made by the individuals involved in the execution of those ideas. Ideas can also require different assets, products or services to help with generating the intended outcome. These costs for the different assets, products or services will need to be handled by the disbursement process. There are a few approaches for how idea costs could be handled:
+
+{% content-ref url="../../approaches/incentive-approaches/idea-cost-approaches/" %}
+[idea-cost-approaches](../../approaches/incentive-approaches/idea-cost-approaches/)
+{% endcontent-ref %}
+
+
+
 ## Considerations for incentivising the submission and maintenance of information
 
 The majority of incentives will be used to help compensate for the contribution efforts made to execute different ideas. Incentives could also be useful for encouraging the submission of information such as proposals or they could also be used for compensating contributors to maintain information that is important to the ecosystem. Considerations for submission incentives and the maintenance of information can be found here:

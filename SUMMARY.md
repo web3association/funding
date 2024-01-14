@@ -36,6 +36,11 @@
   * [Idea milestone incentives](disbursement-approaches/incentive-approaches/idea-milestone-incentives.md)
   * [Idea time incentives](disbursement-approaches/incentive-approaches/idea-time-incentives.md)
   * [Contributor time incentives](disbursement-approaches/incentive-approaches/contributor-time-incentives.md)
+  * [Idea cost approaches](approaches/incentive-approaches/idea-cost-approaches/README.md)
+    * [Idea cost factors for consideration](approaches/incentive-approaches/idea-cost-approaches/idea-cost-factors-for-consideration.md)
+    * [Costs attached to contributors](approaches/incentive-approaches/idea-cost-approaches/costs-attached-to-contributors.md)
+    * [Costs attached to ideas](approaches/incentive-approaches/idea-cost-approaches/costs-attached-to-ideas.md)
+    * [Independent idea costs process](approaches/incentive-approaches/idea-cost-approaches/independent-idea-costs-process.md)
   * [Proposal submission incentives](disbursement-approaches/incentive-approaches/proposal-submission-incentives.md)
   * [Maintenance of information incentives](disbursement-approaches/incentive-approaches/maintenance-of-information-incentives.md)
 * [Contribution verification approaches](disbursement-approaches/contribution-verification-approaches/README.md)
@@ -62,7 +67,6 @@
   * [Owned ideas with distributed decisions](ideas/idea-ownership-approaches/owned-ideas-with-distributed-decisions.md)
   * [Shared ideas with elected leadership](ideas/idea-ownership-approaches/shared-ideas-with-elected-leadership.md)
   * [Shared ideas with emergent leadership](ideas/idea-ownership-approaches/shared-ideas-with-emergent-leadership.md)
-* [Approaches for handling idea costs](ideas/approaches-for-handling-idea-costs.md)
 
 ## Contributors
 
