@@ -48,6 +48,26 @@ To compare these idea cost approaches a number of [factors have been considered]
 
 
 
+**Idea cost approach analysis**
+
+{% content-ref url="idea-cost-factors-for-consideration.md" %}
+[idea-cost-factors-for-consideration.md](idea-cost-factors-for-consideration.md)
+{% endcontent-ref %}
+
+{% content-ref url="costs-attached-to-contributors.md" %}
+[costs-attached-to-contributors.md](costs-attached-to-contributors.md)
+{% endcontent-ref %}
+
+{% content-ref url="costs-attached-to-ideas.md" %}
+[costs-attached-to-ideas.md](costs-attached-to-ideas.md)
+{% endcontent-ref %}
+
+{% content-ref url="independent-idea-costs-process.md" %}
+[independent-idea-costs-process.md](independent-idea-costs-process.md)
+{% endcontent-ref %}
+
+
+
 ## Considerations for **adopting an independent idea costs process**
 
 
