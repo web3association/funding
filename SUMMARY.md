@@ -49,6 +49,13 @@
   * [Project time based contribution logs](disbursement-approaches/contribution-verification-approaches/project-time-based-contribution-logs.md)
   * [Individual time based contribution logs](disbursement-approaches/contribution-verification-approaches/individual-time-based-contribution-logs.md)
   * [Importance of contribution measurability](disbursement-approaches/contribution-verification-approaches/importance-of-contribution-measurability.md)
+* [Impact measurement approaches](approaches/impact-measurement-approaches/README.md)
+  * [Ecosystem areas for impact measurement](approaches/impact-measurement-approaches/ecosystem-areas-for-impact-measurement.md)
+  * [Contributors areas for impact measurement](approaches/impact-measurement-approaches/contributors-areas-for-impact-measurement.md)
+  * [Impact measuring factors for consideration](approaches/impact-measurement-approaches/impact-measuring-factors-for-consideration.md)
+  * [Priority impact measurement](approaches/impact-measurement-approaches/priority-impact-measurement.md)
+  * [Idea impact measurement](approaches/impact-measurement-approaches/idea-impact-measurement.md)
+  * [Contributor impact measurement](approaches/impact-measurement-approaches/contributor-impact-measurement.md)
 
 ## Knowledge
 
