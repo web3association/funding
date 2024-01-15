@@ -4,7 +4,7 @@ description: Overview about the purpose of these resources about treasury disbur
 
 # About
 
-<figure><img src=".gitbook/assets/disbursement-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/disbursement-header-generated.png" alt=""><figcaption></figcaption></figure>
 
 
 
