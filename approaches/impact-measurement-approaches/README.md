@@ -30,8 +30,8 @@ There are many different ecosystem areas and contributor areas that could be tra
 
 There are three main approaches that have been compared to consider how impact could be measured in the disbursement process:
 
-* [Priority impact measurement](priority-impact-measurement.md) - Addressed priorities can be measured to determine what impact that priority has had on the ecosystem.
-* [Idea impact measurement](idea-impact-measurement.md) - Executed ideas can be measured to determine how much they helped to address any existing priorities or making any other forms of impact for the ecosystem.
+* [Priority impact measurement](priority-impact-measurement.md) - Addressed priorities can be measured to determine which priorities helped to generate the most impact for the ecosystem.
+* [Idea impact measurement](idea-impact-measurement.md) - Executed ideas can be measured to determine how much that idea helped to address any existing priorities and also how it helped to generate any other forms of impact for the ecosystem.
 * [Contributor impact measurement](contributor-impact-measurement.md) - Contributors efforts can be measured to determine how much impact they have generated for executing ideas and making any other forms of impact for the ecosystem.
 
 To compare these impact measurement approaches a number of [factors have been considered](impact-measuring-factors-for-consideration.md) and then applied to each approach to better understand the similarities and differences between each approach.
