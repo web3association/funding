@@ -74,6 +74,8 @@
   * [Owned ideas with distributed decisions](ideas/idea-ownership-approaches/owned-ideas-with-distributed-decisions.md)
   * [Shared ideas with elected leadership](ideas/idea-ownership-approaches/shared-ideas-with-elected-leadership.md)
   * [Shared ideas with emergent leadership](ideas/idea-ownership-approaches/shared-ideas-with-emergent-leadership.md)
+* [Idea execution considerations](ideas/idea-execution-considerations/README.md)
+  * [Idea examples](ideas/idea-execution-considerations/idea-examples.md)
 
 ## Contributors
 
