@@ -6,6 +6,4 @@ description: Overview about the purpose of these resources about treasury disbur
 
 <figure><img src=".gitbook/assets/disbursement-header-generated.png" alt=""><figcaption></figcaption></figure>
 
-
-
-These resources are aimed at thinking about the disbursement process for treasury systems. Content will cover areas such as the approaches which could be used to disperse funds and the implications of each one, what is happening in existing systems and how that relates to Web3 ecosystems and analysis on what the data is showing such as the return on investment and overall performance of different treasuries.
+A disbursement process helps with identifying and funding the initiatives that are able to generate the most impact for an ecosystem. These resources are aimed at thinking about how a disbursement process can be designed and operated. Resources currently cover the key parts of the disbursement process, what disbursement approaches could be most promising to adopt and a range of different considerations that should be made when implementing a disbursement process.
