@@ -34,7 +34,7 @@ Contributors who are looking to participate in the idea would be reliant on the 
 
 
 
-**Very high contribution outcomes openness risk (Score - 1)**
+**Very high openness of execution outcomes risks (Score - 1)**
 
 If the owned idea is competing as a business opportunity there is a much higher risk that some or all of the contribution outcomes are not made publicly available. If there is source code or proprietary information that gives that team an advantage in the market they are less likely to share that publicly for the good of the community as this would reduce or even remove their advantage. Higher competition between competing teams could also lead to less collaboration and higher duplicated efforts.
 

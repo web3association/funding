@@ -34,7 +34,7 @@ The elected leadership could be given responsibility for choosing which contribu
 
 
 
-**Very low contribution outcomes openness risk (Score - 5)**
+**Very low openness of execution outcomes risks (Score - 5)**
 
 A shared idea is owned by the community meaning all contribution outcomes would be made public and freely available. This means all software, processes and insights should be open sourced and freely available. Any contribution outcomes are available for anyone in the community to iterate and experiment on themselves.
 

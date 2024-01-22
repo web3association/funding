@@ -34,7 +34,7 @@ If processes around contributor selection and prioritisation get pushed towards 
 
 
 
-**High contribution outcomes openness risk (Score - 2)**
+**High openness of execution outcomes risks (Score - 2)**
 
 If the owned idea is competing as a business opportunity there is a much higher risk that some or all of the contribution outcomes are not made publicly available. If there is source code or proprietary information that gives a team an advantage in the market they are less likely to share that publicly for the good of the community as this would reduce or remove their advantage. This risk could be reduced somewhat through distributed decisions as if community members interested in numerous similar ideas are able to contribute towards these ideas they might be able to generate an increased amount of openness for any contribution outcomes they help generate.
 

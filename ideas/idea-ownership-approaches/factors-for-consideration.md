@@ -44,7 +44,7 @@ The following are some different factors worth considering for comparing the dif
 
 
 
-**Contribution outcomes openness risk**
+**Openness of execution outcomes risks**
 
 * **Description** - Idea ownership can influence the likelihood of whether all of the contribution outcomes are provided freely to the community such as open sourcing the code and processes or sharing any operational insights.
 * **Why it’s important** - Making the contribution outcomes from executing an idea freely available means that other communities should be able to easily take those outcomes and iterate upon them to make further improvements. It also means that the ecosystem would be able to more quickly learn about how that idea can be better executed and what problems and opportunities might exist for future contribution efforts.
