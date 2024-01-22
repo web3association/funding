@@ -6,7 +6,7 @@ description: >-
 
 # Decision approaches
 
-<figure><img src="../../.gitbook/assets/disbursement-decision-approaches.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disbursement-decision-approaches (1).png" alt=""><figcaption></figcaption></figure>
 
 A high level overview of the key decisions that are made during disbursement are that voters are tasked with digesting any self selecting any relevant knowledge about an ecosystem before they then move onto selecting the most important priorities, ideas and contributors that could help with generating impactful outcomes for the ecosystem.
 
@@ -45,9 +45,9 @@ A number of decision approaches could be used to select which priorities, ideas 
 
 To compare these decision approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
-<figure><img src="../../.gitbook/assets/disbursement-decision-approaches-comparison.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disbursement-decision-approaches.png" alt=""><figcaption></figcaption></figure>
 
-The most expressive, flexible and least complex of the decision approaches outlined above were those that adopted independent processes for decision making to select the preferred or most promising priorities, ideas and contributors.
+The most expressive, flexible and least complex of the decision approaches outlined above were those that adopted independent processes for decision making to select the most important priorities, ideas and contributors.
 
 
 
