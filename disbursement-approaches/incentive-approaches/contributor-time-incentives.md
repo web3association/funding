@@ -63,4 +63,11 @@ Contributors would provide their personal, professional, contribution history in
 
 
 
-**Total score = 24 / 25**
+**High income stability (Score - 4)**
+
+* **Likelihood of future income** - If contributors are selected based of their merits, such as their contribution history and professional background, the chances of being selected for future compensation could be quite high for well performing contributors. Providing contributors are able to provide evidence about their contributions made the chance that high performers get selected again should increase over time as the ecosystems ability to measure contributors performance and impact generated is improved.
+* **Compensation accuracy** - Contributors would be paid for their time spent executing ideas that help to execute the funded idea. The compensation would be agreed ahead of time and the contributor could expect high stability over the income they receive whilst they are contributing to the ecosystem.
+
+
+
+**Total score = 28 / 30**

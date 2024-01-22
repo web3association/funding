@@ -52,3 +52,12 @@ The following are some relevant incentive factors for consideration to help with
 * **Importance score** - 5, Very important. If an ecosystems contributors are not able to be responsive to important changes that happen in the ecosystem there is an increased risk that incentives are wasted due to contribution efforts being allocated to non impactful areas. If an emergency happens in the ecosystem the available contributors will need to be flexible and able to respond to these emergencies as fast as possible.
 * **Scoring questions** - What influence does the incentive have when it is attached to different parts of the process? If contributors suddenly change what they are working on does this compromise the original intent of the incentives? What complexities can emerge when peoples contribution efforts get redirected to other areas?
 * **Scoring** - High flexibility is good (Score - 5). Low flexibility is bad (Score - 1).
+
+
+
+**Income stability**
+
+* **Description** - Where the incentives get attached to the disbursement process will influence the income stability for contributors. This will be based on how likely it is they get under or over compensated for their contribution efforts and also how consistently they are able to get selected for receiving future compensation.
+* **Importance score** - 5, Very important. Contributors who have to handle unstable income will need to spend more of their time planning and accounting for these problems. Some contributors might decide to simply not participate in the environments where income is not stable as they cannot afford to not be paid for their contribution efforts. Higher income stability means that contributors can spend more of their time focusing on their contribution efforts and generating impactful outcomes for an ecosystem.
+* **Scoring questions** - What is the likelihood of a contributor receiving future compensation based on how it is being attached to the disbursement process? How often could contributors be under or over compensated for their contribution efforts?
+* **Scoring** - High stability is good (Score - 5). Low stability is bad (Score - 1).

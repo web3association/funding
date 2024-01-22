@@ -64,4 +64,11 @@ The game theory risks would inherit the same risks as the idea time incentives a
 
 
 
-**Total score = 14 / 25**
+**Moderate income stability (Score - 3)**
+
+* **Likelihood of future income** - Being selected for one priority will not result in any high certainty that the contributor will have their future priorities selected. The contributor will need to identify the most promising priorities that might get selected and then request to join those proposals if they want to increase the chances that they receive future compensation.&#x20;
+* **Compensation accuracy** - Contributors would be paid for their time spent executing ideas that help to address the funded priority. The compensation can be set and agreed ahead of time in the priority proposal meaning there should be a high stability around the actual income they receive whilst they are working on that funded priority.
+
+
+
+**Total score = 17 / 30**

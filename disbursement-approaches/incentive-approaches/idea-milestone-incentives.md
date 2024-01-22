@@ -60,4 +60,11 @@ Idea milestone incentives mean that a proposal would detail out the different ta
 
 
 
-**Total score =  10 / 25**
+**Low income stability (Score - 2)**
+
+* **Likelihood of future income** - Being selected for one idea will not result in any high certainty that the contributor will have their future ideas get selected. The contributor will need to identify the most promising ideas that might get selected and then request to join those proposals if they want to increase the chances that they receive future compensation.&#x20;
+* **Compensation accuracy** - Predicting the time it takes for every execution milestone is challenging. Ideas that need to be executed may change due to factors outside of the contributors control during execution. Changes in the idea being executed and surrounding factors and environments can lead to situations where the contributor is under or over compensated for their contribution efforts.
+
+
+
+**Total score =  12 / 30**
