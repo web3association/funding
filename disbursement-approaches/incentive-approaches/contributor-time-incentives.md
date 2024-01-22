@@ -23,7 +23,7 @@ Contributors would provide their personal, professional, contribution history in
 **Very low budgeting complexity (Score - 5)**
 
 * **Budget planning complexity** - Contributors only need to state what their expected compensation will be for the period that they would be contributing for. The complexity for budget planning for salaries is reduced by the fact that there is already a lot of market data available about the different roles that exist and the salary ranges they get paid. It is ultimately up to the contributor to determine what they are happy with and the community to decide whether they accept or decline that budget. Contributors will also be able to provide evidence of previous roles and the attached compensation or provide contribution history to help with justifying their compensation request.
-* **Execution scope risks** - The scope is time based and only focussed on one individual, meaning there are no risks of the proposal taking longer or shorter than expected. The contributor will simply be compensated for the contribution time that was requested and approved. This approach removes the risk of contributors being under or over compensated for their contribution efforts. If the contributor provides proof of a month's contribution they will be eligible to receive the next round of compensation.
+* **Execution scope risks** - The scope is time based and only focussed on one individual, meaning there are no risks of the proposal taking longer or shorter than expected. The contributor will simply be compensated for the contribution time that was requested and approved. If the contributor provides evidence that shows their month of contribution effort they will be eligible to receive the next round of compensation.
 
 
 
