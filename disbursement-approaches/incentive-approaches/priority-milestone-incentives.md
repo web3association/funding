@@ -22,7 +22,7 @@ Priority milestone incentives mean that a proposal would detail out the differen
 
 The budgeting complexity would inherit the same complexities as the idea milestone incentives approach. On top of this there is even increased complexity due to the following:
 
-* **Budget planning complexity** - The larger the scope and budget is for addressing a priority the higher the complexity there is in budget planning due to the range of ideas that might be involved and the range and depth of the tasks that might need to be executed for those ideas. Large scope also increases the likelihood that something could happen during execution that changes the priority or the ideas being executed. This puts further difficulty in creating accurately budgeted milestones.
+* **Budget planning complexity** - The larger the scope and budget is for addressing a priority the higher the complexity there is in budget planning due to the range of ideas that might be involved and the range and depth of the tasks that might need to be executed for those ideas. Large scope also increases the likelihood that something could happen during execution that changes the priority or the ideas being executed. This further increases the difficulty of creating accurately budgeted milestones.
 * **Execution scope risks** - Having proposals that could fund multiple ideas increases the potential scope and scale of the compensation being requested. The larger the scope of the idea the more risk there is that the execution efforts could take longer or shorter than expected due to a range of emerging factors during execution.
 
 
