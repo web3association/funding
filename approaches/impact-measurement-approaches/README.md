@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/impact-measurement-approaches-title.png" alt=""><figcaption></figcaption></figure>
 
-A disbursement process should help with allocating funds to initiatives that can help to generate impact for the ecosystem. Ecosystems benefit from being able to reliably identify and understand which initiatives are helping to generate the most impact. The better an ecosystem can achieve this the more they can then apply this information during disbursement to make better decisions about which initiatives future funding could be directed towards. The ecosystems that grow and thrive the most will usually be the ones that can generate the most impact consistently and repeatedly for their communities.
+A disbursement process should help with allocating funds to initiatives that can help to generate impact for the ecosystem. Ecosystems benefit from being able to reliably identify and understand which initiatives are helping to generate the most impact. The better an ecosystem can achieve this the more they can then apply this information during disbursement to make better decisions about where to allocate future funding.
 
 Many parts of the disbursement process could be measured to determine what impact has been generated. Priorities that get addressed, ideas that are executed and contributors who make execution efforts to support the ecosystem can all be relevant areas that could be measured to determine how impact was generated due to the disbursement process.
 
