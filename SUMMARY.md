@@ -48,7 +48,6 @@
   * [Task milestone based contribution logs](disbursement-approaches/contribution-verification-approaches/task-milestone-based-contribution-logs.md)
   * [Project time based contribution logs](disbursement-approaches/contribution-verification-approaches/project-time-based-contribution-logs.md)
   * [Individual time based contribution logs](disbursement-approaches/contribution-verification-approaches/individual-time-based-contribution-logs.md)
-  * [Importance of contribution measurability](disbursement-approaches/contribution-verification-approaches/importance-of-contribution-measurability.md)
 * [Impact measurement approaches](approaches/impact-measurement-approaches/README.md)
   * [Ecosystem areas for impact measurement](approaches/impact-measurement-approaches/ecosystem-areas-for-impact-measurement.md)
   * [Contributors areas for impact measurement](approaches/impact-measurement-approaches/contributors-areas-for-impact-measurement.md)
@@ -90,6 +89,10 @@
 
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
 * [Contribution incentive approaches](incentives/contribution-incentive-approaches.md)
+
+## Contribution efforts
+
+* [Contribution measurability](contribution-efforts/contribution-measurability.md)
 
 ## Impact
 

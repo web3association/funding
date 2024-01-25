@@ -12,8 +12,8 @@ Contribution verification is where contributors submit evidence about their cont
 
 The importance of contribution measurability is of high relevance for establishing a more scalable approach for verifying contribution efforts:
 
-{% content-ref url="importance-of-contribution-measurability.md" %}
-[importance-of-contribution-measurability.md](importance-of-contribution-measurability.md)
+{% content-ref url="../../contribution-efforts/contribution-measurability.md" %}
+[contribution-measurability.md](../../contribution-efforts/contribution-measurability.md)
 {% endcontent-ref %}
 
 

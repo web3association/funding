@@ -14,6 +14,12 @@ Many parts of the disbursement process could be measured to determine what impac
 
 This impact measurement approach comparison is not suggesting the adoption of one approach over another. Instead this comparison helps to identify some of the complexities involved in impact measurement across these different areas. All of these measurement approaches can be an important part of an ecosystems strategy to better understand how they can consistently generate for their ecosystem through disbursement.
 
+The importance of contribution measurability is a relevant topic when thinking about impact measurement approaches:&#x20;
+
+{% content-ref url="../../contribution-efforts/contribution-measurability.md" %}
+[contribution-measurability.md](../../contribution-efforts/contribution-measurability.md)
+{% endcontent-ref %}
+
 There are many different ecosystem areas and contributor areas that could be tracked to help with understanding and measuring what impact is being generated. For ecosystem areas and contributor areas there are a number of quantitative and qualitative examples that can be considered:
 
 {% content-ref url="ecosystem-areas-for-impact-measurement.md" %}
