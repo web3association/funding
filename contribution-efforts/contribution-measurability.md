@@ -4,6 +4,8 @@ description: Overview covering the importance of contribution measurability
 
 # Contribution measurability
 
+<figure><img src="../.gitbook/assets/contribution-logs.png" alt=""><figcaption></figcaption></figure>
+
 Recorded contribution outcomes can help with verifying peoples contribution efforts, impact and performance measurement and also for making historical comparisons to better understand how contribution performance and outcomes are changing over time as an ecosystem evolves.
 
 
