@@ -79,6 +79,7 @@
 ## Contributors
 
 * [Contributor process](contributors/independent-contributor-process.md)
+* [Self sovereign identity opportunities](contributors/self-sovereign-identity-opportunities.md)
 
 ## Outcome influence
 
