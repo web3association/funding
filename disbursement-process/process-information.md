@@ -83,6 +83,7 @@ Any information relevant to the ecosystem that could help with making more well 
   * Tags & categorisations - Tags or categorisations that make it easier to traverse and find this idea when it is amongst many others.
   * Metadata - Date the idea was created or updated along with any other relevant information.
   * Resources - Links to external resources that are relevant for helping explain the idea further or for justifying the ideas potential to address ecosystem priorities.
+* **Impact measuring information** - The outcomes from executed ideas can be recorded and analysed to better understand what impact is being generated. Data could include usage and system metrics or qualitative feedback about people's experience when using or participating in the events, resources, applications or any other executed outcome.
 
 
 
@@ -110,7 +111,6 @@ Any information relevant to the ecosystem that could help with making more well 
 * **Operating process information** - When executing ideas a group of contributors can gather a range of information when using tools and adopting different processes.
   * Collaboration tools - Any tools being used to collaborate, schedule and organise a group of contributors execution efforts can help with creating insights and information that could be useful for making considerations about how to improve future execution efforts.
   * Progress and audit data - Any tools used to track progress and completion can help with creating insights and information about how well execution efforts are going and also help with providing auditable information that ecosystem members can consider in future decisions.
-* **Impact measuring information** - The outcomes from executed ideas can be recorded and analysed to better understand what impact is being generated. Data could include usage and system metrics or qualitative feedback about people's experience when using or participating in the events, resources, applications or any other executed outcome.
 
 
 
