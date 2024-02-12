@@ -1,5 +1,5 @@
 ---
-description: Overview about the purpose of these resources about treasury disbursement
+description: Treasury disbursement resources overview
 ---
 
 # About
