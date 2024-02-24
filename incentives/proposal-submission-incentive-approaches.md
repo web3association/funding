@@ -46,7 +46,7 @@ A lot of effort and time can be needed to create and maintain resources that get
 
 ## **No incentives**
 
-![](../.gitbook/assets/incentive-none.png)
+![](broken-reference)
 
 Not adding an incentive to the proposal submission process means there would be no financial compensation for making proposal submissions. The incentive to encourage submissions is either dealt with elsewhere or relies on other forms of incentives.
 
@@ -70,7 +70,7 @@ Not adding an incentive to the proposal submission process means there would be 
 
 ## Submission incentives
 
-![](../.gitbook/assets/incentive-submission.png)
+![](broken-reference)
 
 Providing submission incentives means compensation is rewarded at the point of proposal submission. A verification process could also be part of this approach that determines whether a proposal submission meets a certain quality threshold before it gets accepted.
 
@@ -91,7 +91,7 @@ Providing submission incentives means compensation is rewarded at the point of p
 
 ## Selection incentives
 
-![](../.gitbook/assets/incentive-selected.png)
+![](broken-reference)
 
 Incentives at the point of proposal selection means that compensation for making a proposal submission would only occur if that proposal is selected through voting. The voting process itself could operate in many forms such as confidence voting, preference rankings, yes / no outcomes or using numerous other potential voting approaches.
 

@@ -36,7 +36,7 @@ If the contribution outcomes from multiple people are combined into the same con
 
 Keeping contribution logs focussed on only one person and setting the time period to monthly records helps to make the history of someone's contribution efforts more measurable. This is one of the simplest ways to make contribution outcomes more measurable. In terms of execution scope the measurability could potentially be improved in these logs by recording the different skills used over the course of a month separately in the same submission. Design and code contributions could each be separately tagged with the different skills that were used or alternatively they could be written down separately in different skill based sections.
 
-<figure><img src="../.gitbook/assets/individual-monthly-contribution-logs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
 
 
 
