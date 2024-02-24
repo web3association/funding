@@ -1,6 +1,10 @@
 # Shared ideas with elected leadership
 
-![](../../.gitbook/assets/shared-idea-with-elected-leadership.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/shared-idea-with-elected-leadership.png" alt="" width="225"><figcaption></figcaption></figure>
+
+</div>
 
 
 

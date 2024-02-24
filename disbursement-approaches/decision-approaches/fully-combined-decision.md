@@ -4,7 +4,11 @@ description: Fully combined decision for selecting priorities, ideas and contrib
 
 # Fully combined decision
 
-![](../../.gitbook/assets/fully-combined-process.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/fully-combined-decision.png" alt="" width="260"><figcaption></figcaption></figure>
+
+</div>
 
 
 

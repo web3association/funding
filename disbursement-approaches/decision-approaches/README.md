@@ -6,9 +6,11 @@ description: >-
 
 # Decision approaches
 
-<figure><img src="../../.gitbook/assets/disbursement-decision-approaches (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disbursement-decision-approaches-title.png" alt=""><figcaption></figcaption></figure>
 
 A high level overview of the key decisions that are made during disbursement are that voters are tasked with digesting any self selecting any relevant knowledge about an ecosystem before they then move onto selecting the most important priorities, ideas and contributors that could help with generating impactful outcomes for the ecosystem.
+
+
 
 <div align="left">
 

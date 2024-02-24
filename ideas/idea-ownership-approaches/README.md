@@ -75,7 +75,11 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 ## Owned ideas
 
-![](../../.gitbook/assets/owned-ideas.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/owned-ideas.png" alt="" width="320"><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -108,7 +112,11 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 ## Shared ideas
 
-![](../../.gitbook/assets/shared-ideas.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/shared-ideas.png" alt="" width="320"><figcaption></figcaption></figure>
+
+</div>
 
 
 

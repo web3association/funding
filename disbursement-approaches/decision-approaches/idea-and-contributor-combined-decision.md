@@ -4,7 +4,11 @@ description: Idea & contributor combined decision for selecting ideas and contri
 
 # Idea & contributor combined decision
 
-![](../../.gitbook/assets/idea-contributor-combined-process.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/idea-contributor-combined-decision.png" alt="" width="260"><figcaption></figcaption></figure>
+
+</div>
 
 
 

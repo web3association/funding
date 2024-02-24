@@ -6,7 +6,11 @@ description: >-
 
 # Delegated idea selection
 
-![](../../.gitbook/assets/delegated-idea-selection-process.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/delegated-idea-selection.png" alt="" width="240"><figcaption></figcaption></figure>
+
+</div>
 
 
 

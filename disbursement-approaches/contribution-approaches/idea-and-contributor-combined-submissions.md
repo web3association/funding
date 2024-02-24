@@ -20,7 +20,7 @@ The idea and contributor combined submission approach separates the disbursement
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/idea-contributor-combined-submission.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/idea-contributor-combined-submission-list.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

@@ -1,6 +1,10 @@
 # Owned ideas with distributed decisions
 
-![](../../.gitbook/assets/owned-idea-with-distributed-decisions.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/owned-idea-with-distributed-decisions.png" alt="" width="225"><figcaption></figcaption></figure>
+
+</div>
 
 
 

@@ -6,7 +6,11 @@ description: >-
 
 # Passive idea selection
 
-![](../../.gitbook/assets/passive-idea-selection-process.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/passive-idea-selection.png" alt="" width="260"><figcaption></figcaption></figure>
+
+</div>
 
 
 

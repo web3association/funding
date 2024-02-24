@@ -14,7 +14,7 @@ Contribution towards the disbursement process concerns any suggestions contribut
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/disbursement-contributions.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/disbursement-contributions-list.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

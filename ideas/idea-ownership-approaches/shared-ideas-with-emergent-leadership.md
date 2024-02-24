@@ -1,6 +1,10 @@
 # Shared ideas with emergent leadership
 
-![](../../.gitbook/assets/shared-idea-with-emergent-leadership.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/shared-idea-with-emergent-leadership.png" alt="" width="225"><figcaption></figcaption></figure>
+
+</div>
 
 
 

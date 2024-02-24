@@ -4,7 +4,11 @@ description: Independent decisions for selecting priorities, ideas and contribut
 
 # Independent decisions
 
-![](../../.gitbook/assets/independent-processes.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/independent-decisions.png" alt="" width="260"><figcaption></figcaption></figure>
+
+</div>
 
 
 

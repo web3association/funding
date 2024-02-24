@@ -20,7 +20,7 @@ Independent submissions means that submitting suggestions for knowledge, priorit
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/independent-submissions.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/independent-submissions-list.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

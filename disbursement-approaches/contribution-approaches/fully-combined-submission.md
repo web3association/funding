@@ -20,7 +20,7 @@ A fully combined submission means that a contributor suggestion for the disburse
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/fully-combined-submission.jpg" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fully-combined-submission-list.jpg" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 

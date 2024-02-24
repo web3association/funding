@@ -1,6 +1,10 @@
 # Owned ideas with fixed leadership
 
-![](../../.gitbook/assets/owned-idea-with-fixed-leadership.png)
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/owned-idea-with-fixed-leadership.png" alt="" width="225"><figcaption></figcaption></figure>
+
+</div>
 
 
 

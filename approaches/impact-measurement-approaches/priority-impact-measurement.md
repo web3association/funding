@@ -8,9 +8,11 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/impact-measurement-priorities.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/impact-measurement-priorities.png" alt="" width="225"><figcaption></figcaption></figure>
 
 </div>
+
+
 
 **Overview**
 

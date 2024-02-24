@@ -8,7 +8,7 @@ description: >-
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/impact-measurement-ideas.png" alt="" width="150"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/impact-measurement-ideas.png" alt="" width="225"><figcaption></figcaption></figure>
 
 </div>
 
