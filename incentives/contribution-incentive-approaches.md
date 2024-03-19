@@ -50,7 +50,11 @@ Numerous contributors could be involved in the execution of different proposals.
 
 ## **No incentives**
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-none.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Not adding any incentives for the contribution process means there is no financial compensation for executing the work involved in completing a proposal that gets selected by voters. Contribution efforts would rely on other forms of incentives.
 
@@ -73,7 +77,11 @@ Not adding any incentives for the contribution process means there is no financi
 
 ## Time incentives
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-time.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Time incentives are when people are compensated based on the amount of time they contribute. Compensation could be determined based on hourly, weekly or monthly based arrangements.
 
@@ -96,7 +104,11 @@ Time incentives are when people are compensated based on the amount of time they
 
 ## Performance incentives
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-performance.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Performance incentives are when someone is compensated due to the speed or quality of their contributions. The contributor could have exceeded expectations in how effectively they executed a piece of work or the outcomes of their efforts were the most efficient or to the highest quality when compared to the efforts of other contributors.
 
@@ -121,7 +133,11 @@ Performance incentives are when someone is compensated due to the speed or quali
 
 ## Task incentives
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-task.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Task incentives are when compensation is rewarded after the execution of some defined piece of work. Example areas of contribution could be for helping with moderation, providing valuable feedback & discussion, voting, making suggestions for information changes or reporting an application bug.
 
@@ -145,7 +161,11 @@ Task incentives are when compensation is rewarded after the execution of some de
 
 ## Milestone incentives
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-milestones.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Milestone incentives can be used to better group together pieces of work that can then be executed independently. Milestones will often be executed one after the other until the final intended outcome is executed and delivered.
 
@@ -170,7 +190,11 @@ Milestone incentives can be used to better group together pieces of work that ca
 
 ## Impact incentives
 
-![](broken-reference)
+<div align="left">
+
+<figure><img src="../.gitbook/assets/incentive-impact.png" alt="" width="150"><figcaption></figcaption></figure>
+
+</div>
 
 Impact incentives provide compensation when contribution efforts achieve impactful outcomes. Generating impact could mean helping to achieve some predefined outcome that was already desired or alternatively it could be rewarding an emergent outcome that created impact that wasn’t originally planned.
 
