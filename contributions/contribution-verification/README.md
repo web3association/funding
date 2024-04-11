@@ -6,7 +6,7 @@ description: Exploring the opportunities and importance of contribution verifica
 
 <figure><img src="../../.gitbook/assets/contribution-logs.png" alt=""><figcaption></figcaption></figure>
 
-Web3 treasuries are increasingly becoming more valuable over time and along with this the amount of funding they are disbursing is also usually increasing with it. Many of the initiatives that an ecosystem wants to execute can take longer than a months worth of contribution effort. Executing complex ideas can span multiple months or years and involve numerous phases of development.
+Web3 treasuries are increasingly becoming more valuable over time and along with this the amount of funding they are disbursing is also usually increasing with it. Many of the initiatives that an ecosystem wants to execute can take longer than a month's worth of contribution effort. Executing complex ideas can span multiple months or years and involve numerous phases of development.
 
 Ecosystems that disburse large amounts of treasury assets ahead of time to pay for these initiatives face an increasing risk that the contributors involved in executing those ideas could abuse or steal the funding they receive. The larger the amount of funding the larger this risk there is to the ecosystems treasury assets.
 

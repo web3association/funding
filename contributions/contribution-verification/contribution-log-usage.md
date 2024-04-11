@@ -4,7 +4,7 @@ description: List of potential use cases for contribution logs
 
 # Contribution log usage
 
-Contributions can be recorded so that individuals and teams are able to share a list of their ongoing contribution efforts. Contribution logs could record a persons contribution efforts or a group of contributors efforts together. Contribution logs can be useful for Web3 ecosystems in a number of different ways.
+Contributions can be recorded so that individuals and teams are able to share a list of their ongoing contribution efforts. Contribution logs could record a person's contribution efforts or a group of contributors' efforts together. Contribution logs can be useful for Web3 ecosystems in a number of different ways.
 
 
 
@@ -28,7 +28,7 @@ Some contribution outcomes can be more impactful than others. Knowing which cont
 
 **Reputation building**
 
-Contribution logs are a great way for contributors to build up their reputation around certain skill sets across one or many ecosystems. Recording contribution efforts so that other people can verify those outcomes means it can become easier over time for others to identify the most prominent skills and competencies of each contributor. Contributors that build up a reputation of being a highly performant contributor through a provable history of contribution efforts could use that reputation to more easily move between projects and ecosystems due to this reputation. Contribution logs could become a replacement for CVs and interview tests. A software developer for instance could make contributions to an ecosystems code base and prove their competencies through their open source code commits rather than taking a tech test in an interview process. This is beneficial to the contributor as the reputation stays with them for their whole career, it’s beneficial for the ecosystem as they get impactful contributions and it’s valuable for projects interested in working with this software developer as they get to see how the developer works in real life scenarios. Contributors having self ownership over their reputation is also an effective way to push more of the power to the edges so that intermediaries such as project owners or leadership roles do not become highly influential in determining someones compensation. Instead the proof of a contributors value can be made publicly available and the value of that reputation and proof of contribution is owned by the contributor.
+Contribution logs are a great way for contributors to build up their reputation around certain skill sets across one or many ecosystems. Recording contribution efforts so that other people can verify those outcomes means it can become easier over time for others to identify the most prominent skills and competencies of each contributor. Contributors that build up a reputation of being a highly performant contributor through a provable history of contribution efforts could use that reputation to more easily move between projects and ecosystems due to this reputation. Contribution logs could become a replacement for CVs and interview tests. A software developer for instance could make contributions to an ecosystem's code base and prove their competencies through their open source code commits rather than taking a tech test in an interview process. This is beneficial to the contributor as the reputation stays with them for their whole career, it’s beneficial for the ecosystem as they get impactful contributions and it’s valuable for projects interested in working with this software developer as they get to see how the developer works in real life scenarios. Contributors having self ownership over their reputation is also an effective way to push more of the power to the edges so that intermediaries such as project owners or leadership roles do not become highly influential in determining someone's compensation. Instead the proof of a contributor's value can be made publicly available and the value of that reputation and proof of contribution is owned by the contributor.
 
 
 
@@ -40,7 +40,7 @@ Contributors could make attestations about other contributors and their contribu
 
 **Detailed contribution insights**
 
-Having an increasingly comprehensive record of contribution efforts could help with creating highly insightful information about an individual contributor or a cohort of contributors. Contribution log data could be highly useful for looking at a cohorts performance and impact or for identifying any gaps in contribution effort or skill sets that might be missing.
+Having an increasingly comprehensive record of contribution efforts could help with creating highly insightful information about an individual contributor or a cohort of contributors. Contribution log data could be highly useful for looking at a cohort's performance and impact or for identifying any gaps in contribution effort or skill sets that might be missing.
 
 
 
