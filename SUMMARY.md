@@ -81,6 +81,14 @@
 * [Contributor process](contributors/independent-contributor-process.md)
 * [Self sovereign identity opportunities](contributors/self-sovereign-identity-opportunities.md)
 
+## Contributions
+
+* [Contribution verification](contributions/contribution-verification/README.md)
+  * [Contribution log usage](contributions/contribution-verification/contribution-log-usage.md)
+  * [Current landscape](contributions/contribution-verification/current-landscape.md)
+  * [Contribution measurement](contributions/contribution-verification/contribution-measurement.md)
+  * [Contribution measurability complexities, advantages & opportunities](contributions/contribution-verification/contribution-measurability-complexities-advantages-and-opportunities.md)
+
 ## Outcome influence
 
 * [Voter preferences & opinions](outcome-influence/voter-preferences-and-opinions.md)
@@ -90,14 +98,6 @@
 
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
 * [Contribution incentive approaches](incentives/contribution-incentive-approaches.md)
-
-## Contributions
-
-* [Contribution verification](contributions/contribution-verification/README.md)
-  * [Contribution log usage](contributions/contribution-verification/contribution-log-usage.md)
-  * [Current landscape](contributions/contribution-verification/current-landscape.md)
-  * [Contribution measurement](contributions/contribution-verification/contribution-measurement.md)
-  * [Contribution measurability complexities, advantages & opportunities](contributions/contribution-verification/contribution-measurability-complexities-advantages-and-opportunities.md)
 
 ## Impact
 
