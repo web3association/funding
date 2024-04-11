@@ -16,8 +16,8 @@ This impact measurement approach comparison is not suggesting the adoption of on
 
 The importance of contribution measurability is a relevant topic when thinking about impact measurement approaches:&#x20;
 
-{% content-ref url="../../contribution-efforts/contribution-measurability.md" %}
-[contribution-measurability.md](../../contribution-efforts/contribution-measurability.md)
+{% content-ref url="../../contributions/contribution-verification/" %}
+[contribution-verification](../../contributions/contribution-verification/)
 {% endcontent-ref %}
 
 There are many different ecosystem areas and contributor areas that could be tracked to help with understanding and measuring what impact is being generated. For ecosystem areas and contributor areas there are a number of quantitative and qualitative examples that can be considered:

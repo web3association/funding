@@ -91,9 +91,13 @@
 * [Proposal submission incentive approaches](incentives/proposal-submission-incentive-approaches.md)
 * [Contribution incentive approaches](incentives/contribution-incentive-approaches.md)
 
-## Contribution efforts
+## Contributions
 
-* [Contribution measurability](contribution-efforts/contribution-measurability.md)
+* [Contribution verification](contributions/contribution-verification/README.md)
+  * [Contribution log usage](contributions/contribution-verification/contribution-log-usage.md)
+  * [Current landscape](contributions/contribution-verification/current-landscape.md)
+  * [Contribution measurement](contributions/contribution-verification/contribution-measurement.md)
+  * [Contribution measurability complexities, advantages & opportunities](contributions/contribution-verification/contribution-measurability-complexities-advantages-and-opportunities.md)
 
 ## Impact
 
