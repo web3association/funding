@@ -21,10 +21,37 @@ The following are some relevant contribution verification factors for considerat
 
 **Contribution log accuracy**
 
-* **Description** - Accuracy in contribution logs means it should be clear who is responsible for each of the contributions made to execute any given idea.
+* **Description** - Accuracy in contribution logs means it should be clear who is responsible for each of the contributions made when executing any given idea.
 * **Importance score** - 5, Very important. This is highly valuable for a growing ecosystem where many moving parts could be being worked on at any point in time. Making it clear who was responsible for working on a given area to the rest of the community makes it easier for people to be aware of this and then also direct questions to the relevant people immediately without any intermediary steps.
 * **Scoring questions** - How easily can a piece of contribution effort be tracked back to an individual who worked on that area? How accurate is a contribution log submission likely to be in covering this?
 * **Scoring** - Higher contribution log accuracy is good (Score - 5). Lower contribution log accuracy is bad (Score - 1).
+
+
+
+**Reputation building usability**
+
+* **Description** - Contribution logs can help with building up an individual or team's reputation over time based on the quality of their contributions. Making it easier for people to build reputation in an ecosystem can help top performers with being identified and selected in future funding decisions.
+* **Importance score** - 5, Very important. Reputation building can be a powerful approach for identifying and rewarding top performers in an ecosystem. Ecosystems should benefit from being able to retain the best performing talent by enabling them to build up and showcase their reputation.
+* **Scoring questions** - How can a team and individual build up a reputation using the contribution recording approach? What value do the contribution logs have for reputation building when contributors start to move around and execute different ideas with different teams?
+* **Scoring** - Higher usability is good (Score - 5). Lower usability is bad (Score - 1).
+
+
+
+**Performance measurement usability**
+
+* **Description** - Measuring the performance of contributors can help with determining the full value of someone's contribution efforts. Performance measurement can help to align the incentives with the contributors who have made the most effort and been the most performant at executing different ideas.
+* **Importance score** - 5, Very important. Performance measurement will be an important part of making sure that each contributor's compensation is fair and reasonable given the facts about their performance. If the incentives aren’t well aligned with rewarding top performers these actors could look towards other ecosystems that are more effective at identifying and rewarding the value they bring to the ecosystem.
+* **Scoring questions** - How can the performance of an individual contributor and team be better understood and measured using this contribution log approach? How could those contribution logs be used to accurately measure their performance?
+* **Scoring** - Higher usability is good (Score - 5). Lower usability is bad (Score - 1).
+
+
+
+**Future voting usability**
+
+* **Description** - Contribution logs could become an increasingly useful source of information for voters to become more well informed on which contributors and teams have been the most performant and impactful in the ecosystem.
+* **Importance score** - 5, Very important. Ecosystems will benefit from being able to easily identify and retain the most performant and impactful talent. Informative contribution logs could represent an important information source for voters to identify and select this talent in future funding decisions.
+* **Scoring questions** - How could voters use the contribution logs to make future voting decisions? Does the information source become more insightful and useful over time?
+* **Scoring** - Higher usability is good (Score - 5). Lower usability is bad (Score - 1).
 
 
 
