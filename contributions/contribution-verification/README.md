@@ -12,63 +12,59 @@ Ecosystems that are disbursing larger amounts of assets upfront to pay for execu
 
 Recording and verifying peoples contribution efforts can help with reducing this problem of misuse and theft of treasury assets. Instead of disbursing a large amount of assets in a single transaction an ecosystem could instead distribute funding over a number of smaller increments. Splitting up the payment for contribution efforts into different milestones or time periods means that any recorded contribution effort can be verified and measured before future funding is then released. This enables an ecosystem to check that their treasury assets are being used for purposes that they were intended for. Contribution verification can help an ecosystem with better identifying bad actors or poor performers that could be wasting or misusing treasury assets.
 
-As Web3 ecosystem treasuries continue to grow in size the importance of managing and disbursing these assets effectively will also continue to increase. Contribution verification is a foundational reason why contribution efforts should be recorded and verified so that the treasury assets can be better protected and used as intended.
+As Web3 ecosystem treasuries continue to grow in size the importance of managing and disbursing these assets effectively will also continue to increase. Contribution verification is a foundational reason why contribution efforts should be recorded and verified so that treasury assets are better protected and used as intended.
 
 
 
 ## Contribution log usage
 
-Contributions can be recorded so that individuals and teams are able to share a list of their ongoing contribution efforts. Contribution logs could record a person's contribution efforts or a group of contributors' efforts together. Contribution logs can be useful for Web3 ecosystems in a number of different ways.
+Contribution logs represent a record of the recent contribution efforts that an individual or project team has made over a certain time period or they could capture the efforts involved in completing a certain milestone. Contribution logs could be used across Web3 ecosystems in a number of ways.
 
 
 
-**Contribution outcome verification**
+**Contribution verification**
 
-Contribution logs can be an effective way to record and verify whether an individual or project has been making useful contribution efforts. Contribution logs could record the efforts towards a single idea or for a number of different ideas being executed in the ecosystem. Verifying contribution outcomes at different stages of idea development can help with identifying malicious actors or poor performers sooner than later. Contributors receiving funding to execute ideas can also be required to have their previous contribution efforts verified before the next round of funding is distributed to them. This can help to better protect the treasuries assets from being stolen or misused.
+As mentioned above, one of the foundational reasons that contribution logs can be important for Web3 ecosystems is so the community can verify that contribution efforts are being made and that treasury assets are being used as intended and not being misused or stolen. Verifying contribution efforts at different stages of an ideas development can help with identifying malicious actors or poor performers sooner than later. Contributors receiving funding to execute ideas could be required to have their previous contribution efforts verified before the next round of funding is distributed to them.
 
 
 
 **Performance measurement**
 
-Contribution logs can help with measuring and comparing contribution efforts from different contributors. Measurable contribution efforts can help with grouping contributors based on the quality of their contributions and their overall performance. Accurate performance measurement can help with more accurately rewarding the most high performing contributors.
+Contribution logs could help with measuring and comparing the contribution efforts from different contributors and teams. Increasing contribution measurability can help with identifying the most performant contributors and teams based on the quality and consistency of their contribution efforts. Contribution logs could help with increasing the accuracy of the efforts made to measure the performance of individuals and teams. These performance measurements could then help with more accurately rewarding the top performing contributors.
 
 
 
 **Impact measurement**
 
-Some contribution outcomes can be more impactful than others. Knowing which contributors are responsible for each contribution outcome can help with identifying and rewarding the contributors who have been the most consistent and effective at allocating their time towards the initiatives that have helped to generate the most impact for the ecosystem.
+Some contribution efforts can lead to more impactful outcomes than others. Knowing which contributors and teams are responsible for each contribution outcome can help with identifying the contributors who have been the most consistent and effective at allocating their time towards initiatives that have helped with generating the most impact for the ecosystem. Contributors who are more effective and consistent at generating impact could be increasingly rewarded for their contribution efforts.
 
 
 
 **Reputation building**
 
-Contribution logs are a great way for contributors to build up their reputation around certain skill sets across one or many ecosystems. Recording contribution efforts so that other people can verify those outcomes means it can become easier over time for others to identify the most prominent skills and competencies of each contributor. Contributors that build up a reputation of being a highly performant contributor through a provable history of contribution efforts could use that reputation to more easily move between projects and ecosystems due to this reputation. Contribution logs could become a replacement for CVs and interview tests. A software developer for instance could make contributions to an ecosystem's code base and prove their competencies through their open source code commits rather than taking a tech test in an interview process. This is beneficial to the contributor as the reputation stays with them for their whole career, it’s beneficial for the ecosystem as they get impactful contributions and it’s valuable for projects interested in working with this software developer as they get to see how the developer works in real life scenarios. Contributors having self ownership over their reputation is also an effective way to push more of the power to the edges so that intermediaries such as project owners or leadership roles do not become highly influential in determining someone's compensation. Instead the proof of a contributor's value can be made publicly available and the value of that reputation and proof of contribution is owned by the contributor.
+Contribution logs can be a great way for contributors and teams to build up their reputation and showcase their skill sets across one or many areas and ecosystems. Recording contribution efforts so that other people can verify those contributions means it can become easier over time for anyone to identify who has what skill sets and competencies. Contributors that build up a reputation of being highly performant through a provable history of contribution effort could use their reputation to more easily move to projects and ecosystems that they want to work in. Contribution logs could replace CVs and interviews as they can provide a more verifiable and useful information source to review someones professional background and competencies. A software developer could decide to make contributions to an ecosystem's code base that help to prove their competencies through their open source code commits. This could replace the need for them to take a tech test in an interview process to prove their competencies. These code contributions are beneficial to the contributor as a way to build up their own reputation, it’s beneficial for the ecosystem as it receives impactful contributions and it’s valuable for projects interested in working with this software developer as they get to see how the developer makes contribution in real life scenarios.
 
 
 
 **Social trust networks**
 
-Contributors could make attestations about other contributors and their contributions. This could include comments, reviews or statements about the contribution efforts someone else has made. Attestations could provide valuable information and insights to other people. These interlinking connections between contributors and the different contribution related information could help with building trust based networks where people can more easily collaborate with other contributors due to the mutual connections they both share and the attestations those contributors have received from those shared connections.
+Contributors could make attestations about other contributors and their contributions. This could include comments, reviews or statements about someones contribution efforts. Attestations could provide valuable information and insights about each contributor. Interlinking connections between contributors and the different contribution related information could then help with building trust based networks where people can more easily collaborate with other contributors due to the mutual connections they both share and the attestations those contributors have received from these shared connections.
 
 
 
 **Detailed contribution insights**
 
-Having an increasingly comprehensive record of contribution efforts could help with creating highly insightful information about an individual contributor or a cohort of contributors. Contribution log data could be highly useful for looking at a cohort's performance and impact or for identifying any gaps in contribution effort or skill sets that might be missing.
+Having an increasingly comprehensive record of contribution efforts could help with creating highly insightful information about an individual contributor or a cohort of contributors. Contribution log data could useful for looking at a cohort of contributors overall performance and impact over a set time period or for identifying any gaps in contribution effort or skill sets that might be missing.
 
 
 
 **Historical contribution comparisons**
 
-Making contribution efforts easier to measure and compare with other contribution efforts means that better historical comparisons can be made. These comparisons could become increasingly useful to an ecosystem over time. An ecosystem could look at how the performance of contributors as a whole is changing over time as different factors change such as the amount of compensation being offered, the tools, processes and infrastructure they use when contributing, the total number of contributors in the ecosystem and the average duration of each contributor's participation. Making contribution outcomes easier to measure and compare makes it possible for an ecosystem to identify the trends more accurately that are most correlated with improving contributor performance. As one example, if a new incentive was introduced to improve the performance of contributors, having a way to measure the change in output over time will help to produce insightful data that could help with better determining whether that new incentive was actually effective or not.
+Recording contribution efforts that can be compared with other contribution efforts means that better historical comparisons can be made. These comparisons could become increasingly useful to an ecosystem. An ecosystem could look at how the overall performance of contributors is changing over time as different factors change such as the amount of compensation being offered, the tools, processes and infrastructure that they’re using, the total number of contributors in the ecosystem and the average duration of each contributor's participation. Making contribution outcomes easier to compare makes it possible for an ecosystem to identify any trends more accurately and then determine which approaches and outcomes are most correlated with improving contributor performance. If an ecosystem introduced a new incentive to improve the performance of contributors, having a way to measure the change in output over time would be insightful for determining whether that new incentive was actually effective or not.
 
 
 
 ## **Contribution verification analysis**
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
 
 {% content-ref url="current-landscape.md" %}
 [current-landscape.md](current-landscape.md)
