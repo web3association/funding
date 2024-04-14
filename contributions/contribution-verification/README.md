@@ -6,13 +6,13 @@ description: Exploring the opportunities and importance of contribution verifica
 
 <figure><img src="../../.gitbook/assets/contribution-logs.png" alt=""><figcaption></figcaption></figure>
 
-Web3 treasuries are increasingly becoming more valuable over time and along with this the amount of funding they are disbursing is also usually increasing with it. Many of the initiatives that an ecosystem wants to execute can take longer than a month's worth of contribution effort. Executing complex ideas can span multiple months or years and involve numerous phases of development.
+Web3 treasuries have been becoming increasingly more valuable over time as these ecosystems grow and become more adopted. The amount of funding that Web3 ecosystems are disbursing each year is also often increasing. Ideas that a community wants to execute can often take longer than a month's worth of contribution effort. Complex ideas can require multiple months or years of contribution effort and involve numerous phases of development.
 
-Ecosystems that disburse large amounts of treasury assets ahead of time to pay for these initiatives face an increasing risk that the contributors involved in executing those ideas could abuse or steal the funding they receive. The larger the amount of funding the larger this risk there is to the ecosystems treasury assets.
+Ecosystems that are disbursing larger amounts of assets upfront to pay for executing different ideas can face a growing risk that the contributors involved in executing those ideas start to misuse or steal the funding they receive. The larger the amount of funding being distributed the larger the incentive there is to misuse or steal these assets.
 
-Recording and verifying contribution outcomes is one way that this problem can be avoided. Instead of disbursing a large amount of assets ahead of time in a single transaction the ecosystem can distribute this funding over a number of smaller increments. Splitting up the contribution efforts into different milestones and time periods means that any recorded contribution outcomes can be verified and measured before any future funding is then released.
+Recording and verifying peoples contribution efforts can help with reducing this problem of misuse and theft of treasury assets. Instead of disbursing a large amount of assets in a single transaction an ecosystem could instead distribute funding over a number of smaller increments. Splitting up the payment for contribution efforts into different milestones or time periods means that any recorded contribution effort can be verified and measured before future funding is then released. This enables an ecosystem to check that their treasury assets are being used for purposes that they were intended for. Contribution verification can help an ecosystem with better identifying bad actors or poor performers that could be wasting or misusing treasury assets.
 
-Protecting ecosystem treasury assets is a foundational reason why contribution outcomes should be recorded and verified so that the ecosystems treasury assets can be better safe guarded from malicious actors.
+As Web3 ecosystem treasuries continue to grow in size the importance of managing and disbursing these assets effectively will also continue to increase. Contribution verification is a foundational reason why contribution efforts should be recorded and verified so that the treasury assets can be better protected and used as intended.
 
 
 
