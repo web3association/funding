@@ -8,31 +8,49 @@ Making contribution logs more measurable can help to improve their usefulness an
 
 
 
-## **Contribution recording approaches**
+## **Contribution effort recording approaches**
 
 
 
-**Automatically recorded contributions**
+<div align="left">
 
-Some contribution efforts can be recorded automatically and provide evidence of what a contributor has been working on. Many digital based contributions can be quantifiable and verifiable such as code contributions, designs, articles, blogs and documentation changes. Online recorded meetings could even be eventually automatically transcribed and verified to prove someone's attendance and contributions towards a discussion.
+<figure><img src="../../.gitbook/assets/observation-measurement.png" alt="" width="150"><figcaption></figcaption></figure>
 
-
-
-**Manually recorded contributions**
-
-It could be challenging to make automatic recordings for every single contribution someone makes. In person events, meetings or other forms of mentorship and leadership could be more difficult to record without adding a manual submission that covers the contribution effort. Contributions that are added manually by a contributor or community member can benefit from having attestations attached to those claims. Other community members could vouch for the contributions made by others. This can be a useful approach to cover the types of contributions that exist which are harder to verify. The identities of the community members giving these attestations would need to be verified and trusted for these attestations to become more reliable.
-
-
+</div>
 
 **Observationally recorded contributions**
 
-Contributors that work with other contributors are able to observe some of the contribution outcomes and impact that other contributors generate. Companies may often use this approach where they don’t actively record the contribution efforts of each individual and instead a manager is observing the efforts and outcomes that people are generating over time. The problem with this approach is if the person doing the observations is given too much of the control to do all of the performance and impact measurement they are given a large amount of influence and power over determining peoples value and compensation. If contribution efforts can be logged and owned by the individual who made them there is higher usability of that information for the contributor as they can now more easily prove their competencies and value to others. More trust is needed in management when using an observational approach to monitor and verify contribution efforts.
+Leadership and management or other contributors that work with a contributor are able to observe some of the contribution efforts and outcomes that a contributor is responsible for. Companies may often use an observational approach as a simple way to monitor what contribution efforts each person is making and how performant those people are. They might not actively record the contribution efforts of each individual and instead a manager is instead observing the efforts and outcomes that people are generating over time. The problem with this approach is if the person doing the observations is given a lot of control to do all of the performance and impact measurement they are given a large amount of influence and power over determining other peoples value and compensation. Observationally recorded contributions rely on people to make the observations which means this is the most time consuming approach to verify and review someones contribution efforts.
 
 
 
-### **Measuring recorded contributions**
+<div align="left">
 
-All the contribution recording approaches mentioned above could be used for recording someone's contribution efforts. Automatically recorded contribution outcomes are the most desirable approach for capturing contribution information as it can provide the strongest evidence about what a contributor has actually worked on. Automatic contribution records can help with removing the risks around incorrect or exaggerated efforts that are manually being recorded. Automated contribution records can also reduce or even remove the time needed for a contributor to record their contribution efforts. Manually recorded contributions are an important addition to automatically recorded contributions as they can fill in the gaps for areas that are not as easy to automatically record. Manually recorded contributions can help with providing the full information about someone's contributions. Processes are needed that have the right checks and balances in place and the right incentive design to make sure these self recorded contributions get verified. There will always be a risk that someone tries to game this system in an attempt to unfairly improve their own reputation and future chance of receiving funding. Making it easier for individuals to record their contribution efforts can create an opportunity to reduce any ambiguity about how much contribution effort someone has made and how performant and impactful their contribution outcomes have been for an ecosystem. More tools and processes will be needed to effectively record and verify the contribution efforts someone has made. Contributors could greatly benefit from building up a history of contribution logs as it can help to give them more control and ownership over their reputation by making it easier for them to demonstrate their experience and competencies through their contributions.
+<figure><img src="../../.gitbook/assets/manual-measurement.png" alt="" width="151"><figcaption></figcaption></figure>
+
+</div>
+
+**Manually recorded contributions**
+
+Contributors can manually make a submission about the contribution efforts they are making and provide the evidence to support that claim. Some contribution efforts are not easy to automatically record and verify. In person events, meetings or other forms of mentorship and leadership could be more difficult to record without using a manual submission process to capture these contribution efforts. Contributions that are added manually by a contributor or other community member could benefit from having attestations attached to those claims. Other community members could vouch for the contributions made by others. This can be a useful addition to manually recorded contribution efforts to make it easier to verify that a contributor has done what they say they did. Peer to peer attestations does have the risks that this process is abused by malicious actors. The identities of the community members giving these attestations would ideally need to be verified and trusted for these attestations to become more reliable.
+
+
+
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/automatic-measurement.png" alt="" width="151"><figcaption></figcaption></figure>
+
+</div>
+
+**Automatically recorded contributions**
+
+A number of contribution efforts can be recorded automatically and provide evidence about what a contributor has been working on. Digital based contributions can often be easily recorded and be verifiable. Examples include code contributions, designs, articles, blogs and documentation changes. Online recorded meetings could even be eventually automatically transcribed and verified to prove someone's attendance and contributions towards a discussion. Automatically recorded contributions can be highly useful for contributors by making it more effortless to record and verify the contributions that they have made.
+
+
+
+## Preference for automatically recorded contributions
+
+All the contribution recording approaches mentioned above could be used in combination for recording someone's contribution efforts. Automatically recorded contribution outcomes are the most desirable approach for capturing contribution information as it can provide the fastest and most easily verifiable evidence about what a contributor has actually worked on. Automatically recorded contributions can help with removing the risks around incorrect or exaggerated efforts that could have been manually recorded. Automatic contribution records can also reduce or even remove the time needed for a contributor to record their contribution efforts. Manually recorded contributions are the next important addition to automatically recorded contributions as they can fill in the gaps for areas that are not as easy to automatically record. Manually recorded contributions can help with providing the full information about someone's contributions. Processes will be needed that have the right checks and balances in place along with the right incentive design to make sure these self recorded contributions get verified. There will always be a risk that someone tries to game this system in an attempt to unfairly improve their own reputation and future chance of receiving funding. Making it easier for individuals to record their contribution efforts helps to create an opportunity to reduce ambiguity about how much contribution effort someone has made and how performant and impactful their contribution efforts have been for an ecosystem. Observationally verified contribution efforts are the most time consuming approach. This approach can also be more easily abused if certain individuals are given more influence over deciding other peoples compensation. There could likely always be an element of observational verification needed to review peoples contribution efforts as there is often always an incentive for a contributor to try and abuse any adopted system for self gain.
 
 
 
