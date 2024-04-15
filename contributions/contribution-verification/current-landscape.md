@@ -32,23 +32,23 @@ Top performing sports athletes are often paid a meaningful amount more than othe
 
 
 
-## **Comparisons between sports teams and company environments**
+## Comparisons between sports teams and company environments
 
 
 
-**Sports have more open data that is highly measurable**
+**Sports teams have more open data that is highly measurable**
 
 Sports are inherently easier to measure numerically and visually compared to common company roles such as software development, product management, design and marketing. Roles that exist in companies do not have the same simple objective that sports do. Employees can generate impact in a multitude of ways and also can make a wide range of contributions that could have varying implications over the short term and long term. However the difference in the ease of contribution measurability does not diminish the fact that increasing contribution measurability can be highly beneficial for more accurately rewarding the most performant and impactful contributors. Increasing the contribution measurability in any environment will help with more effectively identifying and rewarding the top performers. The less effective a company is at measuring the contribution efforts of employees the more there is a risk of inaccurate compensation outcomes and creating environments where leadership and management could more easily make unfair or biassed compensation decisions.
 
 
 
-**Sports environments often don’t need to do as much skill and competency verification**
+**Sports teams often don’t need to do as much skill and competency verification**
 
 Sports player contributions are often accurately recorded and publicly available. This makes it easier for other teams and people across the world to understand and compare the value of each player. This access to reliable and verifiable information means teams can share offers to different team players with more confidence that they know what that player's potential value could be for their own team. In company settings the value of an employee is not as publicly shared to a public audience. A company is not incentivised to make others aware of their top performers. Employees will often have to apply to other companies and prove their skills and competencies each time they do this. There are some situations where companies might decide to not do much skill and competency verification. Employees who have worked at FAANG companies can often find it easier to get a job elsewhere due to the association with the large tech company. Other companies are aware of the more difficult interview processes that these people must have gone through to be employed and can use that information as a proxy to verify that someone has a certain skill level and competency. These examples help to highlight the potential value of public information for contributors as an effective way to showcase their contribution history so that other teams can verify where they have made contributions.
 
 
 
-**Sports environments are more effective for top performers**
+**Sports teams can be more reliable and effective for top performers**
 
 Companies are not incentivised to share how good their employees are publicly as then competing companies would try to poach the top performers to work in their own organisation. This isn’t a good outcome for the employee as they might be worth much more than they are being paid. Top performers benefit from others being able to easily identify that they are highly performant and effective. Public measurement of contribution efforts can help with creating an effective environment for top performers to thrive as everyone becomes aware of how good they are. Top performing sports team players receive the benefits from their contribution efforts being made public and easily accessible. In sports environments these players can be measured and reviewed by other teams much more easily. Accessible information about top performers helps to give them more ability to work with the teams and people they want to work with. For company environments this could mean that top performers could be able to more easily work on the ideas they are most interested in. Making this information more public also helps to create a more open and competitive market for contributors as everyone can now see the value of each individual. This is good for top performing contributors as it can help to minimise the influence of other people deciding what their value is. Instead these top performing contributors can now showcase and verify their value themselves to others.
 
