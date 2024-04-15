@@ -58,13 +58,19 @@ Individuals that don’t actively work with some of the contributors in the ecos
 
 **Easier contribution verification**
 
-Logging an individual's contribution efforts makes it easier to verify that a given individual is actually making sufficient contribution effort towards executing different ideas. If contribution outcomes are recorded every month this can make it easier to compare those outcomes with other contributors. The more measurable the outcomes are the easier it will be to identify the weakest performers and the top performers. Support could be provided to contributors that need to improve their performance. If the performance of a contributor doesn’t improve or the individual is purposefully being a bad actor then it would be unlikely that they receive future funding due to the evidence of poor performance shown in their contribution logs.
+In group based contribution logs it can be easier to hide poor performance as the contribution logs won’t necessarily break down who has been working on what and provide any sufficient evidence. Logging an individual's contribution efforts can be a more effective solution for verifying that each individual involved in a project is actually making sufficient contribution efforts towards executing that idea. If contribution efforts are recorded every month this can also make it easier to compare those outcomes with other contributors. Monthly logs help to make the logs more measurable, which can help with making it easier to identify the best and weakest performers. Support could be provided to contributors that need to improve their performance. If the performance of a contributor doesn’t improve or the individual is purposefully being a bad actor then it would be unlikely that they receive future funding due to the evidence of poor performance shown in their contribution logs.
 
 
 
 **Improved decision making**
 
-Measurable contribution logs can help with making it easier for voters to spot the best and worst performers amongst a group of contributors. It can also help with identifying trends in the performance of contributors as a whole or where certain skill sets are missing. This information can help with improving future disbursement decisions about where to allocate more resources and focus.
+Measurable contribution logs can help with making it easier for voters to spot the best and worst performers amongst a group of contributors. It can also help with identifying trends in the performance of contributors as a whole or where certain skill sets might be missing. This information can help with improving future disbursement decisions about where to allocate more resources and focus. Individual monthly contribution logs also become increasingly useful over time where a contributor will build up a reputation based on their contribution history. These logs can help with making voting decisions even easier over time as the community will simply be able to repeatedly select and fund the most performant contributors in the ecosystem.
+
+
+
+**Retaining top performers**
+
+Every idea won’t be successful and some teams won’t perform well together. Individual contribution logs can help to identify the most performant contributors in those situations where an idea fails or where there is a breakdown in a team's communication. Contribution logs would help to provide evidence of which contributors were the most effective in those teams. If those contributors can more easily prove they were effective at executing ideas it will be easier for them to be considered as a good candidate to help with other better performing ideas and teams.
 
 
 
@@ -76,7 +82,13 @@ If contributors can easily see their own performance against other contributors 
 
 **Empowers individual contributors**
 
-Being able to demonstrate impactful contribution outcomes is empowering for building a contributors reputation. Competent and high performing contributors that are able to easily demonstrate their capabilities and performance should be able to more easily receive fair compensation for their efforts. Rewarding contributors who are working harder or more effectively than others is an important way that the available incentives can be more effectively aligned with generating impact for the ecosystem. Another way that evidence of contribution outcomes helps to empower the individual is that it provides a public facing record that demonstrates what a contributor has achieved and what skill sets they are competent at. This can make it easier for different teams and projects to verify that a contributor is well suited to help them with their own execution efforts. The easier it is for an individual to prove their ability and competencies the more control and influence they will have on being able to pick the most suitable initiatives for them to work on and help with ensuring that they will get paid fairly for their skill and competency level.
+Being able to demonstrate high performance or impactful contribution outcomes is empowering for building a contributors reputation. Competent and high performing contributors that are able to easily demonstrate their capabilities and performance should be able to more easily receive fair compensation for their efforts. Rewarding contributors who are working harder or more effectively than others is an important way that the available incentives can be more effectively aligned with generating impact for the ecosystem. Another way that evidence of contribution efforts can help to empower the individual is that it provides a public facing record that demonstrates what a contributor has achieved and what skill sets they are most competent at. This can make it easier for different teams and projects to verify that a contributor is well suited to help them with their own execution efforts. The easier it is for an individual to prove their ability and competencies the more control and influence they will have on being able to pick the most suitable initiatives for them to collaborate on that they are most interested in. Their reputation will also help with ensuring that they will get paid fairly for their skill level.
+
+
+
+**Removed intermediaries**
+
+Web3 ecosystems have the opportunity to make a more democratic and peer reviewed process for assessing performance and impact. Achieving this can help to remove intermediaries such as management and leadership positions that could have had excessive amounts of control and influence over determining someone else's compensation. Effective contribution measurement can help with creating a more open and free market for individuals to compete in. Self ownership of contribution data can more easily be used to then influence the compensation a contributor receives and their career trajectory. More self ownership of contribution data can help with preventing individuals or small groups of individuals from being able to unfairly determine someone else’s value. Individual contribution logs can help with pushing power to edges by enabling contributors to have more ownership over their data and reputation.
 
 
 
@@ -86,22 +98,16 @@ Being able to demonstrate impactful contribution outcomes is empowering for buil
 
 **Open source contribution data**
 
-Open source contributions can help with creating insightful data that makes it easier to analyse the performance of a contributor or cohort of contributors. Public contribution data can help with identifying skills gaps and areas of improvement that the contributors could work on to become more performant or to generate more impact.
+Open source contributions data could help with creating highly insightful data to better understand the performance of a contributor or cohort of contributors. Public contribution data could help with identifying skills gaps and areas of improvement that the contributors could work on to become more performant or to generate more impact. Measurable contribution data will become increasingly valuable over time as now historical comparisons can be made and these learnings can then lead to more experiments that identify system and process improvements.
 
 
 
-**Self owned contribution logs**
+**Self sovereign identity**
 
-Contributors that have more ownership over their contribution logs can more easily influence and benefit from their own reputation that they build up over time. These contributors would be able to publicly showcase their contribution efforts and the impact they have generated.
-
-
-
-**Removed intermediaries**
-
-Web3 ecosystems have the opportunity to make a more democratic and peer reviewed process for assessing performance and impact. Achieving this can help to remove intermediaries such as management and leadership positions that can have an excessive amount of control and influence over determining someone else's value and compensation. Effective contribution measurement can help with creating a more open and free market for individuals to compete in. Contributors' self owned contribution data can more easily be used to then influence the compensation they receive and their career trajectory. More self ownership of contribution data can help with preventing individuals or small groups of individuals from being able to unfairly determine someone else’s value.
+Individual contribution logs can be attached to the identity of the contributors who submit these logs. These logs could be a great way to build up useful identity tooling within an ecosystem. Contributors could start submitting contribution logs to start building their own reputation at any time. Permissionless identity tooling with verifiable contribution logs could really help with enabling emerging talent to get recognised and rewarded for their efforts. Talent contributors could come from anywhere in the world.
 
 
 
 **Trust based networks**
 
-Verifiable contribution data could be used to create a trust based network that people use to prove someone's competency and reliability. Communities could start using this information as a form of identification and a way to trust certain individuals due to the reputation they’ve built and the common connections they share. These networks of provable contribution efforts could lead to new working arrangements being made between contributors based on the trust in these verified contributions.
+Verifiable contribution data could be used to initiate a form of trust based network that people use to prove someone's competency and reliability. Communities could start using this information as a form of identification and a way to trust certain individuals due to the reputation they’ve built and the common connections they share. These networks of provable contribution efforts could lead to new working arrangements being made between contributors based on the trust in these verified contributions. These emerging networks could result in a number of new use cases and ideas that are difficult to predict ahead of time.
