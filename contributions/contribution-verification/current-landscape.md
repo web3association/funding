@@ -10,7 +10,7 @@ Some companies can have very few processes in place for verifying employee contr
 
 
 
-**Issues with contribution measurement in companies**
+**Issues with company contribution measurement**
 
 * **Easier exploitation** - For companies that use more trust in the leadership instead of a formal process for measuring performance and contribution efforts there is an increased risk that employees could be exploited for their skills and performance as they would be relying on another person's judgement rather than a defined performance process. Leadership could try to retain more revenue for the business or inaccurately review someone's performance and contributions. Employees might need to dispute the leadership's judgement if they felt like they deserved more compensation due to their performance.
 * **Lack of measurement accuracy** - Companies that haven’t implemented any process for measuring and verifying employee contribution efforts and performance have an increased risk of lower accuracy around compensation decisions due to a lack of awareness and understanding of each person's contributions and performance. A lack of process means the company would be relying heavily on observational efforts and outcomes. These observations could lack the full information and context needed to know what has actually happened.
