@@ -28,7 +28,7 @@ Professional sports can provide a useful comparison to company environments due 
 
 **Top performing contributors**
 
-Top performing sports athletes are often paid a meaningful amount more than other athletes. For individual sports the contribution measurement is not as valuable as team environments as the individual is responsible entirely for any wins or losses. Their contribution efforts don’t need to be measured and compared with other team members. For team sports, contribution measurement is far more valuable and important. If a team wins it is beneficial to understand which players have been the most performant and effective at helping that team achieve that victory. Measuring a player's contribution efforts effectively will help with identifying the most impactful players, which can then be compensated more for their performance.
+Top performing sports athletes are often paid a meaningful amount more than other athletes. For individual sports the contribution measurement is not as valuable as team environments as the individual is responsible entirely for any wins or losses. Their contribution efforts don’t need to be measured and compared with other team members. For team sports, contribution measurement is far more valuable and important. If a team wins it is beneficial to understand which players have been the most performant and effective at helping that team win. Measuring a players contribution efforts effectively will help with identifying the most impactful players. These players can then be increasingly compensated over time for high performance.
 
 
 
