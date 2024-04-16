@@ -64,7 +64,7 @@ All the contribution recording approaches mentioned previously could be used in 
 
 **1. Automatically recorded contributions**
 
-Automatically recorded contribution efforts are the preferred approach to help with making it easier and faster to create and verify contribution logs. Automatically recorded contributions can help with reducing the risks around incorrect or exaggerated efforts that could have been manually recorded. Automatic contribution records can also help to reduce or even remove the time needed for a contributor to record their contribution efforts. Where possible contribution efforts should be automatically recorded.
+Automatically recorded contribution efforts are the preferred approach to help with making it easier and faster to create and also verify contribution logs. Automatically recorded contributions can help with reducing the risks around incorrect or exaggerated efforts if those same contributions were manually recorded. Automatic contribution records can also help to reduce or even remove the time needed for a contributor to record their contribution efforts. Where possible contribution efforts should be automatically recorded.
 
 
 
