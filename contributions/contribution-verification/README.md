@@ -70,8 +70,8 @@ Recording contribution efforts that can be compared with other contribution effo
 [current-landscape.md](current-landscape.md)
 {% endcontent-ref %}
 
-{% content-ref url="contribution-measurement.md" %}
-[contribution-measurement.md](contribution-measurement.md)
+{% content-ref url="recording-and-measuring-contribution-efforts.md" %}
+[recording-and-measuring-contribution-efforts.md](recording-and-measuring-contribution-efforts.md)
 {% endcontent-ref %}
 
 {% content-ref url="individual-monthly-contribution-logs.md" %}

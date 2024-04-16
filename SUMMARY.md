@@ -85,7 +85,7 @@
 
 * [Contribution verification](contributions/contribution-verification/README.md)
   * [Current landscape](contributions/contribution-verification/current-landscape.md)
-  * [Contribution measurement](contributions/contribution-verification/contribution-measurement.md)
+  * [Recording & measuring contribution efforts](contributions/contribution-verification/recording-and-measuring-contribution-efforts.md)
   * [Individual monthly contribution logs](contributions/contribution-verification/individual-monthly-contribution-logs.md)
 
 ## Outcome influence

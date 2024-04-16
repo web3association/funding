@@ -1,8 +1,10 @@
 ---
-description: Approaches for measuring contribution effort
+description: >-
+  Approaches for recording contribution efforts and how contribution efforts can
+  become more measurable
 ---
 
-# Contribution measurement
+# Recording & measuring contribution efforts
 
 Making contribution logs more measurable can help with drastically improving their usefulness and long term value. Increased measurability means making it easier to compare the contribution efforts from each contributor. It also means it should become easier to make historical comparisons to see who has been the most performant and whether individuals or groups of contributors are getting more performant or not over time. Higher measurability can help with increasing the accuracy in identifying the top performers who can then be rewarded for their high performance and impact they generate.
 

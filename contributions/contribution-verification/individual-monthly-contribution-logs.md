@@ -4,7 +4,7 @@ description: Exploring the opportunity of adopting individual monthly contributi
 
 # Individual monthly contribution logs
 
-Exploring how to make [contribution efforts more measurable](contribution-measurement.md) and comparing different [contribution verification approaches](../../disbursement-approaches/contribution-verification-approaches/) led to the conclusion that individual monthly contribution logs could be a highly effective approach for recording, measuring and verifying contribution efforts. This approach can help with making it far easier to compare peoples contribution efforts across an ecosystem and also compare how the performance of each individual changes over time as more contribution logs get submitted.
+Exploring how to make [contribution efforts more measurable](recording-and-measuring-contribution-efforts.md) and comparing different [contribution verification approaches](../../disbursement-approaches/contribution-verification-approaches/) led to the conclusion that individual monthly contribution logs could be a highly effective approach for recording, measuring and verifying contribution efforts. This approach can help with making it far easier to compare peoples contribution efforts across an ecosystem and also compare how the performance of each individual changes over time as more contribution logs get submitted.
 
 <figure><img src="../../.gitbook/assets/individual-monthly-contribution-logs.png" alt=""><figcaption></figcaption></figure>
 
