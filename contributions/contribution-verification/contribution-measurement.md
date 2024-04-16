@@ -44,7 +44,7 @@ Contributors could manually make a submission about the contribution efforts the
 
 **Automatically recorded contributions**
 
-A number of contribution efforts can be recorded automatically and provide evidence about what a contributor has been working on. Digital contributions can be easier to record and verify. Examples include code contributions, designs, articles, blogs and documentation changes. Online recorded meetings could even be eventually automatically transcribed and verified to prove someone's attendance and contributions towards a discussion. Automatically recorded contributions can be highly useful for contributors by making it more effortless to record and verify the contributions that they have made.
+A number of contribution efforts can be recorded automatically and provide evidence about what a contributor has been working on. Digital contributions can be easier to record and verify. Examples include code contributions, designs, articles, blogs and documentation changes. These digital contributions can be tied to an individual account which makes it easier to verify who made certain contributions. Online recorded meetings could even be eventually automatically transcribed and verified to prove someone's attendance and the contributions they made towards a discussion. Automatically recorded contributions can be highly useful for contributors as it can make it effortless for them to record and showcase the contributions they have made.
 
 
 
