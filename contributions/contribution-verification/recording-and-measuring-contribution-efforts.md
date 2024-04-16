@@ -50,9 +50,33 @@ A number of contribution efforts can be recorded automatically and provide evide
 
 
 
-## Preference for automatically recorded contributions
+## Ranked preference of contribution recording approaches
 
-Automatically recorded contribution efforts are the preferred approach to help with making it easier and faster to create and verify contribution logs. Automatically recorded contributions can help with reducing the risks around incorrect or exaggerated efforts that could have been manually recorded. Automatic contribution records can also help to reduce or even remove the time needed for a contributor to record their contribution efforts. Manually recorded contributions are the next important addition to automatically recorded contributions as they help to fill in the gaps for areas that are not as easy to automatically record. Manually recorded contributions can help with providing the full information about someone's contributions. Processes will be needed that have the right checks and balances in place along with the right incentive design to make sure these self recorded contributions get verified. There will always be a risk that someone tries to game this system in an attempt to unfairly improve their own reputation and future chance of receiving funding. Making it easier for individuals to record their contribution efforts helps to create an opportunity to reduce ambiguity about how much contribution effort someone has made and how performant and impactful their contribution efforts have been for an ecosystem. Observationally verified contribution efforts are the most time consuming approach. This approach can also be more easily abused if certain individuals are given more influence over deciding other peoples compensation. Although there are issues with observational verification this approach will still likely be needed and used by some community members as a way to more thoroughly understand and verify someones performance themselves. Observational recording and verification of contribution efforts could also provide another line of defence against bad actors.
+<div align="left">
+
+<figure><img src="../../.gitbook/assets/contribution-recording-approach-preference.png" alt="" width="375"><figcaption></figcaption></figure>
+
+</div>
+
+All the contribution recording approaches mentioned previously could be used in combination to help with recording someone's contribution efforts. These approaches can also be ranked in preference.
+
+
+
+**1. Automatically recorded contributions**
+
+Automatically recorded contribution efforts are the preferred approach to help with making it easier and faster to create and verify contribution logs. Automatically recorded contributions can help with reducing the risks around incorrect or exaggerated efforts that could have been manually recorded. Automatic contribution records can also help to reduce or even remove the time needed for a contributor to record their contribution efforts. Where possible contribution efforts should be automatically recorded.
+
+
+
+**2. Manually recorded contributions**
+
+Manually recorded contributions are useful to fill in the gaps for contribution areas that are not as easy to automatically record. Manually recorded contribution efforts can help with providing the full information about someone's contributions. Processes will be needed that introduce the right checks and balances and the right incentive design to make sure these self recorded contributions get verified. There will always be a risk that someone tries to game this system in an attempt to unfairly improve their own reputation and future chance of receiving funding.
+
+
+
+**3. Observationally recorded contributions**
+
+Observationally verified contribution efforts would be the most time consuming approach to scale to a large number of people. This approach can also be more easily abused if certain individuals are given more influence over deciding other peoples compensation. Observational recording and verification of contribution efforts will happen naturally as contributors work with each other and as community members look at what the funded contributors have been working on.  Observations will be useful for community members to more thoroughly understand and verify the contribution logs and efforts that people have been making. These observations should also help with identifying bad actors in the ecosystem.
 
 
 
