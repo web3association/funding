@@ -126,22 +126,22 @@ Manually self-reported contributions and group based social and leadership contr
 
 **Execution scope**
 
-Grouping the type of work that is being completed is one way to try and increase measurability. Keeping a contribution log focused on a certain skill set such as coding or design could help with making it easier to compare and understand how different contributors have executed certain outcomes versus other contributors. The challenge with trying to make the execution scope more measurable is that each idea being executed is usually different from other ideas and thus can require different skills and expertise to execute them. Executing these different ideas can also produce very different outcomes. Infrastructure and protocol development for instance could have a lot of variation in how the different problems are solved and what skills are required when developing the code.
+Grouping the type of work that is being completed is one way to try and increase measurability. Keeping a contribution log entry focused on a certain skill set such as coding or design could help with making it easier to compare and understand how different contributors have executed certain outcomes versus other contributors. The challenge with trying to make the execution scope more measurable is that each idea being executed is often different from other ideas and thus can require different skills and expertise to execute them. Executing these different ideas can also produce very different outcomes. Infrastructure and protocol development alone could have a lot of variation in how the different problems are solved and what skills are required.
 
 
 
 **Time**
 
-Contribution outcomes could be recorded within a certain time period so that there is more consistency in the amount of work that is being completed within each contribution log. This helps to increase measurability as now individuals can be more easily compared based on the same duration of contribution time.
+Contribution outcomes could be recorded within a certain time period so that there is more consistency in the amount of work that is being completed within each contribution log. Fixed time periods can help to increase measurability as now contribution logs can be more easily compared.
 
 
 
 **Number of people**
 
-If the contribution outcomes come from multiple people and are being combined into the same contribution log this would make it more difficult to understand who did what and how performant and impactful each of their contributions were. Keeping contribution outcomes recorded separately as individual contributions can help with making it easier to measure the differences between one person's contribution outputs with other contributors.
+If the contribution outcomes are from multiple people and their efforts are being combined into the same contribution log it would become more difficult to understand who did what and how performant and impactful each of their contributions were. Keeping contribution outcomes recorded separately as individual contributions can help with making it easier to measure and compare the differences between one person's contribution outputs with other contributors.
 
 
 
 **Summary**
 
-Recording one person's contribution efforts at a time and recording contributions within a fixed time period, such as monthly, are the two stand out approaches mentioned above that could consistently help with making contribution efforts more measurable. In terms of execution scope, it is more difficult to separate out every type of contribution effort into a separate submission. However the execution scope could at least be improved by tagging the skills that are being used when recording any contribution efforts. For instance, design and code contributions could be recorded separately or correctly tagged to make it clearer about what different skill sets have been used.
+Recording one person's contribution efforts at a time and recording contributions within a fixed time period, such as monthly, are the two stand out approaches mentioned above that can help with consistently making contribution efforts more measurable. In terms of execution scope, it is more difficult to separate out every type of contribution effort into a separate submission. However the execution scope could at least be improved by tagging the skills that are being used when recording any contribution efforts. For instance, design and code contributions could be recorded separately or correctly tagged to make it clearer about what different skill sets have been used.
