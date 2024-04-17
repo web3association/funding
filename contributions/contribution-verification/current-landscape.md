@@ -48,7 +48,7 @@ Sports player contributions are often accurately recorded and publicly available
 
 
 
-**Sports teams can be more reliable and effective for top performers**
+**Sports team environments can be more reliable and effective for top performers**
 
 Companies are not incentivised to share how good their employees are publicly as then competing companies would try to poach the top performers to work in their own organisation. This isn’t a good outcome for the employee as they might be worth much more than they are being paid. Top performers benefit from others being able to easily identify that they are highly performant and effective. Public measurement of contribution efforts can help with creating an effective environment for top performers to thrive as everyone becomes aware of how good they are. Top performing sports team players receive the benefits from their contribution efforts being made public and easily accessible. In sports environments these players can be measured and reviewed by other teams much more easily. Accessible information about top performers helps to give them more ability to work with the teams and people they want to work with. For company environments this could mean that top performers could be able to more easily work on the ideas they are most interested in. Making this information more public also helps to create a more open and competitive market for contributors as everyone can now see the value of each individual. This is good for top performing contributors as it can help to minimise the influence of other people deciding what their value is. Instead these top performing contributors can now showcase and verify their value themselves to others.
 
