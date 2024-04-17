@@ -106,7 +106,7 @@ Open source contributions data could help with creating highly insightful data t
 
 
 
-**Self sovereign identity**
+**Self sovereign identity adoption**
 
 Individual contribution logs can be attached to the identity of the contributors who submit these logs. These logs could be a great way to build up useful identity tooling within an ecosystem. Contributors could start submitting contribution logs to start building their own reputation at any time. Permissionless identity tooling with verifiable contribution logs could really help with enabling emerging talent to get recognised and rewarded for their efforts. Talent contributors could come from anywhere in the world.
 
