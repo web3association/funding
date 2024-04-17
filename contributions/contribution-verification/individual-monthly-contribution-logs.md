@@ -34,7 +34,7 @@ Automatically recorded contributions are a great foundation for creating contrib
 
 **2. Manually recorded contributions**
 
-Any contributions that are more difficult to automatically record and verify could be added onto a contribution log as a manual submission. Manually added contributions could include in person event attendance, collaboration efforts or research efforts that don’t produce a digitally recorded outcome that can be more easily verified. Self reported contribution efforts will either need to have some evidence to support the claim or those contributions should have been observed by other contributors or community members. If contribution efforts cannot be verified their usefulness and reliability would be much lower.
+Contributions that are more difficult to automatically record and verify could be added as a manual submission. Manually added contributions could include in person event attendance, collaboration efforts or research efforts that don’t produce a digitally recorded outcome that can be easily verified. Self reported contribution efforts will either need to have some evidence to support the claim or those contributions should have been observed by other contributors or community members. If contribution efforts cannot be verified their usefulness and reliability would be much lower.
 
 
 
