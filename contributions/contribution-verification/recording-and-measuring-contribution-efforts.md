@@ -58,7 +58,7 @@ A number of contribution efforts can be recorded automatically and provide evide
 
 </div>
 
-All the contribution recording approaches mentioned previously could be used in combination to help with recording someone's contribution efforts. These approaches can also be ranked in preference.
+All the contribution recording approaches mentioned previously could be used in combination to help with recording someone's contribution efforts. These approaches can also be preference ranked.
 
 
 
