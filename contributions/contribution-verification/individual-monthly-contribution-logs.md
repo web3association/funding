@@ -60,7 +60,7 @@ As a final step, community reviews could help with verifying peoples contributio
 
 
 
-**Easier contribution verification**
+**Effective contribution verification**
 
 In group based contribution logs it can be easier to hide poor performance as the contribution logs won’t necessarily break down who has been working on what with enough evidence. Logging an individual's contribution efforts can be a more effective solution for verifying that each individual involved in a project is actually making sufficient contribution efforts towards executing that idea. If contribution efforts are recorded every month this can also make it easier to compare those outcomes with other contributors. Monthly contribution logs help to make these logs more measurable, which can help with making it easier to identify the best and weakest performers. Support could be provided to contributors that need to improve their performance. If the performance of a contributor doesn’t improve or the individual is purposefully being a bad actor then it would be unlikely that they receive future funding due to the evidence of poor performance shown in their contribution logs.
 
