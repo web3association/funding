@@ -24,13 +24,13 @@ Contribution logs represent a record of the recent contribution efforts that an 
 
 **Contribution verification**
 
-As mentioned above, one of the foundational reasons that contribution logs can be important for Web3 ecosystems is so the community can verify that contribution efforts are being made and that treasury assets are being used as intended and not being misused or stolen. Verifying contribution efforts at different stages of an ideas development can help with identifying malicious actors or poor performers sooner than later. Contributors receiving funding to execute ideas could be required to have their previous contribution efforts verified before the next round of funding is distributed to them.
+Contribution verification is one of the reasons to record contribution efforts that we just mentioned already. Contribution logs help to enable an ecosystem to verify contribution efforts. This verification can help Web3 ecosystems with ensuring that treasury assets are being used as intended and not being misused or stolen.
 
 
 
 **Performance measurement**
 
-Contribution logs could help with measuring and comparing the contribution efforts from different contributors and teams. Increasing contribution measurability can help with identifying the most performant contributors and teams based on the quality and consistency of their contribution efforts. Contribution logs could help with increasing the accuracy of the efforts made to measure the performance of individuals and teams. These performance measurements could then help with more accurately rewarding the top performing contributors.
+Contribution logs could help with measuring and comparing the contribution efforts from different contributors and teams. Increasing contribution measurability can help with identifying the most performant contributors and teams based on the quality and consistency of their contribution efforts. Contribution logs could help with increasing the accuracy of measuring the performance of individuals and teams. Top performing contributors could then be more easily rewarded.
 
 
 
