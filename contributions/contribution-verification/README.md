@@ -4,7 +4,7 @@ description: Exploring the opportunities and importance of contribution verifica
 
 # Contribution verification
 
-<figure><img src="../../.gitbook/assets/contribution-logs.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contribution-verification-header.png" alt=""><figcaption></figcaption></figure>
 
 Web3 treasuries have been increasing in value over time as ecosystems continue to grow and get more adoption. The amount of funding that Web3 ecosystems are disbursing each year is also often increasing. Ideas that a community wants to execute can often take longer than a month's worth of contribution effort. Complex ideas can require multiple months or years of contribution effort and involve numerous phases of development.
 

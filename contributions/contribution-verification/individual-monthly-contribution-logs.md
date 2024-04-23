@@ -96,6 +96,12 @@ Web3 ecosystems have the opportunity to make a more democratic and peer reviewed
 
 
 
+**Flexible information usage**
+
+Information about an idea being executed can be highlighted in someones contribution log. This can also include which milestone would be relevant to the contribution efforts. This added context means that an aggregate of different peoples individual contribution logs can help to create project based information such as the total contribution efforts towards an idea in the last month or the amount of contribution efforts that have been made towards a certain project milestone. This flexibility in information composition means it becomes much easier to view contribution efforts in a format that is most useful to the viewer.
+
+
+
 ## **Opportunities for Web3 ecosystems**
 
 
