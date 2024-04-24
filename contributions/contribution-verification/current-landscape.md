@@ -1,8 +1,14 @@
 ---
-description: How contribution is often measured in companies and sports
+description: How contribution is often measured in company and sport environments
 ---
 
 # Current landscape
+
+{% embed url="https://youtu.be/n8U_Sb4_0Vg" %}
+
+This page contains the same information that is covered in the above video
+
+***
 
 ## **Company contribution measurement**
 
