@@ -146,7 +146,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 **When sharing the idea may be preferred**
 
 * **Open source software** - Protocols, tooling and infrastructure that is openly available for other developers to use in an ecosystem can be massively valuable in making it easier for anyone to experiment with new ideas and improve their existing solutions. Teams that are considering whether to adopt certain software will often have a higher level of confidence in adopting software solutions that are fully open sourced and that are being actively contributed to by a wide number of community members.
-* **Public goods** - Shared ideas provide an effective approach for creating public goods due to the lack of central ownership of the ideas being executed. Instead any value generated from the execution of a shared idea would be available for anyone in the ecosystem to benefit from. Openly available education, research, analysis and software are all potential example public goods that a treasury could support through disbursement.
+* **Public goods** - Shared ideas provide an effective approach for creating public goods due to the lack of central ownership of the ideas being executed. Instead any value generated from the execution of a shared idea would be available for anyone in the ecosystem to benefit from. Openly available education, research, analysis and software are all potential example public goods that a treasury could support through funding.
 
 
 

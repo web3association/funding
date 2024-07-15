@@ -38,7 +38,7 @@ Priority impact measurement focuses on determining the amount of impact that has
 **Moderate game theory risks (Score - 3)**
 
 * **Manipulated outcomes** - Most of the quantifiable metrics could be potentially manipulated with bots or external actors. The larger the metric, the more complex or costly it could become to hide any manipulated actions. An example could be increasing the total number of transactions or chain utilisation as this could have far higher cost implications for generating those extra transactions if someone was trying to manipulate that metric. Bad actors could also try to influence qualitative measurement approaches by purposefully identifying and gathering certain feedback and responses to influence others in the community.
-* **Exaggerated outcomes** - Bad actors could conduct research and generate analytical resources that are biassed with identifying certain outcomes that could benefit themselves in future disbursement decisions. As more data becomes available these actors could cherry pick certain information that exaggerates a certain narrative that aligns with what they are trying to influence.
+* **Exaggerated outcomes** - Bad actors could conduct research and generate analytical resources that are biassed with identifying certain outcomes that could benefit themselves in future funding decisions. As more data becomes available these actors could cherry pick certain information that exaggerates a certain narrative that aligns with what they are trying to influence.
 
 
 

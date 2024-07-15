@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/execution-approaches.png" alt=""><figcaption></figcaption></figure>
 
-There are a number of incentive approaches that can be considered when an ecosystem is looking to attract and retain people that are willing and capable of contributing to different areas of an ecosystem. Incentives that help with handling the execution of work are important for all of the disbursement processes (knowledge, priorities, ideas and contributors). These approaches are more focussed on how financial incentives are handled however further analysis could be beneficial to cover other types of incentives in more detail.
+There are a number of incentive approaches that can be considered when an ecosystem is looking to attract and retain people that are willing and capable of contributing to different areas of an ecosystem. Incentives that help with handling the execution of work are important for all of the funding processes (knowledge, priorities, ideas and contributors). These approaches are more focussed on how financial incentives are handled however further analysis could be beneficial to cover other types of incentives in more detail.
 
 
 
@@ -32,7 +32,7 @@ Incentives used during execution will need to be considerate towards the fact th
 
 **Measuring impact**
 
-Measuring impact will be an important part of identifying which incentives are most effective at consistently generating impact. The better that ecosystems become at measuring and improving how much impact they are able to generate through disbursement the faster they will be able to grow and evolve their ecosystem. The ongoing concern and complexity for ecosystems is ensuring that they are able to measure impact well enough so they can determine which approaches are more effective than others and which outcomes have actually been the most impactful.
+Measuring impact will be an important part of identifying which incentives are most effective at consistently generating impact. The better that ecosystems become at measuring and improving how much impact they are able to generate through funding the faster they will be able to grow and evolve their ecosystem. The ongoing concern and complexity for ecosystems is ensuring that they are able to measure impact well enough so they can determine which approaches are more effective than others and which outcomes have actually been the most impactful.
 
 
 
@@ -90,7 +90,7 @@ Time incentives are when people are compensated based on the amount of time they
 **Reasons to adopt this approach**
 
 * **Income stability** - Paying contributors based on the amount of time they contribute helps to provide more income stability to those who contribute. This makes it easier for them to focus on the work in front of them rather than constantly needing to chase different incentives to be compensated for their ongoing contribution efforts.
-* **Gradual execution incentive** - Time based contribution results in the gradual release of disbursement treasury funds to pay for individuals contributions to the ecosystem.
+* **Gradual execution incentive** - Time based contribution results in the gradual release of treasury funds to pay for individuals contributions to the ecosystem.
 * **Flexibility** - Incentivising peoples contribution through time can help with making it more flexible in what the contributor is working on. This flexibility can be useful for allowing a contributor to realign themselves with generating impact when a larger problem or opportunity presents itself.
 
 
@@ -216,4 +216,4 @@ Impact incentives provide compensation when contribution efforts achieve impactf
 * **Delayed compensation** - It takes time for a contributor to create meaningful outcomes and for those outcomes to then be measured to determine whether they created impact. Only focussing on whether impact is generated could end up causing highly delayed compensation for larger projects.
 * **Risk of no compensation** - If the entire incentive available is based on whether contribution outcomes make impact or not there is a high risk that some people's contribution efforts lead to no impact and no compensation for their efforts. This problem could be prevented by combining an impact incentive approach with time incentives or milestone incentive approaches.
 * **External dependencies risks** - Generating impact can sometimes rely on external influencing factors that are out of the control of the contributors who helped execute some area of work. This makes it more problematic to rely solely on impact based incentives.
-* **Unfair incentive distribution** - Due to the complexity of measuring impact it could be easy for certain areas of work to be overlooked and be less understood on the impact those efforts have helped to generate. If these impactful outcomes get unnoticed then the incentive could be distributed unfairly between the contributors involved. Unfair disbursement outcomes could lead to an environment that discourages contributors from participating in the future if they were not fairly rewarded for the impact they generated.
+* **Unfair incentive distribution** - Due to the complexity of measuring impact it could be easy for certain areas of work to be overlooked and be less understood on the impact those efforts have helped to generate. If these impactful outcomes get unnoticed then the incentive could be distributed unfairly between the contributors involved. Unfair funding outcomes could lead to an environment that discourages contributors from participating in the future if they were not fairly rewarded for the impact they generated.

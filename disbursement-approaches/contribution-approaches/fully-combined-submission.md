@@ -16,7 +16,7 @@ description: >-
 
 **Overview**
 
-A fully combined submission means that a contributor suggestion for the disbursement process will include any relevant knowledge, priority, idea and contributor information in the same submission.
+A fully combined submission means that a contributor suggestion for the funding process will include any relevant knowledge, priority, idea and contributor information in the same submission.
 
 <div align="left">
 
@@ -34,7 +34,7 @@ For contributors to participate they have to spend the largest possible amount o
 
 **Very high contribution complexity (Score - 1)**
 
-Each disbursement process requires a mixture of different knowledge and skills. Combining these disbursement processes into a single submissions results in the contributor having to have a lot of knowledge about what is happening in the ecosystem and what problems and opportunities exist, they need to then have the skill to effectively to compare and understand which potential priorities might be the most important, then turn that priority into a suggested idea and finally articulate how it would be executed along with identifying any other community members that would be suitable and keen to support the execution of that idea. The approach could easily require research, analytical, marketing and recruitment skills in the same submission as well as some relevant domain expertise in the idea actually being suggested. Due to this combination of different factors this contribution approach is highly complex.
+Each funding process requires a mixture of different knowledge and skills. Combining these funding processes into a single submissions results in the contributor having to have a lot of knowledge about what is happening in the ecosystem and what problems and opportunities exist, they need to then have the skill to effectively to compare and understand which potential priorities might be the most important, then turn that priority into a suggested idea and finally articulate how it would be executed along with identifying any other community members that would be suitable and keen to support the execution of that idea. The approach could easily require research, analytical, marketing and recruitment skills in the same submission as well as some relevant domain expertise in the idea actually being suggested. Due to this combination of different factors this contribution approach is highly complex.
 
 
 

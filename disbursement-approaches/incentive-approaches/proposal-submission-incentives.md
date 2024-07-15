@@ -1,12 +1,12 @@
 ---
 description: >-
   Considerations for how incentives could be used to encourage the submission of
-  proposals that are beneficial to the disbursement process
+  proposals that are beneficial to the funding process
 ---
 
 # Proposal submission incentives
 
-The disbursement process requires information to be submitted by the community so decisions can be made regarding what priorities are the most important, which ideas look the most promising and which contributors should be selected to execute those ideas. Incentives could be used to encourage the submission of this information. Alternatively contribution incentives could be used to encourage the submission of different proposals and information. The submission approaches being considered can be found here:
+The funding process requires information to be submitted by the community so decisions can be made regarding what priorities are the most important, which ideas look the most promising and which contributors should be selected to execute those ideas. Incentives could be used to encourage the submission of this information. Alternatively contribution incentives could be used to encourage the submission of different proposals and information. The submission approaches being considered can be found here:
 
 {% content-ref url="../../incentives/proposal-submission-incentive-approaches.md" %}
 [proposal-submission-incentive-approaches.md](../../incentives/proposal-submission-incentive-approaches.md)
@@ -23,7 +23,7 @@ Incentives could be used to help encourage people to submit priorities that help
 **Potential incentive approaches**
 
 * **Selection incentive** - A selection incentive could be effective for encouraging a diversity of contribution by compensating the proposers who created priorities that were selected by the wider community. This could help increase the incentive for anyone in the community to submit priorities as they could be compensated for doing so if their priorities are selected by the community. This gives proposers more reason to allocate a sufficient amount of time in writing a more thorough submission about a priority with the relevant supporting evidence.
-* **No incentive** - Community set priorities can have a large influence on how disbursement assets get allocated and used to generate impact. Due to this there is a natural incentive for community members to express their opinions on what priorities they believe are most important due to the possibility that those suggestions get selected and lead to generating impactful changes that benefit them and the wider community. A no incentive approach might also work because the submission of priorities does not need to be a complex process. There might be a need for ongoing maintenance of the information attached to a priority but this incentive does not need to be handled at the submission stage. Another reason a no incentive approach may be suitable is because the complexity of the average priority could be relatively low for smaller ecosystems or ecosystems that have a more focussed and narrow set of longer term goals. The more complex that priorities become, the more important it will be for that community to consider how incentives could help compensate for the increasing amount of contribution effort required for people to participate.
+* **No incentive** - Community set priorities can have a large influence on how treasury assets are allocated and used to generate impact. Due to this there is a natural incentive for community members to express their opinions on what priorities they believe are most important due to the possibility that those suggestions get selected and lead to generating impactful changes that benefit them and the wider community. A no incentive approach might also work because the submission of priorities does not need to be a complex process. There might be a need for ongoing maintenance of the information attached to a priority but this incentive does not need to be handled at the submission stage. Another reason a no incentive approach may be suitable is because the complexity of the average priority could be relatively low for smaller ecosystems or ecosystems that have a more focussed and narrow set of longer term goals. The more complex that priorities become, the more important it will be for that community to consider how incentives could help compensate for the increasing amount of contribution effort required for people to participate.
 
 
 

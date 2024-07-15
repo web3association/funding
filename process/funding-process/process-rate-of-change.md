@@ -1,26 +1,26 @@
 ---
 description: >-
   Making suggestions towards what rates of change could apply to each of the
-  disbursement operating processes
+  funding operating processes
 ---
 
 # Process rate of change
 
-Understanding how fast different factors can change which impact the disbursement process will help with thinking about how any adopted systems and processes can be made to be sufficiently flexible and capable of handling any fast changing information or environments.
+Understanding how fast different factors can change which impact the funding process will help with thinking about how any adopted systems and processes can be made to be sufficiently flexible and capable of handling any fast changing information or environments.
 
-The most prominent step in the disbursement process that influences all other areas is the knowledge that an ecosystem is applying to generate and select its priorities, ideas and contributors for execution. The information made available to an ecosystem for making decisions will change on a daily basis. Some of this information can then influence changes to the priorities, ideas and contributors being selected to execute the most promising ideas.
+The most prominent step in the funding process that influences all other areas is the knowledge that an ecosystem is applying to generate and select its priorities, ideas and contributors for execution. The information made available to an ecosystem for making decisions will change on a daily basis. Some of this information can then influence changes to the priorities, ideas and contributors being selected to execute the most promising ideas.
 
-Ideas are likely the next major area in the disbursement process that could see frequent changes due to the range of ways that a solution can be defined to solve a certain priority. A wide range of information from internal and external sources could influence how ideas are updated and introduced over time to better address the current priorities. Execution could also likely see a slow to moderate rate of change when any of the contributors involved in the execution of ideas changes or how they operate and collaborate together. Finally an ecosystem's high level priorities would be another step in the disbursement process that would gradually change over time as the ecosystem starts to achieve its existing priorities or when existing priorities become less important than other ones.
+Ideas are likely the next major area in the funding process that could see frequent changes due to the range of ways that a solution can be defined to solve a certain priority. A wide range of information from internal and external sources could influence how ideas are updated and introduced over time to better address the current priorities. Execution could also likely see a slow to moderate rate of change when any of the contributors involved in the execution of ideas changes or how they operate and collaborate together. Finally an ecosystem's high level priorities would be another step in the funding process that would gradually change over time as the ecosystem starts to achieve its existing priorities or when existing priorities become less important than other ones.
 
-<figure><img src="../.gitbook/assets/disbursement-process-rate-of-change.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-Applying some approximate suggestions to think about these rates of change helps to highlight how important it is to consider how any treasury disbursement process is able to handle environments that have fast changing amounts of knowledge available. Any ecosystem will want to consider and respond to this knowledge when making disbursement decisions. If ideas are likely to change fairly frequently then the question to ask is how will the adopted systems and processes for disbursement cater for those changes? Can those changes to ideas be performed easily and effortlessly by the contributors responsible so they are better aligned with addressing ecosystem priorities?
+<figure><img src="../../.gitbook/assets/funding-process-rate-of-change.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+Applying some approximate suggestions to think about these rates of change helps to highlight how important it is to consider how any treasury funding process is able to handle environments that have fast changing amounts of knowledge available. Any ecosystem will want to consider and respond to this knowledge when making funding decisions. If ideas are likely to change fairly frequently then the question to ask is how will the adopted systems and processes for funding cater for those changes? Can those changes to ideas be performed easily and effortlessly by the contributors responsible so they are better aligned with addressing ecosystem priorities?
+
+
+
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -34,7 +34,7 @@ The implications of knowledge on the selecting priorities, ideas and contributor
 
 
 
-<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -44,11 +44,11 @@ Setting high level priorities within an ecosystem can help to identify the bigge
 
 **What implications does this have on the process?**
 
-If priorities had a fast rate of change in an ecosystem then it would be paramount that disbursement is able to respond to those changes and start redirecting funding to initiatives that are addressing these new priorities. The idea and contributor selection process would need to be sufficiently flexible to handle these changes as these priorities change. One implication of changing priorities could be that certain teams of contributors may need to migrate to a completely new area of focus to continue working on areas that better address current priorities. For other ecosystems where the rate of change is more gradually paced then a slower and more gradual change in allocation of treasury assets to different initiatives over time could be expected. Due to the longer amount of time needed to achieve any high level priorities we could expect the slower rate of change being more likely and preferable if possible.
+If priorities had a fast rate of change in an ecosystem then it would be paramount that a funding process is able to respond to those changes and start redirecting funding to initiatives that are addressing these new priorities. The idea and contributor selection process would need to be sufficiently flexible to handle these changes as these priorities change. One implication of changing priorities could be that certain teams of contributors may need to migrate to a completely new area of focus to continue working on areas that better address current priorities. For other ecosystems where the rate of change is more gradually paced then a slower and more gradual change in allocation of treasury assets to different initiatives over time could be expected. Due to the longer amount of time needed to achieve any high level priorities we could expect the slower rate of change being more likely and preferable if possible.
 
 
 
-<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -62,7 +62,7 @@ If some part of an overall idea needs to be changed or improved to respond to ne
 
 
 
-<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **What changes and how often?**
 
@@ -72,4 +72,4 @@ Execution focuses on which contributors are being selected to execute the most p
 
 **What implications does this have on the process?**
 
-Changing the contributors involved in the execution of ideas doesn’t mean that any of the knowledge, priorities or ideas would need to change. In some cases a change of contributors could result in those contributors influencing new ideas and priorities through their own suggestions or they might help with identifying new and useful information to consider. Changing how contributors operate and collaborate together would also not necessarily mean any changes are required for the knowledge, priorities or ideas parts of the disbursement process. As contributors learn about how to improve their own processes and operations this can lead to new knowledge which could then influence future priorities, ideas and execution.
+Changing the contributors involved in the execution of ideas doesn’t mean that any of the knowledge, priorities or ideas would need to change. In some cases a change of contributors could result in those contributors influencing new ideas and priorities through their own suggestions or they might help with identifying new and useful information to consider. Changing how contributors operate and collaborate together would also not necessarily mean any changes are required for the knowledge, priorities or ideas parts of the funding process. As contributors learn about how to improve their own processes and operations this can lead to new knowledge which could then influence future priorities, ideas and execution.

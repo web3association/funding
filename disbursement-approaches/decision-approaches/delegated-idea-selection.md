@@ -40,13 +40,13 @@ Each voter decision on priorities and contributors can be done so individually m
 
 **Very high voter expressiveness (Score - 5)**
 
-Voters are able to share their exact preferences on the priorities, ideas and contributors they prefer by voting on them individually. Voters do not have to make any compromises when deciding what proposals and suggestions match their opinions and preferences. This approach still has a very high expressiveness as idea selection can still be fully open to the community so they can indicate their preferences through a vote. The key difference is those preferences don’t result in the voter having full control over the outcomes of the disbursement process.
+Voters are able to share their exact preferences on the priorities, ideas and contributors they prefer by voting on them individually. Voters do not have to make any compromises when deciding what proposals and suggestions match their opinions and preferences. This approach still has a very high expressiveness as idea selection can still be fully open to the community so they can indicate their preferences through a vote. The key difference is those preferences don’t result in the voter having full control over the outcomes of the funding process.
 
 
 
-**High disbursement outcome influence (Score - 4, Multiply by importance of 4/5 or 0.8, Final Score - 3.2)**
+**High funding outcome influence (Score - 4, Multiply by importance of 4/5 or 0.8, Final Score - 3.2)**
 
-The voters decision will influence exactly what priorities and contributors are preferred which highly influence how contribution efforts are being directed as contributors would be responsible for executing ideas that help with addressing those priorities. Voters would still also be able to vote on what their preferred ideas are for addressing those priorities, however the outcome of which ideas actually get executed will be left to the selected contributors to decide. If contributors ignore these suggestions completely without good reason they are likely to not be elected again in future rounds. This incentive structure results in voters still having a high influence in the disbursement outcome.
+The voters decision will influence exactly what priorities and contributors are preferred which highly influence how contribution efforts are being directed as contributors would be responsible for executing ideas that help with addressing those priorities. Voters would still also be able to vote on what their preferred ideas are for addressing those priorities, however the outcome of which ideas actually get executed will be left to the selected contributors to decide. If contributors ignore these suggestions completely without good reason they are likely to not be elected again in future rounds. This incentive structure results in voters still having a high influence in the funding outcome.
 
 
 

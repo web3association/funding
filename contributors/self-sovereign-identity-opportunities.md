@@ -8,7 +8,7 @@ Self sovereign identity solutions could help with creating a range of impactful 
 
 **Elected contributor credentials**
 
-If contributors are selected for funding during disbursement they could be issued a credential to prove they are an active contributor for a certain period of time.
+If contributors are selected for funding during funding they could be issued a credential to prove they are an active contributor for a certain period of time.
 
 * **Read & write access** - Credentials could become an access control tool to enable contributors to make documentation changes, code commits and pull requests into code repositories amongst other areas of work.
 * **Contributor voting** - Contributors could conduct votes to make decisions about their allocation of contribution effort or for implementation decisions.
@@ -66,19 +66,19 @@ Community members could issue credentials about contributors in the ecosystem to
 
 
 
-## Synergies with disbursement approaches & suggestions
+## Synergies with funding approaches & suggestions
 
 
 
 **Contribution approaches - Independent submissions**
 
-Keeping the submission of information used in disbursement separate means that contributors will be more easily be able to start building their own reputation by making contributions in different areas and recording those contributions immediately on their own profile. Enabling a contributor to build up their reputation regardless of what’s happening in the disbursement process can better enable those contributors to more easily compete with the existing funded contributors when they request funding in the future.
+Keeping the submission of information used in a funding process separate means that contributors will be more easily be able to start building their own reputation by making contributions in different areas and recording those contributions immediately on their own profile. Enabling a contributor to build up their reputation regardless of what’s happening in the funding process can better enable those contributors to more easily compete with the existing funded contributors when they request funding in the future.
 
 
 
 **Decision approaches - All approaches**
 
-Having good identity solutions integrated into the disbursement process could make it easier for any of the different decision approaches that have been already identified. Voters would be able to access more reliable and up to date information about different contribution efforts people are making and what impact they are generating. More access to this information can help with improving disbursement decisions about where funds could be more effectively allocated. Identity solutions are particularly useful for the delegated idea selection approach as it would help take an already more scalable approach for voters and now make it even more scalable by making it quicker and easier for them to have confidence in the reputation and capabilities of the different contributors. Sophisticated and accurate identity solutions make it easier for community members to participate and become more well informed when selecting contributors to help with execution.
+Having good identity solutions integrated into the funding process could make it easier for any of the different decision approaches that have been already identified. Voters would be able to access more reliable and up to date information about different contribution efforts people are making and what impact they are generating. More access to this information can help with improving funding decisions about where funds could be more effectively allocated. Identity solutions are particularly useful for the delegated idea selection approach as it would help take an already more scalable approach for voters and now make it even more scalable by making it quicker and easier for them to have confidence in the reputation and capabilities of the different contributors. Sophisticated and accurate identity solutions make it easier for community members to participate and become more well informed when selecting contributors to help with execution.
 
 
 
@@ -102,4 +102,4 @@ Self sovereign identity solutions could help with capturing a wide range of info
 
 **Voter preferences & opinions - All community feedback**
 
-Community feedback about any of the information submitted during disbursement could help with identifying problems, new ideas and different approaches that are worth considering. Credentials could be a great addition to this feedback process as now community members could verify and prove that they have given feedback to a range of different areas. Community members engagement and participation in the disbursement process could help them build up their own reputation in one or many ecosystems based on the quality of their feedback and suggestions.
+Community feedback about any of the information submitted during funding could help with identifying problems, new ideas and different approaches that are worth considering. Credentials could be a great addition to this feedback process as now community members could verify and prove that they have given feedback to a range of different areas. Community members engagement and participation in the funding process could help them build up their own reputation in one or many ecosystems based on the quality of their feedback and suggestions.

@@ -1,12 +1,12 @@
 ---
 description: >-
   Considerations for how incentives could be help with maintaining important
-  information across the disbursement process
+  information across the funding process
 ---
 
 # Maintenance of information incentives
 
-Information that is submitted through a disbursement process will often need to be maintained and updated as new information emerges or changes occur. Incentives could be used to encourage contributors to maintain this information over time. Alternatively contribution incentives could be used to handle the maintenance of disbursement information. The contribution incentive approaches that could also be used for maintaining information are covered here:
+Information that is submitted through a funding process will often need to be maintained and updated as new information emerges or changes occur. Incentives could be used to encourage contributors to maintain this information over time. Alternatively contribution incentives could be used to handle the maintenance of funding information. The contribution incentive approaches that could also be used for maintaining information are covered here:
 
 {% content-ref url="../../incentives/contribution-incentive-approaches.md" %}
 [contribution-incentive-approaches.md](../../incentives/contribution-incentive-approaches.md)
@@ -39,7 +39,7 @@ Selected ideas that get executed will create new information about the progress 
 
 * **No incentives** - Incentives aren’t necessarily required for keeping an idea up to date with relevant information such as progress or completion reports, execution approach or outcome changes or providing feedback and discussion around the impact being generated. The incentive to keep an idea up to date with the right information could be handled with contribution incentives where contributors who are selected to be compensated to help with the execution of ideas could also be responsible for keeping those ideas up to date. This could be a simple and suitable option for keeping the incentive design simple.
 * **Performance incentives** - Compensation could be rewarded to contributors that are highly effective at keeping an idea up to date with relevant information. This could be effective to help with quickly updating an ideas information so that the community is always well informed.
-* **Task incentives** - An incentive could be made available for each time that information gets added to an idea. This could help with incentivising a wider range of community members to keep an idea up to date rather than just the contributors who are executing an idea. The risk with this approach is that the incentives could lead to irrelevant information being added that bloats the disbursement process.
+* **Task incentives** - An incentive could be made available for each time that information gets added to an idea. This could help with incentivising a wider range of community members to keep an idea up to date rather than just the contributors who are executing an idea. The risk with this approach is that the incentives could lead to irrelevant information being added that bloats the funding process.
 * **Time incentives** - Incentives could be used to compensate contributors for their time to help with keeping the information up to date about an idea. This could be useful for ensuring contributors are being very deliberate about the amount of time a contributor should ideally take when keeping an idea up to date and the information that they decide to add. This time incentive could be handled with contribution incentives that help with handling the execution of ideas, creating a separate time based incentive just for updating idea information could be adding unnecessary complexity.
 
 
@@ -52,6 +52,6 @@ Selected contributors that start executing different ideas will generate new inf
 
 **Potential incentive approaches**
 
-* **No incentives** - Contributors have a natural incentive to keep their information up to date to maximise their chances of being selected and compensated for future execution efforts. There isn’t a large amount of information required to keep contributors profile up to date which helps to support an approach that doesn’t add any incentives for this part of the disbursement process.
+* **No incentives** - Contributors have a natural incentive to keep their information up to date to maximise their chances of being selected and compensated for future execution efforts. There isn’t a large amount of information required to keep contributors profile up to date which helps to support an approach that doesn’t add any incentives for this part of the funding process.
 * **Task incentives** - Task incentives could be suitable if it made sense to have a wider amount of the community being active in updating contributor information instead of just the contributors themselves. Contributors could also receive an incentive for updating this information but this might not make sense if they are already receiving compensation when they are selected for making contribution efforts. A task incentive could potentially be useful for moderating the information that is being added by contributors by the community.
 * **Time incentives** - The accuracy and correctness of the information being added to a contributor's profile could be moderated and verified by people who are paid to moderate the information. This could be a necessary way to better identify when contributors have been lying or exaggerating about their background, education or contributions.

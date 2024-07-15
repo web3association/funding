@@ -51,7 +51,7 @@ The governance complexity would inherit the same complexities as the idea milest
 The game theory risks would inherit the same risks as the idea milestone incentives approach. On top of this there is even increased risks due to the following:
 
 * **Proposal details** - Addressing a priority can take a larger amount of execution effort which could result in requests for a larger amount of compensation in each proposal. The larger the scope and budget there is for a proposal the more risk there is that the estimated time it takes to execute something is exaggerated or purposefully incorrect. As milestones for each proposal are unique this becomes even harder to determine if the contributors are trying to game the system as they are able to self define the milestones.
-* **Malicious voters** - The larger that the available incentive is the more reasons there are for malicious voters to try and influence the outcome of the disbursement decisions.
+* **Malicious voters** - The larger that the available incentive is the more reasons there are for malicious voters to try and influence the outcome of the funding decisions.
 
 
 

@@ -28,7 +28,7 @@ This decision approach includes the same ability for voters to select priorities
 
 **Low voter participation time required (Score - 4)**
 
-Voters could participate in one or all of the different decisions involved with selecting priorities, ideas and contributors. This voter has the full freedom to participate in whichever decisions they want to for the disbursement process. The main areas that the ecosystem encourages is participation in priority selection and contributor selection which results in reducing the total average time required for voters to participate.
+Voters could participate in one or all of the different decisions involved with selecting priorities, ideas and contributors. This voter has the full freedom to participate in whichever decisions they want to for the funding process. The main areas that the ecosystem encourages is participation in priority selection and contributor selection which results in reducing the total average time required for voters to participate.
 
 
 
@@ -44,9 +44,9 @@ Voters are able to select the exact priorities, ideas and contributors they pref
 
 
 
-**Very high disbursement outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
+**Very high funding outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
 
-The voters decision will influence exactly what priorities, ideas and contributors are preferred which will directly influence how contribution efforts are being directed through the selection of proposals in each process. The only key difference in this approach is that voters are not actively encouraged or expected to vote on every idea, however as mentioned the outcome of any decision from voters is still authoritative on what ideas will actually be executed. This means this approach has a very high influence on the outcomes of disbursement.
+The voters decision will influence exactly what priorities, ideas and contributors are preferred which will directly influence how contribution efforts are being directed through the selection of proposals in each process. The only key difference in this approach is that voters are not actively encouraged or expected to vote on every idea, however as mentioned the outcome of any decision from voters is still authoritative on what ideas will actually be executed. This means this approach has a very high influence on the outcomes of funding.
 
 
 

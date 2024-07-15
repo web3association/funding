@@ -74,7 +74,7 @@ In group based contribution logs it can be easier to hide poor performance as th
 
 **Improved decision making**
 
-Measurable contribution logs can help with making it easier for voters to spot the best and worst performers amongst a group of contributors. It can also help with identifying trends in the performance of contributors as a whole or where certain skill sets might be missing. This information can help with improving future disbursement decisions about where to allocate more resources and focus. Individual monthly contribution logs also become increasingly useful over time where a contributor will build up a reputation based on their contribution history. These logs can help with making voting decisions even easier over time as the community will simply be able to repeatedly select and fund the most performant contributors in the ecosystem.
+Measurable contribution logs can help with making it easier for voters to spot the best and worst performers amongst a group of contributors. It can also help with identifying trends in the performance of contributors as a whole or where certain skill sets might be missing. This information can help with improving future funding decisions about where to allocate more resources and focus. Individual monthly contribution logs also become increasingly useful over time where a contributor will build up a reputation based on their contribution history. These logs can help with making voting decisions even easier over time as the community will simply be able to repeatedly select and fund the most performant contributors in the ecosystem.
 
 
 

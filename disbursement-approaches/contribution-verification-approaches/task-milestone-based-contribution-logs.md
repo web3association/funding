@@ -52,7 +52,7 @@ Milestone based contribution logs would be more useful when the team stays the s
 
 **Very high game theory risks (Score - 1)**
 
-Contributors can manipulate and exaggerate both the time it takes to complete any given task or the scope of what is being executed. Giving contributors the full ability to set the scope and time period maximises their ability to manipulate these inputs. The fact that each milestone will be different from the other milestones and with any of the other projects only increases this ability to manipulate these inputs in a way that would benefit the contributors. Maximising flexibility for this specific area in disbursement means maximising the difficulty for the community to determine what is fair and reasonable across all of the unique milestones that get submitted.
+Contributors can manipulate and exaggerate both the time it takes to complete any given task or the scope of what is being executed. Giving contributors the full ability to set the scope and time period maximises their ability to manipulate these inputs. The fact that each milestone will be different from the other milestones and with any of the other projects only increases this ability to manipulate these inputs in a way that would benefit the contributors. Maximising flexibility for this specific area in funding means maximising the difficulty for the community to determine what is fair and reasonable across all of the unique milestones that get submitted.
 
 
 

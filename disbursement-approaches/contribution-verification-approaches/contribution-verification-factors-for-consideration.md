@@ -67,7 +67,7 @@ The [methodology](https://docs.treasuries.co/analysis/approach-comparison-method
 **Verification time required**
 
 * **Description** - Verification time is concerned with how long it would take for a community moderator to verify that contribution log submissions are correct.
-* **Maximum score** - 3, Moderately important. Reducing the time it takes to verify a submission will help with reducing operational costs of moderating the disbursement process. The verification of contributions can be increasingly automated over time such as with code commits, designs created or documents written. The importance of verification time should reduce over time as more tools and processes are created and refined.
+* **Maximum score** - 3, Moderately important. Reducing the time it takes to verify a submission will help with reducing operational costs of moderating the funding process. The verification of contributions can be increasingly automated over time such as with code commits, designs created or documents written. The importance of verification time should reduce over time as more tools and processes are created and refined.
 * **Scoring questions** - How long would it take on average for a moderator to verify the contribution logs submitted by contributors?
 * **Scoring** - Lower verification time required is good (Score - 5). Higher verification time required is bad (Score - 1).
 

@@ -10,7 +10,7 @@
 
 **Overview**
 
-An independent idea costs process means that idea related costs are handled separately from any voting that supports or rejects any suggested ideas. An already supported idea could submit further idea related costs for consideration to the community. A separate idea cost process could function in a multitude of ways depending on the requirements of the ecosystem. As one example some disbursement processes could decide to automatically include and approve idea related costs when the request value being requested is small. Those ecosystems could then adopt an independent approval process for situations where those costs exceed a certain value.
+An independent idea costs process means that idea related costs are handled separately from any voting that supports or rejects any suggested ideas. An already supported idea could submit further idea related costs for consideration to the community. A separate idea cost process could function in a multitude of ways depending on the requirements of the ecosystem. As one example some funding processes could decide to automatically include and approve idea related costs when the request value being requested is small. Those ecosystems could then adopt an independent approval process for situations where those costs exceed a certain value.
 
 
 

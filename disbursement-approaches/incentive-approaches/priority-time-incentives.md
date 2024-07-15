@@ -50,7 +50,7 @@ The governance complexity would inherit the same complexities as the idea time i
 The game theory risks would inherit the same risks as the idea time incentives approach. On top of this there is even increased complexity due to the following:
 
 * **Proposal details** - Addressing a priority can take a larger amount of execution effort which could result in allocating a larger amount of compensation in a given proposal. The larger the scope of a proposal the more risk there is that the estimated times it takes to execute something are exaggerated or purposefully estimated incorrectly. This should mostly be picked up using a verification approach of individual contribution logs however the risk of potential abuse happening would still be higher if there is a large enough incentive involved.
-* **Malicious voters** - The larger that the available incentive is the more reasons there are for malicious voters to try and influence the outcome of the disbursement decisions.
+* **Malicious voters** - The larger that the available incentive is the more reasons there are for malicious voters to try and influence the outcome of the funding decisions.
 
 
 

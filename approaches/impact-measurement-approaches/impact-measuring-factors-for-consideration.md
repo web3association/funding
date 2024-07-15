@@ -31,7 +31,7 @@ The [methodology](https://docs.treasuries.co/analysis/approach-comparison-method
 **Game theory risks**
 
 * **Description** - The metrics and perceived outcomes of any funded initiative could be manipulated or exaggerated to make it seem like that initiative had made more impact than it actually has. Bad actors might attempt to do this to increase their chances of receiving future compensation.
-* **Maximum score** - 5, Very important. An ecosystem will need to identify and prevent bad actors from lying to and deceiving a community about what has actually made an impact for the ecosystem. A community that can effectively prevent bad actors will be able to more reliably identify impactful initiatives and improve future disbursement decisions.
+* **Maximum score** - 5, Very important. An ecosystem will need to identify and prevent bad actors from lying to and deceiving a community about what has actually made an impact for the ecosystem. A community that can effectively prevent bad actors will be able to more reliably identify impactful initiatives and improve future funding decisions.
 * **Scoring questions** - How could contributors lie or be deceptive about the different areas that are measured for determining what impact has been generated? How could contributors exaggerate about a certain outcome and the impact it helped to generate?
 * **Scoring** - Lower risk is good (Score - 5). Higher risk is bad (Score - 1).
 

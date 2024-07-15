@@ -8,9 +8,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/submission-approaches.png" alt=""><figcaption></figcaption></figure>
 
-A proposal process can use incentives to help encourage the submission of proposals that can help with the different processes involved in treasury disbursement. Proposal submissions could be relevant for any of the knowledge, priorities, ideas or execution process steps. Each of these disbursement processes have a number of differences in the types of proposal information that could be collected, discussed, compared and then voted on.
+A proposal process can use incentives to help encourage the submission of proposals that can help with the different processes involved in treasury funding. Proposal submissions could be relevant for any of the knowledge, priorities, ideas or execution process steps. Each of these funding processes have a number of differences in the types of proposal information that could be collected, discussed, compared and then voted on.
 
-These incentives only cover how people could be encouraged to participate in a proposal process with their own suggestions. The incentives that help with the execution of proposals are covered separately. Incentives that cover the operation of the disbursement process itself would also be covered elsewhere in some separate treasury operation analysis.
+These incentives only cover how people could be encouraged to participate in a proposal process with their own suggestions. The incentives that help with the execution of proposals are covered separately. Incentives that cover the operation of the funding process itself would also be covered elsewhere in some separate treasury operation analysis.
 
 
 
@@ -34,13 +34,13 @@ The incentives introduced into a proposal process can have a big impact on how p
 
 **Depth of thought & discussion**
 
-Many Web3 ecosystems are trying to tackle big societal problems that cover important areas such as money, financial services and governance amongst many other areas. Creating effective processes for disbursement will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
+Many Web3 ecosystems are trying to tackle big societal problems that cover important areas such as money, financial services and governance amongst many other areas. Creating effective funding processes will mean making considerations towards how any suggested incentive approaches can help with encouraging more depth of thought and discussion. The better this is achieved the more well informed the wider community can become on the nuances of different topics and potential decisions. Some of the complexity with this area of incentivisation is that each person can contribute vastly different amounts of value and allocate different amounts of time when making their own contributions and sharing their opinions.
 
 
 
 **Supporting evidence for submissions**
 
-A lot of effort and time can be needed to create and maintain resources that get used as evidence for supporting why a proposal is important. The incentives introduced to any disbursement processes will need to factor in how they are effective in encouraging the authors of a proposal to provide sufficient evidence to support their submission. This incentive could also extend to encouraging those authors or other contributors to keep the resources and any information up to date so that community members are kept well informed about the ongoing importance of a proposal over time.
+A lot of effort and time can be needed to create and maintain resources that get used as evidence for supporting why a proposal is important. The incentives introduced to any funding processes will need to factor in how they are effective in encouraging the authors of a proposal to provide sufficient evidence to support their submission. This incentive could also extend to encouraging those authors or other contributors to keep the resources and any information up to date so that community members are kept well informed about the ongoing importance of a proposal over time.
 
 
 

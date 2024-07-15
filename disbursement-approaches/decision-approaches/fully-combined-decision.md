@@ -26,7 +26,7 @@ A fully combined decision is where voters will select the priorities, ideas and 
 
 **Very high voter participation time required (Score - 1)**
 
-For voters to participate they need to read, understand and compare all of the proposals with the priorities, ideas and contributors that are suggested. Voters must participate in the entire disbursement process with the entire decision making in a single vote. Voters are unable to partially participate in some of the disbursement process separately.
+For voters to participate they need to read, understand and compare all of the proposals with the priorities, ideas and contributors that are suggested. Voters must participate in the entire funding process with the entire decision making in a single vote. Voters are unable to partially participate in some of the funding process separately.
 
 
 
@@ -42,7 +42,7 @@ If a voter wanted to select any specific priorities, ideas or contributors they 
 
 
 
-**Very high disbursement outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
+**Very high funding outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
 
 The voters decision will influence exactly how contribution efforts are being directed through the selected proposals that define the priorities, ideas and contributors involved.
 
@@ -50,7 +50,7 @@ The voters decision will influence exactly how contribution efforts are being di
 
 **Very high voter decision change complexity (Score - 1)**
 
-To make future changes to previous decisions an entire new proposal would be needed to suggest any changes to the priorities, ideas or contributors in a similar proposal based on the exact change that were needed. Alternatively the ecosystem would need to introduce a separate change process to make changes to these different areas. The obvious issue with this however is it then adds in even more processes and complexity to the disbursement process. If the processes were independent then voters would be able to reuse the same systems they used for the initial vote to make changes
+To make future changes to previous decisions an entire new proposal would be needed to suggest any changes to the priorities, ideas or contributors in a similar proposal based on the exact change that were needed. Alternatively the ecosystem would need to introduce a separate change process to make changes to these different areas. The obvious issue with this however is it then adds in even more processes and complexity to the funding process. If the processes were independent then voters would be able to reuse the same systems they used for the initial vote to make changes
 
 
 

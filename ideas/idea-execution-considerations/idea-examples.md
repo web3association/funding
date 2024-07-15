@@ -4,7 +4,7 @@ description: List of different types of idea that could be executed in a Web3 ec
 
 # Idea examples
 
-The following are some different ideas that could be suggested during disbursement. Each could help with solving different problems an ecosystem is having or they could help with addressing certain opportunities. This list is not exhaustive and instead just provides some example ideas.
+The following are some different ideas that could be suggested during funding. Each could help with solving different problems an ecosystem is having or they could help with addressing certain opportunities. This list is not exhaustive and instead just provides some example ideas.
 
 
 

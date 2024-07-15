@@ -16,7 +16,7 @@ description: >-
 
 **Overview**
 
-The idea and contributor combined submission approach separates the disbursement processes into a knowledge and priority submission and an idea and contributor submission. The submissions should be able to reference the submission data from other processes, for instance an idea and contributor combined submission should optionally be able to reference an existing knowledge and priority combined submission.
+The idea and contributor combined submission approach separates the funding processes into a knowledge and priority submission and an idea and contributor submission. The submissions should be able to reference the submission data from other processes, for instance an idea and contributor combined submission should optionally be able to reference an existing knowledge and priority combined submission.
 
 <div align="left">
 
@@ -28,7 +28,7 @@ The idea and contributor combined submission approach separates the disbursement
 
 **Moderate contributor participation time required (Score - 3)**
 
-Contributors are able to select which area of disbursement they want to contribute towards with more flexibility using a separated approach. Now contributors would only need to spend time submitting knowledge and priorities to make a submission or alternatively could look at suggesting ideas along with the contributors that could help with executing those ideas.
+Contributors are able to select which area of funding they want to contribute towards with more flexibility using a separated approach. Now contributors would only need to spend time submitting knowledge and priorities to make a submission or alternatively could look at suggesting ideas along with the contributors that could help with executing those ideas.
 
 
 

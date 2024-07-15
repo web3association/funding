@@ -26,7 +26,7 @@ An idea and contributor combined decision means that selection of ideas and cont
 
 **High voter participation time required (Score - 2)**
 
-Voters are able to participate in the priority selection decision and ideas and contribution selection decision separately. This means they could decide to participate in just one of those votes instead of both. This reduces the amount of context and information required to participate in the disbursement process as they can decide where and how they participate. Some voters may only want to participate in voting on the priority setting process which would mean they don’t need to review all of the ideas and contributor combined proposals.
+Voters are able to participate in the priority selection decision and ideas and contribution selection decision separately. This means they could decide to participate in just one of those votes instead of both. This reduces the amount of context and information required to participate in the funding process as they can decide where and how they participate. Some voters may only want to participate in voting on the priority setting process which would mean they don’t need to review all of the ideas and contributor combined proposals.
 
 
 
@@ -42,7 +42,7 @@ Voters would be able to select the exact priorities that they believe are the mo
 
 
 
-**Very high disbursement outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
+**Very high funding outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
 
 The voter's decision will influence exactly what priorities are preferred and exactly how contribution efforts are being directed through the selection of proposals that define the idea and contributors involved.
 

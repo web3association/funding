@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../../.gitbook/assets/contribution-verification-approaches-title.png" alt=""><figcaption></figcaption></figure>
 
-Contribution verification is used to verify the contribution efforts of contributors. Contributors would submit evidence about their contribution efforts and the community could then check and verify those outputs. Disbursement can benefit from having a verification process to reduce the risk of bad actors trying to misuse or steal community funds. Verification can also help future decision making if a community is more easily able to determine if the execution outputs made by different individuals and teams is sufficient for the compensation they are receiving.
+Contribution verification is used to verify the contribution efforts of contributors. Contributors would submit evidence about their contribution efforts and the community could then check and verify those outputs. Funding can benefit from having a verification process to reduce the risk of bad actors trying to misuse or steal community funds. Verification can also help future decision making if a community is more easily able to determine if the execution outputs made by different individuals and teams is sufficient for the compensation they are receiving.
 
 The importance of recording, measuring and verifying contributions has been covered in more detail separately:
 

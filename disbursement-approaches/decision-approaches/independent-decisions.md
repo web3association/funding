@@ -26,7 +26,7 @@ Independent decisions means that the selection of priorities, ideas and contribu
 
 **Moderate voter participation time required (Score - 3)**
 
-Voters could participate in one or all of the disbursement decisions around selecting priorities, ideas and contributors. This approach gives the voter the full freedom to participate in whichever decisions they want to for the disbursement process. The reason this approach still has moderate complexity is due to the amount of time it would take for voters to understand and compare decisions across all of these processes. The idea selection process can easily be the most demanding in terms of time required to understand and analyse the ideas submitted. This high time requirement to compare ideas provides sufficient rationale why voters may potentially decide to disengage from the process as it scales in size due to the time it would take to cover and understand such a wider range of focus areas.
+Voters could participate in one or all of the funding decisions around selecting priorities, ideas and contributors. This approach gives the voter the full freedom to participate in whichever decisions they want to for the funding process. The reason this approach still has moderate complexity is due to the amount of time it would take for voters to understand and compare decisions across all of these processes. The idea selection process can easily be the most demanding in terms of time required to understand and analyse the ideas submitted. This high time requirement to compare ideas provides sufficient rationale why voters may potentially decide to disengage from the process as it scales in size due to the time it would take to cover and understand such a wider range of focus areas.
 
 
 
@@ -42,7 +42,7 @@ Voters are able to select the exact priorities, ideas and contributors they pref
 
 
 
-**Very high disbursement outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
+**Very high funding outcome influence (Score - 5, Multiply by importance of 4/5 or 0.8, Final Score - 4)**
 
 The voters decision will influence exactly what priorities, ideas and contributors are preferred which will directly influence how contribution efforts are being directed through the selection of proposals in each process.
 

@@ -1,6 +1,6 @@
 # Idea cost factors for consideration
 
-The following are some relevant idea cost factors for consideration to help with comparing the approaches for handling idea costs. An approximate score will be added against each idea cost approach with a rationale behind the score for each of the different factors. The scoring for each area will range from 1 (very bad) to 5 (excellent). The importance of each factor is also rated out of 5, where 1 is not important and 5 is very important. This importance will be used to determine an overall score. As an example, a moderately important factor (3) could be represented as a 60% percentage value, multiplied by a score of 5 would result in an actual final score of 3 (0.6 importance \* 5 score).
+The [methodology](https://docs.treasuries.co/analysis/approach-comparison-methodology) used for this approach comparison is documented separately.
 
 
 
@@ -17,7 +17,7 @@ The following are some relevant idea cost factors for consideration to help with
 
 * **Description** - Where and when idea related costs can be requested can influence how complex it is for adding new idea costs or making changes to existing costs.
 * **Importance score** - 5, Very important. During the execution of ideas a number of new costs could emerge or changes to existing ones due to new information and changing factors and environments.
-* **Scoring questions** - How can new costs be requested from the disbursement process? How can existing costs be amended or returned? What effort does a contributor need to make future requests?
+* **Scoring questions** - How can new costs be requested from the funding process? How can existing costs be amended or returned? What effort does a contributor need to make future requests?
 * **Scoring** - Low complexity is good (Score - 5). High complexity is bad (Score - 1).
 
 

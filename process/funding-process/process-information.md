@@ -1,26 +1,24 @@
 ---
-description: >-
-  Exploring what information is involved in each step of the disbursement
-  process
+description: Exploring what information is involved in each step of the funding process
 ---
 
 # Process information
 
-A lot of information will often be needed to effectively operate a disbursement process. Voters need to be well informed when making decisions on how to effectively disburse treasury assets to generate impactful outcomes. A variety of different information is needed across each step of the disbursement process, voters will need to review this information to be sufficiently informed when making any decisions.
+A lot of information will often be needed to effectively operate a funding process. Voters need to be well informed when making decisions on how to effectively disburse treasury assets to generate impactful outcomes. A variety of different information is needed across each step of the funding process, voters will need to review this information to be sufficiently informed when making any decisions.
 
-<figure><img src="../.gitbook/assets/disbursement-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
-
-
-
-There is a vast amount of information that can be gathered prior to making any disbursement decisions. It is the application of this information that will heavily influence an ecosystem's decision on what to prioritise, which ideas are the most promising and which contributors should help execute those ideas. Ideas will also include a wide range of information, a sufficient level of depth will often be needed to properly articulate how any suggested solution idea can effectively address a priority. The amount of information needed to understand the skills and experience of a contributor is also fairly sizable, along with the ongoing information gathered about how those contributors operate together and the measured outcomes from executed ideas. Priorities may not require the same quantity of information as some of the other disbursement steps, but priorities could still see a moderate amount of information being gathered, this could come in the form of community responses that help highlight overall sentiment and feedback about the current priorities as they are being addressed over time.
+<figure><img src="../../.gitbook/assets/funding-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
-<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+There is a vast amount of information that can be gathered prior to making any funding decisions. It is the application of this information that will heavily influence an ecosystem's decision on what to prioritise, which ideas are the most promising and which contributors should help execute those ideas. Ideas will also include a wide range of information, a sufficient level of depth will often be needed to properly articulate how any suggested solution idea can effectively address a priority. The amount of information needed to understand the skills and experience of a contributor is also fairly sizable, along with the ongoing information gathered about how those contributors operate together and the measured outcomes from executed ideas. Priorities may not require the same quantity of information as some of the other funding steps, but priorities could still see a moderate amount of information being gathered, this could come in the form of community responses that help highlight overall sentiment and feedback about the current priorities as they are being addressed over time.
+
+
+
+<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
-Any information relevant to the ecosystem that could help with making more well informed disbursement decisions could be included in this process of aggregating information for the ecosystem to consider.
+Any information relevant to the ecosystem that could help with making more well informed funding decisions could be included in this process of aggregating information for the ecosystem to consider.
 
 * **Current state of an ecosystem** - On-chain data covering usage and performance, historical funded initiatives and the impact they generated, security audits covering ecosystem protocols and applications, current user sentiment and feedback, SDKs, tools and libraries available for software development, available products & services in the ecosystem with their current usage, adoption, problems and opportunities and performance and metrics for current execution approach.
 * **External ecosystem information** - Competitor on-chain data covering usage and performance, other approaches used for technical infrastructure, protocol design or security audits, products and services launched in other ecosystems, latest industry technical advancements along with any reports and insights, industry overall sentiment and adoption data, economic data with any current forecasts and any regulatory changes.
@@ -29,11 +27,11 @@ Any information relevant to the ecosystem that could help with making more well 
 
 **Other information relevant to this process**
 
-* **Execution** - Any progress or outcomes generated from the execution of ideas will help to create new information that can be fed back into the disbursement process as new knowledge. Measuring the impact of outcomes generated will be an important approach for improving future prioritisation, idea selection and the approaches that get adopted for executing those ideas.
+* **Execution** - Any progress or outcomes generated from the execution of ideas will help to create new information that can be fed back into the funding process as new knowledge. Measuring the impact of outcomes generated will be an important approach for improving future prioritisation, idea selection and the approaches that get adopted for executing those ideas.
 
 
 
-<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -59,7 +57,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -77,7 +75,7 @@ Any information relevant to the ecosystem that could help with making more well 
   * Dependencies - List of any external dependencies that the idea relies on for it to be effectively executed.
   * Authors - Who created the idea.
   * Execution breakdown & milestones - A breakdown of the tasks involved in executing the idea which could be grouped by skill or task. Milestone based groupings could be made to better identify when key parts of an idea will be executed that can help with demonstrating progress.
-  * Total cost - A breakdown of the total cost to execute the idea based on the execution breakdown and milestones. Costings would only be needed if the disbursement decisions for idea selection are the point where compensation is awarded.
+  * Total cost - A breakdown of the total cost to execute the idea based on the execution breakdown and milestones. Costings would only be needed if the funding decisions for idea selection are the point where compensation is awarded.
   * Voter sentiment - Community responses to an idea that help to highlight any concerns, problems or opportunities worth consideration.
   * Community feedback & comments - Any feedback or comments provided by the community towards how an idea could be improved or requests for further clarification about certain areas.
   * Tags & categorisations - Tags or categorisations that make it easier to traverse and find this idea when it is amongst many others.
@@ -94,7 +92,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 

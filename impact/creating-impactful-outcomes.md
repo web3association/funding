@@ -1,10 +1,12 @@
 ---
-description: Example areas that a disbursement process may focus on to create impact
+description: Example areas that a funding process may focus on to create impact
 ---
 
 # Creating impactful outcomes
 
-<figure><img src="../.gitbook/assets/disbursement-impactful-outcomes.png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/funding-impactful-outcomes.png" alt=""><figcaption></figcaption></figure>
 
 Ecosystems can each have their own set of principles, values, priorities and other areas of impact that they could be trying to address or support when disbursing treasury assets to different areas and initiatives.
 
