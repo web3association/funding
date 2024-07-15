@@ -35,7 +35,9 @@ The following are some example approaches that cover how submissions could be ha
 
 To compare these decision approaches a number of [factors have been considered](contribution-factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/funding-contribution-approaches.png" alt=""><figcaption></figcaption></figure>
+
+
 
 There are further ways you could group together the submission of knowledge, priority, idea and contributor information. However the above comparison helps to highlight that the most expressive, lowest complexity and lowest time required approach to participate in funding is best achieved by keeping the submission for these processes independent from one another.
 

@@ -47,7 +47,7 @@ A number of decision approaches could be used to select which priorities, ideas 
 
 To compare these decision approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/funding-decision-approaches.png" alt=""><figcaption></figcaption></figure>
 
 The most expressive, flexible and least complex of the decision approaches outlined above were those that adopted independent processes for decision making to select the most important priorities, ideas and contributors.
 
