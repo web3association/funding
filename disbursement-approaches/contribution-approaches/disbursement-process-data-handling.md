@@ -16,7 +16,7 @@ Knowledge, priorities, ideas and execution cover the four key processes involved
 
 
 
-<figure><img src="../../.gitbook/assets/disbursement-many-to-many-relationship.png" alt=""><figcaption><p>Many to many relationships between knowledge, priorities, ideas and contributors</p></figcaption></figure>
+<figure><img src="broken-reference" alt=""><figcaption><p>Many to many relationships between knowledge, priorities, ideas and contributors</p></figcaption></figure>
 
 In relational databases, data normalisation is a process in database design that helps with organising data to minimise redundancy and dependency. The principles behind data normalisation are relevant for how a funding process can handle and process its data due to the amount of duplicated data that can emerge because of the numerous many to many relationships. A funding process could need to handle an ever increasing amount of data being stored and used across the different systems and processes involved in funding.
 

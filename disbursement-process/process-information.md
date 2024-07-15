@@ -6,7 +6,7 @@ description: Exploring what information is involved in each step of the funding 
 
 A lot of information will often be needed to effectively operate a funding process. Voters need to be well informed when making decisions on how to effectively disburse treasury assets to generate impactful outcomes. A variety of different information is needed across each step of the funding process, voters will need to review this information to be sufficiently informed when making any decisions.
 
-<figure><img src="../../.gitbook/assets/funding-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/funding-processes-gathered-information.jpg" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@ There is a vast amount of information that can be gathered prior to making any f
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -31,7 +31,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -57,7 +57,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 
@@ -92,7 +92,7 @@ Any information relevant to the ecosystem that could help with making more well 
 
 
 
-<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Potential information gathered in this process**
 

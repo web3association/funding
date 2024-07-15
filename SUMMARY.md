@@ -4,13 +4,13 @@
 
 ## Process
 
-* [Funding process](process/funding-process/README.md)
-  * [Process information](process/funding-process/process-information.md)
-  * [Process rate of change](process/funding-process/process-rate-of-change.md)
-  * [Process rankings of importance](process/funding-process/process-rankings-of-importance.md)
-  * [Delegating process decisions](process/funding-process/delegating-process-decisions.md)
-  * [Process complexity](process/funding-process/process-complexity.md)
-* [Funding process differences](process/funding-process-differences.md)
+* [Funding process](disbursement-process/disbursement-operating-process.md)
+  * [Process information](disbursement-process/process-information.md)
+  * [Process rate of change](disbursement-process/process-rate-of-change.md)
+  * [Process rankings of importance](disbursement-process/process-rankings-of-importance.md)
+  * [Delegating process decisions](disbursement-process/delegating-process-decisions.md)
+  * [Process complexity](disbursement-process/process-complexity.md)
+* [Funding process differences](process/disbursement-process-differences.md)
 
 ## Approaches
 
@@ -19,7 +19,7 @@
   * [Fully combined submission](disbursement-approaches/contribution-approaches/fully-combined-submission.md)
   * [Idea & contributor combined submissions](disbursement-approaches/contribution-approaches/idea-and-contributor-combined-submissions.md)
   * [Independent submissions](disbursement-approaches/contribution-approaches/independent-submissions.md)
-  * [Funding process data handling](approaches/contribution-approaches/funding-process-data-handling.md)
+  * [Funding process data handling](disbursement-approaches/contribution-approaches/disbursement-process-data-handling.md)
 * [Decision approaches](disbursement-approaches/decision-approaches/README.md)
   * [Decision factors for consideration](disbursement-approaches/decision-approaches/factors-for-consideration.md)
   * [Fully combined decision](disbursement-approaches/decision-approaches/fully-combined-decision.md)

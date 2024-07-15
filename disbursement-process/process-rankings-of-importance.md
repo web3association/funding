@@ -6,7 +6,7 @@ description: A suggested importance ranking of each part of a funding process
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/process-rankings-of-importance.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/process-rankings-of-importance.png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
 
@@ -14,7 +14,7 @@ Knowledge is the most important part of the funding process as it influences eve
 
 
 
-<figure><img src="../../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/knowledge-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -30,7 +30,7 @@ Knowledge has a monumental impact on every part of the funding process. Due to t
 
 
 
-<figure><img src="../../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/priorities-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -45,7 +45,7 @@ Good prioritisation will play a vital role in which ecosystems stagnate or thriv
 
 
 
-<figure><img src="../../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/ideas-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 
@@ -59,7 +59,7 @@ Generating and selecting the right ideas is an important part of being able to a
 
 
 
-<figure><img src="../../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/contributors-title.png" alt=""><figcaption></figcaption></figure>
 
 **Impact on other processes**
 

@@ -69,8 +69,8 @@ There are a number of further advantages for handling funding submissions separa
 
 **Better data structure for increasing usability, composability, reusability & maintainability**
 
-{% content-ref url="../../approaches/contribution-approaches/funding-process-data-handling.md" %}
-[funding-process-data-handling.md](../../approaches/contribution-approaches/funding-process-data-handling.md)
+{% content-ref url="disbursement-process-data-handling.md" %}
+[disbursement-process-data-handling.md](disbursement-process-data-handling.md)
 {% endcontent-ref %}
 
 
