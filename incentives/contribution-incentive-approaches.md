@@ -100,7 +100,7 @@ Time incentives are when people are compensated based on the amount of time they
 * **Only somewhat aligned with impact** - If contributors do not perform well or do not generate any impact they would be less likely to be selected again in future voting rounds to be paid as a contributor. This helps to provide some alignment with generating impact however their actual incentive is still based on the contribution time they provided. Time incentives on their own may not be sufficient to consistently generate highly impactful outcomes.
 * **Low alignment with faster execution** - The longer a contributor takes to execute some work the more they will get paid using a time based incentive. This creates a misalignment for the contributor to execute at a fast rate. This could be beneficial for mission critical pieces of work that must be done carefully and not rushed, however this factor could also be abused. Providing there is a sufficient supply of willing contributors that want to participate it would be easy enough to replace low performing contributors with other potential candidates.
 
-###
+
 
 ## Performance incentives
 
