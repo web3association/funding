@@ -16,7 +16,7 @@ You cannot prevent people from delegating their vote to other people as the abil
 
 ## Example differences in community member participation
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/funding-process-participation.jpg" alt=""><figcaption></figcaption></figure>
 
 The above example helps to illustrate how different people may want to participate in an ecosystems funding decisions:
 
