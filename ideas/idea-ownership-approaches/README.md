@@ -4,7 +4,7 @@ description: Comparing the different approaches that could be used for idea owne
 
 # Idea ownership approaches
 
-The ownership of ideas can heavily influence how they will be governed, executed, changed and supported over time.
+The ownership of ideas can heavily influence how they will be governed, executed and maintained over time.
 
 
 
