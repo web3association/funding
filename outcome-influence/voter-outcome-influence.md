@@ -6,13 +6,9 @@ description: >-
 
 # Voter outcome influence
 
-Voter outcome influence means determining what amount of influence should the voters have on the outcome of something. This could influence the voting outcome or influence how something is being approached through sharing feedback and preferences.
+Voter outcome influence means thinking about what amount of influence the voters should have when making a decision and voting on a specific outcome. The amount of influence that a voter has on determining any specific outcome could sit anywhere along a range of low influence to high influence. This amount of influence will depend on how the funding systems and processes have been designed.
 
-The influence that voters have on any specific outcome could sit anywhere along a range of low influence to high influence depending on how the funding systems and processes have been designed.
-
-The more influence that the voter is given over the outcomes of planning, decisions and execution the more responsibility they are being given to make optimal decisions by keeping themselves well informed. A funding process can provide different levels of influence to voters for different processes and use cases.
-
-Voter influence could range from being a light suggestion that is meant to be listened to and interpreted but isn’t enforced towards a more high influence situation where an exact outcome achieved after a decision is made.
+The higher the influence that the voters are given to decide the outcomes of decisions and planning efforts the more important it becomes for them to be well informed and heavily involved in the funding process. More voting outcome influence increases the cost of participation and complexity for the voters but gives them more control over the exact outcomes. A funding process will benefit from thinking about what level of influence is important for each part of a funding process to minimise the complexity and time it takes for voters to participate.
 
 
 
@@ -26,7 +22,7 @@ Some potential examples of different levels of influence a voter could have over
 
 
 
-The more influence the voter is given on the outcome the more responsibility they are being given to determine what funding submissions could help create the most impactful outcomes for the ecosystem. Voters will only have so much capacity and willingness to participate in voting. One key comparison that could be made with this in mind is which processes are of the highest importance that the voter has the highest level of influence over the outcomes and where is this less essential for the funding process. Achieving this will make a more scalable funding process as voters have limited time and capacity needs to be focussed on the highest impact areas that voters both can and want to influence.
+The more influence the voter is given on the outcome the more responsibility they are being given to determine what funding submissions could help with creating the most impactful outcomes for the ecosystem. Voters will only have so much capacity and willingness to participate in voting. One key comparison that could be made with this in mind is which processes are of the highest importance that the voter has the highest level of influence over the outcomes and where is this less essential for the funding process. Achieving this will make a more scalable funding process as voters have limited time and capacity needs to be focussed on the highest impact areas that voters both can and want to influence.
 
 AI will become an increasingly important factor that could change how both voters and contributors participate in governance decisions. Voters or contributors may decide to delegate some or all of their voting responsibilities to an AI when tasked with certain decisions. Voters could still personally each have the same influence over the outcome of these different decisions, however the approach they use to arrive at that decision could change drastically over time.
 
