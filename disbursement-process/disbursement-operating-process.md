@@ -34,7 +34,7 @@ Each of the funding processes are covered in more detail in the following docume
 
 ## **Funding process comparisons**
 
-Each of the funding processes can be compared with each other to better understand the amount of information that is involved, theirs rate of change, how important each one is for funding, how responsibilities could be delegated in each of the processes and the overall complexity of each process:&#x20;
+Each of the funding processes can be compared with each other to better understand the amount of information that is involved, the rates of change, how important each one is for funding, how responsibilities could be delegated in each of the processes and the overall complexity of each process:&#x20;
 
 {% content-ref url="process-information.md" %}
 [process-information.md](process-information.md)
