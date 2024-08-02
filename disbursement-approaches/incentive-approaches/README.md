@@ -59,7 +59,7 @@ To compare these funding process incentive approaches a number of [factors have 
 
 
 
-**Decision approaches analysis**
+**Incentive approaches analysis**
 
 {% content-ref url="incentive-factors-for-consideration.md" %}
 [incentive-factors-for-consideration.md](incentive-factors-for-consideration.md)
