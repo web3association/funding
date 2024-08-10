@@ -12,7 +12,7 @@ description: Overview of the different processes involved in treasury funding
 
 The [general purpose operating process](https://app.gitbook.com/s/qIN4B3DGHPqKOl7e6VuV/web3-treasuries/operating-process) can be applied more directly to the treasury funding process. Applying this process can help with thinking about how each of the processes involved in funding could be improved over time and how funding and each of its processes can play an important role in helping an ecosystem achieve its priorities and generate impact for the ecosystem.
 
-Each of the funding processes are covered in more detail in the following documentation:
+Each part of the funding process is covered in more detail in the following documentation:
 
 {% content-ref url="../knowledge/adoption-of-knowledge-systems.md" %}
 [adoption-of-knowledge-systems.md](../knowledge/adoption-of-knowledge-systems.md)
