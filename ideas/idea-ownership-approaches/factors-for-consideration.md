@@ -4,7 +4,7 @@ description: Factors for consideration for different idea ownership approaches
 
 # Idea ownership factors for consideration
 
-The [methodology](https://docs.treasuries.co/analysis/approach-comparison-methodology) used for this approach comparison is documented separately.
+The [methodology](https://docs.treasuries.io/analysis/approach-comparison-methodology) used for this approach comparison is documented separately.
 
 
 
