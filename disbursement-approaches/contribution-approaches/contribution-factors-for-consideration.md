@@ -6,7 +6,7 @@ description: >-
 
 # Contribution factors for consideration
 
-The [methodology](https://docs.treasuries.co/analysis/approach-comparison-methodology) used for this approach comparison is documented separately.
+The [methodology](https://docs.treasuries.io/analysis/approach-comparison-methodology) used for this approach comparison is documented separately.
 
 
 
