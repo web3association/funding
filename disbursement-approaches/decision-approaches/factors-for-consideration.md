@@ -33,7 +33,7 @@ The [methodology](https://docs.treasuries.io/analysis/approach-comparison-method
 * **Description** - An expressive voting system means that voters are able to express their opinions and preferences through their voting decisions.
 * **Importance score** - 5, Very important. To properly understand what the current sentiment and preferences are of a community it is important that voters are able to express what their exact preferences are when voting and sharing their opinions.
 * **Scoring questions** - Can a voter specify exactly what their preferences are given a set of different decisions or are they limited in only being able to respond to what has been presented to them instead of their actual preferences? How much potential information is lost with the approach being taken?
-* **Scoring** - Higher expressiveness is good (Score - 5). Lower expressiveness is bad (Score - 1).
+* **Scoring** - Higher expressiveness is good (Score - 5). Lower expressiveness is bad (Score - 1).]
 
 
 
