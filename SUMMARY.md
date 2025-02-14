@@ -14,6 +14,13 @@
 
 ## Approaches
 
+* [Token funding vs network funding](approaches/token-funding-vs-network-funding/README.md)
+  * [Circular economy ideas](approaches/token-funding-vs-network-funding/circular-economy-ideas.md)
+  * [Web2 protocols & software library examples](approaches/token-funding-vs-network-funding/web2-protocols-and-software-library-examples.md)
+  * [Ecosystem funding factors for consideration](approaches/token-funding-vs-network-funding/ecosystem-funding-factors-for-consideration.md)
+  * [Token funding](approaches/token-funding-vs-network-funding/token-funding.md)
+  * [Network funding](approaches/token-funding-vs-network-funding/network-funding.md)
+  * [Funding the network, protocol and application layers](approaches/token-funding-vs-network-funding/funding-the-network-protocol-and-application-layers.md)
 * [Contribution approaches](disbursement-approaches/contribution-approaches/README.md)
   * [Contribution factors for consideration](disbursement-approaches/contribution-approaches/contribution-factors-for-consideration.md)
   * [Fully combined submission](disbursement-approaches/contribution-approaches/fully-combined-submission.md)

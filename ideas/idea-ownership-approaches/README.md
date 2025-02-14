@@ -17,7 +17,7 @@ Some of these different idea ownership approaches include:
 
 
 
-To compare these approaches a number of [factors have been considered](factors-for-consideration.md) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
+To compare these approaches a number of [factors have been considered](broken-reference) and then applied to each approach to better understand the potential advantages and drawbacks of each approach.
 
 <figure><img src="../../.gitbook/assets/idea-ownership-approaches.png" alt=""><figcaption></figcaption></figure>
 
@@ -25,8 +25,8 @@ To compare these approaches a number of [factors have been considered](factors-f
 
 **Idea ownership approach analysis**
 
-{% content-ref url="factors-for-consideration.md" %}
-[factors-for-consideration.md](factors-for-consideration.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="owned-ideas-with-fixed-leadership.md" %}
@@ -75,11 +75,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 ## Owned ideas
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/owned-ideas.png" alt="" width="320"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/owned-ideas.png" alt="" width="320"><figcaption></figcaption></figure></div>
 
 
 
@@ -112,11 +108,7 @@ Selecting leadership is difficult irregardless of whether it is an owned or shar
 
 ## Shared ideas
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/shared-ideas.png" alt="" width="320"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/shared-ideas.png" alt="" width="320"><figcaption></figcaption></figure></div>
 
 
 
