@@ -43,7 +43,7 @@ To compare these ecosystem funding approaches a number of [factors have been con
 
 <figure><img src="../../.gitbook/assets/ecosystem-funding-approaches (1).png" alt=""><figcaption></figcaption></figure>
 
-To compare these ecosystem funding approaches a number of [factors have been considered](broken-reference) and then applied to each approach to try and determine any strengths and weaknesses of each one.
+To compare these ecosystem funding approaches a number of [factors have been considered](ecosystem-funding-factors-for-consideration.md) and then applied to each approach to try and determine any strengths and weaknesses of each one.
 
 
 

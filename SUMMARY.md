@@ -113,4 +113,4 @@
 
 * [Treasuries](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/qIN4B3DGHPqKOl7e6VuV/)
 * [Income](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/ZoHfKJYKPW9AnonUHAUO/)
-* [Suggestions](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/Ukt8Fg94mYDaa1gNVCJq/)
+* [Governance](https://app.gitbook.com/o/jOQu4b6VLDxaQsg2rVwG/s/hF4E7bptYBBLKtLpZZmT/)
