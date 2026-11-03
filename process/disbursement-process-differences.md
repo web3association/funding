@@ -6,18 +6,13 @@ description: >-
 
 # Funding process differences
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/funding-process-differences.png" alt="" width="563"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/funding-process-differences.png" alt="" width="563"><figcaption></figcaption></figure></div>
 
 There are a number of similarities and differences between corporation and nation state funding processes with Web3 ecosystem funding processes. Some of the key differences that have an impact on the whole process is that Web3 funding processes will often have a higher number of voting participants, a lower amount of incentives to reward voters and a lower amount of voter responsibility.
 
 Many Web3 ecosystems still have the founding entities, often in the form of a foundation, that help with managing an ecosystem's treasury. These foundations are often able to make unilateral decisions about what should be prioritised in the ecosystem when deciding how to disburse treasury assets. This has the obvious issue that it is more centralised in decision making and not necessarily representative of what the communities preferences currently are. Although this structure may have been an easier and quicker starting point for many Web3 ecosystems to start with, it is often not a preferred long term solution. Much of the appeal of the cryptocurrency movement is the idea that centralised actors with too much influence and power can be removed through the adoption of blockchain and distributed ledger technology. To fully remove middlemen and centralised actors it will be important for Web3 ecosystems to develop treasury systems and processes that help with migrating the voting power and influence over treasury funding towards the entire community.
 
-\
-
+<br>
 
 **Number of participants**
 
